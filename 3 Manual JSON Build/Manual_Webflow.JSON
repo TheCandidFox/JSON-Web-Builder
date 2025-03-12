@@ -1,0 +1,21 @@
+{
+    "section": "Hero 1",
+    "Nested Content": {
+        "div": "padding-global",
+        "Nested Content": {
+            "div": "container-large",
+            "Nested Content": {
+                "div": "header_ticker-embed w-embed",
+                "Style": {
+                    "scroll": "IDK HOW TO DO KEYFRAME"
+                },
+                "div": "w-layout-grid header_grid-2-col",
+                "Nested Content": {
+                    "div": "w-node-afad3537-8c91-cdfb-f5d9-683f7e6d1b29-40d95c97"
+                }
+            }
+        }
+    }
+
+}
+
