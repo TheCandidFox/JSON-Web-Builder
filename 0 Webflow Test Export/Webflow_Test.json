@@ -1,0 +1,73 @@
+{
+    "section": "Hero 1",
+    "styles": {
+        "backgroundColor": "#000",
+        "width": "100vw",
+        "height": "100vh"
+    },
+    "content": {
+        "header": {
+            "text": "Your Hero Heading Here",
+            "subtext": "Supporting text for the hero section."
+        },
+        "elements": [
+            {
+                "type": "div",
+                "class": "header_ticker-embed",
+                "description": "Container for embedded header ticker animation.",
+                "styles": {
+                    "position": "absolute",
+                    "top": "0px",
+                    "left": "0px",
+                    "width": "100%",
+                    "height": "50px",
+                    "overflow": "hidden"
+                }
+            },
+            {
+                "type": "div",
+                "class": "header_ticker-image",
+                "description": "Lowest nested element containing scrolling image ticker.",
+                "styles": {
+                    "width": "auto",
+                    "height": "50px",
+                    "animation": "scrollTicker 10s linear infinite"
+                }
+            },
+            {
+                "type": "h1",
+                "class": "hero-title",
+                "text": "Welcome to Our Hero Section",
+                "styles": {
+                    "color": "#fff",
+                    "fontSize": "48px",
+                    "fontWeight": "bold",
+                    "textAlign": "center"
+                }
+            },
+            {
+                "type": "p",
+                "class": "hero-subtext",
+                "text": "This is a sample hero section pulled from Webflow.",
+                "styles": {
+                    "color": "#ddd",
+                    "fontSize": "18px",
+                    "textAlign": "center"
+                }
+            },
+            {
+                "type": "button",
+                "class": "hero-button",
+                "text": "Get Started",
+                "link": "#",
+                "styles": {
+                    "backgroundColor": "#ff6600",
+                    "color": "#fff",
+                    "padding": "12px 24px",
+                    "borderRadius": "5px",
+                    "fontSize": "16px"
+                }
+            }
+        ]
+    }
+}
