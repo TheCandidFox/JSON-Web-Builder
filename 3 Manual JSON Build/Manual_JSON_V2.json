@@ -1,0 +1,83 @@
+{
+    "section.1": {
+        "section": "",
+        "class": "hero-1",
+        "section.1-contains": {
+            "div.1": {
+                "div": "",
+                "class": "padding-global",
+                "div.1-contains": {
+                    "div.2": {
+                        "div": "",
+                        "class": "container-large",
+                        "div.2-contains": {
+                            "div.3": {
+                                "div": "",
+                                "class": "header_ticker-embed w-embed",
+                                "div.3-contains": {
+                                    "style1": {
+                                        "style": "TODO | FIGURE THIS PART OUT"
+                                    }
+                                }
+                            },
+                            "div.4": {
+                                "div": "",
+                                "class": "w-layout-grid header_grid 2 col",
+                                "div.4-contains": {
+                                    "div.5": {
+                                        "div": "",
+                                        "id": "w-node-afad3537-8c91-cdfb-f5d9-683f7e6d1b29-40d95c97",
+                                        "class": "padding-vertial padding-huge",
+                                        "div.5-contains": {
+                                            "div.6":{
+                                                "div": "",
+                                                "class": "margin-bottom margin-custom2",
+                                                "div.6-contains": {
+                                                    "h1.1": {
+                                                        "h1": "Safe, Efficient Tree Service for Small to Medium Projects",
+                                                        "class": "heading-style-h3-2"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "div.7": {
+                                            "div": "",
+                                            "class": "div-block 13",
+                                            "div.7-contains": {
+                                                "ul.1": {
+                                                    "ul": "",
+                                                    "role": "list",
+                                                    "ul.1-contians": {
+                                                        "li.1":{
+                                                            "li": "Insured for your peace of mind",
+                                                            "class": "header-list"
+                                                        },
+                                                        "li.2": {
+                                                            "li": "Offering fast Scheduling",
+                                                            "class": "header-list"
+                                                        },
+                                                        "li.3": {
+                                                            "li": "Open Pricing",
+                                                            "class": "header-list"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "div.8": {
+                                            "div": "",
+                                            "class": "margin-top margin-small",
+                                            "div.8-contains": {
+                                                
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

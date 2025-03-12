@@ -1,0 +1,130 @@
+{
+    "section1": "hero-1",
+    "section1-contains":{
+        "div1": {
+            "class": "padding-global"
+        },
+        "div1-contains":{
+            "div2": {
+                "class": "container-large"
+            },
+            "div2-contains":{
+                "div3":{
+                    "class": "header_ticker-embed w-embec",
+                    "div3-contains": {
+                        "styles": "Determine how to format keyframes"
+                    }
+                },
+                "div4":{
+                    "class": "w-layout-grid header_grid-2-col",
+                    "div4-contains": {
+                        "div5": {
+                            "id": "w-node-afad3537-8c91-cdfb-f5d9-683f7e6d1b29-40d95c97",
+                            "class": "padding-vertical padding-huge",
+                            "div5-contains": {
+                                "div6": {
+                                    "class": "margin-bottom margin-custom2",
+                                    "div6-contains": {
+                                        "h1": "Safe, Efficient Tree Service for Small to Medium Projects",
+                                        "class": "heading-style-h3-2",
+                                    }
+                                },
+                                "div7": {
+                                    "class": "div-block-13",
+                                    "div7-contains": {
+                                        "ul": {
+                                            "role": "list",
+                                            "ul-contains": {
+                                                "li1":{
+                                                    "li": "Insured for your peace of mind",
+                                                    "class": "header-list"
+                                                },
+                                                "li2": {
+                                                    "li": "Offering fast scheduling",
+                                                    "class": "header-list"
+                                                },
+                                                "li3": {
+                                                    "li": "Open Pricing",
+                                                    "class": "header-list"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "div8": {
+                                    "class": "margin-top margin-small",
+                                    "div8-contains": {
+                                        "div9": {
+                                            "class": "button-group",
+                                            "div9-contains": {
+                                                "a1": {
+                                                    "a": "",
+                                                    "href": "#",
+                                                    "class": "cta w-inline-block",
+                                                    "a1-contains": {
+                                                        "div10": "About us"
+                                                    }
+                                                },
+                                                "a2": {
+                                                    "a": "",
+                                                    "href": "#",
+                                                    "class": "cta secondary w-inline-block",
+                                                    "a2-contains": {
+                                                        "div11":{
+                                                            "div": "Services"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "div12": {
+                                            "div": "Free estimates, no hidden fees. 20% down payment may apply.",
+                                            "class": "text-block",
+
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "div13": {
+                        "div": "",
+                        "class": "header_ticker-wrapper",
+                        "div13-contains": {
+                            "div14": {
+                                "div": "",
+                                "class": "header_ticker-fade-out"
+                            },
+                            "div15": {
+                                "div": "",
+                                "class": "header_ticker-fade-out is-bottom"
+                            },
+                            "div16": {
+                                "div": "",
+                                "class": "header_ticker-column",
+                                "div16-contains": {
+                                    "div17": {
+                                        "div": "",
+                                        "class": "header_ticker-group",
+                                        "div17-contains": {
+
+
+
+
+
+
+
+
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}
+
