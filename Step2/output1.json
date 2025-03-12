@@ -1,0 +1,14 @@
+{
+    "header": {
+        "backgroundColor": "#333",
+        "textColor": "#fff",
+        "navLinks": ["Home", "Services", "Contact"]
+    },
+    "hero": {
+        "backgroundColor": "#f4f4f4",
+        "textColor": "#000",
+        "title": "Welcome to Our Company",
+        "subtitle": "Quality services at your doorstep",
+        "image": "assets/hero1.jpg"
+    }
+}

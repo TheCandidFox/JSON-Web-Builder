@@ -1,0 +1,14 @@
+{
+    "header": {
+        "backgroundColor": "#222",
+        "textColor": "#ffcc00",
+        "navLinks": ["Portfolio", "Pricing", "Testimonials"]
+    },
+    "hero": {
+        "backgroundColor": "#e0e0e0",
+        "textColor": "#222",
+        "title": "Discover Our Work",
+        "subtitle": "We turn ideas into reality",
+        "image": "assets/hero2.jpg"
+    }
+}

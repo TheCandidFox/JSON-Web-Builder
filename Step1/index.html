@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static Page</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; background-color: #ffffff; color: #333; }
+        nav { background: #444; padding: 10px; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-size: 18px; }
+        .hero { padding: 50px; background: #ddd; }
+        .hero h1 { font-size: 28px; color: #222; }
+        .hero p { font-size: 18px; color: #555; }
+        .hero img { width: 200px; margin-top: 20px; }
+        button { margin-top: 20px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+    </nav>
+
+    <div class="hero">
+        <h1>Welcome to My Website</h1>
+        <p>This is a static hero section.</p>
+        <img src="https://via.placeholder.com/200" alt="Placeholder Image">
+    </div>
+
+    <button id="injectButton">Dynamic Injection</button>
+
+    <script src="app.js"></script>
+
+</body>
+</html>

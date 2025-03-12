@@ -1,0 +1,19 @@
+{
+    "navLinks": [
+        { "text": "Home", "href": "#" },
+        { "text": "Portfolio", "href": "#" },
+        { "text": "Contact", "href": "#" }
+    ],
+    "heroSection": {
+        "title": "Dynamic Content Loaded",
+        "text": "This content was injected after pressing the button.",
+        "image": "https://via.placeholder.com/300",
+        "styles": {
+            "backgroundColor": "#222",
+            "headingColor": "#f4a261",
+            "headingSize": "36px",
+            "textColor": "#e9c46a",
+            "textSize": "20px"
+        }
+    }
+}
