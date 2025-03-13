@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clipboard Test for Webflow</title>
+</head>
+<body>
+    <h2>Copy Webflow JSON</h2>
+    <button id="copyButton">Copy JSON to Clipboard</button>
+    
+    <h2>Paste Clipboard Content Here:</h2>
+    <textarea id="pasteArea" placeholder="Paste here (Ctrl + V)" rows="10" cols="50"></textarea>
+
+    <script>
+        async function copyWebflowJson() {
+            const webflowJson = {
+                "type": "@webflow/XscpData",
+                "payload": {
+                    "nodes": [
+                        {
+                            "_id": "custom-div-123",
+                            "type": "Block",
+                            "tag": "div",
+                            "classes": ["custom-class"],
+                            "children": ["child-text-456"],
+                            "data": {
+                                "tag": "div",
+                                "displayName": "Custom Div"
+                            }
+                        },
+                        {
+                            "_id": "child-text-456",
+                            "text": true,
+                            "v": "Hello, Webflow!"
+                        }
+                    ],
+                    "styles": [
+                        {
+                            "_id": "custom-class",
+                            "type": "class",
+                            "name": "Custom Class",
+                            "styleLess": "color: red; font-size: 24px;"
+                        }
+                    ]
+                }
+            };
+
+            try {
+                const blob = new Blob([JSON.stringify(webflowJson)], { type: "application/json" });
+                const clipboardItem = new ClipboardItem({ "application/json": blob });
+                await navigator.clipboard.write([clipboardItem]);
+                alert("✅ JSON copied! Now try pasting into Webflow or below.");
+            } catch (error) {
+                console.error("Clipboard write failed:", error);
+                alert("❌ Failed to copy JSON. Check browser permissions.");
+            }
+        }
+
+        document.getElementById("copyButton").addEventListener("click", copyWebflowJson);
+    </script>
+</body>
+</html>
