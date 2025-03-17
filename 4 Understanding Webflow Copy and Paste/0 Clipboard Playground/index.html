@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clipboard Payload Tester</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="banner" class="banner green">Ready for the next test!</div>
+    
+    <div class="container">
+        <textarea id="pasteBox" placeholder="Paste plain text here..."></textarea>
+        <button id="testClipboard">Test Clipboard</button>
+        <button id="reset">Reset</button>
+    </div>
+
+    <div id="outputContainer">
+        <h3>Payload Type:</h3>
+        <p id="payloadType">None</p>
+
+        <h3>Raw Output (Max 750 chars):</h3>
+        <p id="payloadOutput">None</p>
+
+        <div id="imageContainer"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
