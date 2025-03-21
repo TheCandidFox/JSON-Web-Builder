@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Clipboard Payload Tester</title>
     <link rel="stylesheet" href="styles.css">
+
+    <!-- JSONEditor (CDN version) -->
+    <link href="https://cdn.jsdelivr.net/npm/jsoneditor@9.10.0/dist/jsoneditor.min.css" rel="stylesheet" type="text/css">
+    <script src="https://cdn.jsdelivr.net/npm/jsoneditor@9.10.0/dist/jsoneditor.min.js"></script>
+
 </head>
 <body>
     <div id="banner" class="banner green">Ready for the next test!</div>
@@ -13,6 +18,9 @@
         <textarea id="pasteBox" placeholder="Paste plain text here..."></textarea>
         <button id="testClipboard">Test Clipboard</button>
         <button id="reset">Reset</button>
+        <button id="JSON"> Copy JSON</button>
+        <button id="testJSON">Test JSON</button>
+
     </div>
 
     <div id="outputContainer">

@@ -48,3 +48,46 @@ button {
     max-width: 100%;
     margin-top: 10px;
 }
+
+.clipboard-item {
+    background: #f4f4f4;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 12px;
+  }
+  pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  
+  .clipboard-item {
+    background: #f9f9f9;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .clipboard-item strong {
+    display: block;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+  }
+  
+  .clipboard-item pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: monospace;
+  }
+  
+  .clipboard-item img {
+    display: block;
+    margin: 0.5em auto 1em auto;
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
