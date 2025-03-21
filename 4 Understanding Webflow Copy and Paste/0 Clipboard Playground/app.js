@@ -10,6 +10,8 @@ function main() {
     setupResetButton(elements);
     setupJSONButton(elements);
     setupTestJSONButton(elements);
+    setupJSONPasteHandler(elements);
+
 
 
     // Initial UI State
@@ -31,6 +33,8 @@ function getElements() {
         payloadOutput: document.getElementById("payloadOutput"),
         imageContainer: document.getElementById("imageContainer"),
         testJSONButton: document.getElementById("testJSON"),
+        jsonPasteBox: document.getElementById("jsonPasteBox")
+
 
     };
 }
@@ -114,43 +118,77 @@ function setupJSONButton({ JSONButton }) {
     JSONButton.addEventListener("click", pasteJSON);
 }
 
-function setupTestJSONButton({ testJSONButton, imageContainer }) {
-    testJSONButton.addEventListener("click", async () => {
-        imageContainer.innerHTML = ""; // Clear previous output
-        alert("✅ JSON Testing In-Progres!");
+function setupTestJSONButton({ testJSONButton }) {
+    testJSONButton.addEventListener("click", () => {
+        const catcher = document.getElementById("jsonPasteCatcher");
 
+        // Clear previous value and focus the textarea
+        catcher.value = "";
+        catcher.focus();
 
-        try {
-            const clipboardItems = await navigator.clipboard.read();
+        alert("📋 Press Ctrl+V / Cmd+V to paste your JSON payload.");
+    });
 
-            if (!clipboardItems.length) {
-                alert("Clipboard is empty.");
-                return;
-            }
+    document.getElementById("jsonPasteCatcher").addEventListener("paste", (e) => {
+        e.preventDefault();
 
-            for (const item of clipboardItems) {
-                for (const type of item.types) {
-                    const blob = await item.getType(type);
-                    const text = await blob.text();
+        const container = document.getElementById("imageContainer");
+        container.innerHTML = ""; // Clear previous
 
-                    console.log(`📋 MIME: ${type}`);
-                    console.log(text);
+        for (const item of e.clipboardData.items) {
+            const { kind, type } = item;
+            if (kind === "string") {
+                item.getAsString((content) => {
+                    console.log({ type, content });
 
                     const block = document.createElement("div");
                     block.classList.add("clipboard-item");
                     block.innerHTML = `
                         <strong>Type:</strong> ${type}<br>
-                        <pre>${text}</pre>
+                        <pre>${content}</pre>
                         <hr>
                     `;
-                    imageContainer.appendChild(block);
-                }
+                    container.appendChild(block);
+                });
             }
-        } catch (err) {
-            alert("Error reading clipboard: " + err.message);
         }
     });
 }
+
+jsonPasteBox.addEventListener("paste", (e) => {
+    e.preventDefault();
+    imageContainer.innerHTML = "";
+    alert("📋 JSON Reading In-Progress.");
+
+    console.log("🔎 clipboardData.items:", e.clipboardData.items);
+
+    for (const item of e.clipboardData.items) {
+        console.log("🔧 Found item:", item);
+
+        const { kind, type } = item;
+        console.log("📎 Kind:", kind, "| Type:", type);
+
+        if (kind === "string") {
+            item.getAsString((content) => {
+                console.log("📋 Raw content:", content);
+
+                try {
+                    const parsed = JSON.parse(content);
+                    const pretty = JSON.stringify(parsed, null, 2);
+                    displayClipboardItem({ type: "application/json", content: pretty }, imageContainer);
+                } catch (err) {
+                    console.warn("⚠️ Not valid JSON. Displaying as raw string.");
+                    displayClipboardItem({ type, content }, imageContainer);
+                }
+            });
+        } else {
+            console.warn("⚠️ Skipped non-string kind:", kind);
+        }
+    }
+});
+
+
+
 
 // ---------------------------
 // UI LOGIC
