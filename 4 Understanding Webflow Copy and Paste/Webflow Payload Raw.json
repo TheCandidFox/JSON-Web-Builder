@@ -1,0 +1,372 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "3be29c62-fc54-35c4-f17a-3d68aa061d07",
+        "type": "Section",
+        "tag": "section",
+        "classes": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5cae6"
+        ],
+        "children": [
+          "223cc0f4-e4e3-1655-c66f-c24136f5fcfc"
+        ],
+        "data": {
+          "tag": "section",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "grid": {
+            "type": "section"
+          }
+        }
+      },
+      {
+        "_id": "2f23cc04-e4e3-1655-c66f-c24136f5fcfc",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5cae7"
+        ],
+        "children": [
+          "9b286e20-d272-b382-0405-1740e0e11661"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "9b286e20-d272-b382-0405-1740e0e11661",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5cae8"
+        ],
+        "children": [
+          "27c46d09-8835-dfaf-3740-87937d50c063",
+          "2116ca97-5c0a-3f0d-0fcf-3d1bcd03b700",
+          "ca807162-6c3b-602d-73f8-fd8426ac4b6b",
+          "e24aad1b-1c23-6c83-d6b0-41a9c8c99222"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "27c46d09-8835-dfaf-3740-87937d50c063",
+        "type": "Heading",
+        "tag": "h1",
+        "classes": [],
+        "children": [
+          "59491850-b301-c114-146c-a939c187c093"
+        ],
+        "data": {
+          "tag": "h1",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "59491850-b301-c114-146c-a939c187c093",
+        "text": true,
+        "v": "Title copy goes here"
+      },
+      {
+        "_id": "2116ca97-5c0a-3f0d-0fcf-3d1bcd03b700",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5cae9"
+        ],
+        "children": [
+          "aaf938b8-e647-e592-0b52-5d9791f9a9e3"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "aaf938b8-e647-e592-0b52-5d9791f9a9e3",
+        "text": true,
+        "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum."
+      },
+      {
+        "_id": "ca807162-6c3b-602d-73f8-fd8426ac4b6b",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5caea"
+        ],
+        "children": [
+          "e085a237-76ef-9572-0218-577aff4d9d46"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "eventIds": [],
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "e085a237-76ef-9572-0218-577aff4d9d46",
+        "text": true,
+        "v": "Get Started"
+      },
+      {
+        "_id": "e24aad1b-1c23-6c83-d6b0-41a9c8c99222",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5caeb",
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5caec"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "6272f5815b57c07cd6dbfade"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124af1aa12aadf_placeholder%201.svg",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [],
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      }
+    ],
+    "styles": [
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5cae6",
+        "fake": false,
+        "type": "class",
+        "name": "Hero Stack",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; padding-top: 80px; padding-right: 30px; padding-bottom: 80px; padding-left: 30px; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(212.00000000000006, 38.46%, 92.35%, 1.00); background-color: hsla(216, 33.33%, 97.06%, 1.00);",
+        "variants": {
+          "small": {
+            "styleLess": "padding-top: 60px; padding-right: 15px; padding-bottom: 60px; padding-left: 15px;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5cae7",
+        "fake": false,
+        "type": "class",
+        "name": "Container",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100%; max-width: 940px; margin-right: auto; margin-left: auto;",
+        "variants": {
+          "medium": {
+            "styleLess": "max-width: 728px;"
+          },
+          "tiny": {
+            "styleLess": "max-width: none;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5cae8",
+        "fake": false,
+        "type": "class",
+        "name": "Hero Wrapper Two",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; max-width: 750px; margin-right: auto; margin-left: auto; flex-direction: column; justify-content: flex-start; align-items: center; text-align: center;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5cae9",
+        "fake": false,
+        "type": "class",
+        "name": "Margin bottom 24px",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 24px;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5caea",
+        "fake": false,
+        "type": "class",
+        "name": "Button Primary",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 12px; padding-right: 25px; padding-bottom: 12px; padding-left: 25px; background-color: #1a1b1f; transition-property: all; transition-duration: 200ms; transition-timing-function: ease; color: hsla(0, 0.00%, 100.00%, 1.00); font-size: 12px; line-height: 20px; letter-spacing: 2px; text-transform: uppercase;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: #32343a; color: hsla(0, 0.00%, 100.00%, 1.00);"
+          },
+          "main_active": {
+            "styleLess": "background-color: #43464d;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5caeb",
+        "fake": false,
+        "type": "class",
+        "name": "Hero Image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100%; margin-top: 50px;",
+        "variants": {},
+        "children": [
+          "0f6a507f-5c1f-3a4f-cecc-526f80e5caec"
+        ],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0f6a507f-5c1f-3a4f-cecc-526f80e5caec",
+        "fake": false,
+        "type": "class",
+        "name": "Shadow Two",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [],
+    "ix1": [],
+    "ix2": {
+      "interactions": [],
+      "events": [],
+      "actionLists": []
+    }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}

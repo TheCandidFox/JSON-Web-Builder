@@ -291,8 +291,10 @@ function displayClipboardItem({ type, content }, container) {
         // ✅ Fix: include status line *inside* the string
         wrapper.innerHTML = `
             <strong>Type: ${type}</strong><br>
-            <em>JSONEditor status: ${typeof JSONEditor}</em>
+            <em>JSONEditor status: ${typeof JSONEditor}</em><br>
+            <button class="copy-json-btn">📋 Copy JSON</button>
         `;
+
         wrapper.appendChild(jsonContainer);
 
         try {
@@ -302,6 +304,18 @@ function displayClipboardItem({ type, content }, container) {
                 mainMenuBar: false
             });
             editor.set(parsedJSON);
+            // Hook up copy button
+const copyBtn = wrapper.querySelector(".copy-json-btn");
+copyBtn.addEventListener("click", async () => {
+    try {
+        const currentJSON = editor.get(); // get value from JSONEditor
+        const stringified = JSON.stringify(currentJSON, null, 2);
+        await navigator.clipboard.writeText(stringified);
+        alert("✅ JSON copied to clipboard!");
+    } catch (err) {
+        alert("❌ Failed to copy JSON: " + err.message);
+    }
+});
         } catch (err) {
             wrapper.innerHTML += `<div style="color:red;">Error parsing JSON: ${err.message}</div>`;
         }
