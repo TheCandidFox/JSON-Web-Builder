@@ -1,0 +1,309 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "e72365c4-0f81-e629-8599-6eb2c35641d4",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "c65b9521-2e11-fa79-2932-9ee4fe011e25"
+          ],
+          "children": [
+            "f0579dae-9958-89f9-7654-e8f74ce65278"
+          ],
+          "data": {
+            "tag": "section",
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "f0579dae-9958-89f9-7654-e8f74ce65278",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8b"
+          ],
+          "children": [
+            "da2915c8-5b48-3e9e-e80d-be6717f56ceb"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "da2915c8-5b48-3e9e-e80d-be6717f56ceb",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8d"
+          ],
+          "children": [
+            "9c3800a1-b22d-4ee6-4650-cc9709724521",
+            "583a8ad1-b5c4-9392-cac2-3da485ebd134"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "9c3800a1-b22d-4ee6-4650-cc9709724521",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8e"
+          ],
+          "children": [
+            "21f360cd-8f1e-cd2f-5c8f-b69eb1e1e9af"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "21f360cd-8f1e-cd2f-5c8f-b69eb1e1e9af",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce91"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "6272ff2f2043ec899f7e6449"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a28a812aad9_placeholder%202.svg",
+              "loading": "lazy"
+            },
+            "sizes": []
+          }
+        },
+        {
+          "_id": "583a8ad1-b5c4-9392-cac2-3da485ebd134",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8e"
+          ],
+          "children": [
+            "e2fa1d8b-bde0-384d-97a5-f998db59c83a",
+            "f43ce9d3-d8c8-2436-0204-bdf438c725a3",
+            "7843e407-82d0-1609-32e2-3a77ce677816"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "e2fa1d8b-bde0-384d-97a5-f998db59c83a",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [],
+          "children": [
+            "d4a5af15-a3f3-67e0-a8e4-009d79728a92"
+          ],
+          "data": {
+            "tag": "h1"
+          }
+        },
+        {
+          "_id": "d4a5af15-a3f3-67e0-a8e4-009d79728a92",
+          "text": true,
+          "v": "Title copy goes here"
+        },
+        {
+          "_id": "f43ce9d3-d8c8-2436-0204-bdf438c725a3",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8f"
+          ],
+          "children": [
+            "cd70c9b9-6337-7b66-d4bd-090aa343dfce"
+          ]
+        },
+        {
+          "_id": "cd70c9b9-6337-7b66-d4bd-090aa343dfce",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum."
+        },
+        {
+          "_id": "7843e407-82d0-1609-32e2-3a77ce677816",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce90"
+          ],
+          "children": [
+            "18c193fe-bf49-d025-3c6d-1ecfe1ff7274"
+          ],
+          "data": {
+            "button": true,
+            "block": "",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": []
+          }
+        },
+        {
+          "_id": "18c193fe-bf49-d025-3c6d-1ecfe1ff7274",
+          "text": true,
+          "v": "Get Started"
+        }
+      ],
+      "styles": [
+        {
+          "_id": "c65b9521-2e11-fa79-2932-9ee4fe011e25",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Heading Right",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 80px; padding-right: 30px; padding-bottom: 80px; padding-left: 30px; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(212.00000000000006, 38.46%, 92.35%, 1.00); background-color: hsla(216, 33.33%, 97.06%, 1.00);",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 60px; padding-right: 15px; padding-bottom: 60px; padding-left: 15px;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8b",
+          "fake": false,
+          "type": "class",
+          "name": "Container 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 940px; margin-right: auto; margin-left: auto;",
+          "variants": {
+            "medium": {
+              "styleLess": "max-width: 728px;"
+            },
+            "tiny": {
+              "styleLess": "max-width: none;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8d",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: space-between; align-items: center;",
+          "variants": {
+            "medium": {
+              "styleLess": "margin-bottom: -40px; flex-direction: column; justify-content: flex-start; align-items: flex-start;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8e",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Split",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; max-width: 46%; flex-direction: column; justify-content: flex-start; align-items: flex-start;",
+          "variants": {
+            "medium": {
+              "styleLess": "max-width: 100%; margin-bottom: 40px;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce91",
+          "fake": false,
+          "type": "class",
+          "name": "Shadow Two",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "box-shadow: 0 4px 24px 0 hsla(214.83870967741936, 17.32%, 64.90%, 0.08);",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8f",
+          "fake": false,
+          "type": "class",
+          "name": "Margin bottom 24px 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 24px;",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce90",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "padding-top: 12px; padding-right: 25px; padding-bottom: 12px; padding-left: 25px; background-color: #1a1b1f; transition-property: all; transition-duration: 200ms; transition-timing-function: ease; color: hsla(0, 0.00%, 100.00%, 1.00); font-size: 12px; line-height: 20px; letter-spacing: 2px; text-transform: uppercase;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "background-color: #32343a; color: hsla(0, 0.00%, 100.00%, 1.00);"
+            },
+            "main_active": {
+              "styleLess": "background-color: #43464d;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [],
+      "ix1": [],
+      "ix2": {
+        "interactions": [],
+        "events": [],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

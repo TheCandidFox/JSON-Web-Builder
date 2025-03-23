@@ -1,0 +1,1867 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "51808b36-4360-f020-4405-0e6af29d3e8d",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "6be21c5e-95d2-2a8a-17a3-4e5f64d96810"
+          ],
+          "children": [
+            "0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+            "ed324a55-52fb-fa11-df0f-8eccfcc42bf8",
+            "1abdfc50-3df1-e0a7-76a7-51f935e6532d"
+          ],
+          "data": {
+            "tag": "section",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "eb2c3931-1f80-9286-ce47-6fdf6973e48f"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "64c22cda95baeb2d3c265c56"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 1080,
+                "size": "100vw"
+              },
+              {
+                "max": 10000,
+                "size": "1080px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ed324a55-52fb-fa11-df0f-8eccfcc42bf8",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "b2fd0822-30f4-3f82-d16b-4ea9f08b0f20"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "64c21b5695452ac724295eb5"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64b4b308ff77913536dd2812/64c21b5695452ac724295eb5_Header%20Lines.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1abdfc50-3df1-e0a7-76a7-51f935e6532d",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "cc5f1ff6-6fda-ff33-8688-e1e154dd35af"
+          ],
+          "children": [
+            "26a92655-50e5-b787-4418-6f58d0ee1846"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "26a92655-50e5-b787-4418-6f58d0ee1846",
+          "type": "Grid",
+          "tag": "div",
+          "classes": [
+            "52434b6f-c4c4-041e-a742-e12e859311c1"
+          ],
+          "children": [
+            "3c7291c8-2e53-406d-7fba-723d706bfe8c",
+            "6ce46c15-27fa-1b15-c798-13a274e52597"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": "two-by-two",
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "3c7291c8-2e53-406d-7fba-723d706bfe8c",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "2ca9862b-f0cc-9a37-e633-5015f0e41e35"
+          ],
+          "children": [
+            "2abb05d6-be7c-5c8f-6fe4-ec5866df6461",
+            "e79ddf4b-00a1-e593-b736-591adb1afe5d"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "main": {
+                  "noPseudo": {
+                    "gridColumnStart": "span 1",
+                    "gridColumnEnd": "span 1",
+                    "gridRowStart": "span 1",
+                    "gridRowEnd": "span 1"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "_id": "2abb05d6-be7c-5c8f-6fe4-ec5866df6461",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [
+            "4465eb72-18b9-4edc-7c28-61d02164afb8"
+          ],
+          "children": [
+            "eafcab8d-4688-9e42-680d-55d61ee7369e"
+          ],
+          "data": {
+            "tag": "h1",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "eafcab8d-4688-9e42-680d-55d61ee7369e",
+          "text": true,
+          "v": "Protect your systems securely with Prism"
+        },
+        {
+          "_id": "e79ddf4b-00a1-e593-b736-591adb1afe5d",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ebdc824e-719e-4f71-4399-f0ae894edb53"
+          ],
+          "children": [
+            "4954f8a5-b94f-d970-3a8d-a65c5e65a10a",
+            "574ba5ce-ecaf-a940-3a27-33f667218c2d"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4954f8a5-b94f-d970-3a8d-a65c5e65a10a",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "aacf13a0-7b5a-d739-ab73-52e586043bb9"
+          ],
+          "children": [
+            "14df00c5-ae7d-7102-8554-ac5c445a92e9"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "14df00c5-ae7d-7102-8554-ac5c445a92e9",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "9b394306-2f63-7cf5-cc6d-7cb29bee7b9d"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "9b394306-2f63-7cf5-cc6d-7cb29bee7b9d",
+          "text": true,
+          "v": "Get started for free"
+        },
+        {
+          "_id": "574ba5ce-ecaf-a940-3a27-33f667218c2d",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "131cc068-5a10-4009-917b-d6fbb8dbeb05",
+            "6840eae0-f592-e118-60d3-224f5c99f40e"
+          ],
+          "children": [
+            "6be2fd42-36cc-b31c-41a6-d6090adec45f",
+            "57a3751e-72d8-8411-2713-541b6c5eb822"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6be2fd42-36cc-b31c-41a6-d6090adec45f",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "3f93adb5-750f-47ce-bb2c-657a35b63045"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\">\n  <path d=\"M14.625 7.875V13.5C14.625 13.6492 14.5657 13.7923 14.4602 13.8977C14.3548 14.0032 14.2117 14.0625 14.0625 14.0625H3.9375C3.78832 14.0625 3.64524 14.0032 3.53975 13.8977C3.43426 13.7923 3.375 13.6492 3.375 13.5V7.875H14.625ZM14.625 6.75H3.375V4.5C3.375 4.35082 3.43426 4.20774 3.53975 4.10225C3.64524 3.99676 3.78832 3.9375 3.9375 3.9375H14.0625C14.2117 3.9375 14.3548 3.99676 14.4602 4.10225C14.5657 4.20774 14.625 4.35082 14.625 4.5V6.75ZM10.6875 11.25V12.375H12.9375V11.25H10.6875Z\" fill=\"currentColor\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\">\n  <path d=\"M14.625 7.875V13.5C14.625 13.6492 14.5657 13.7923 14.4602 13.8977C14.3548 14.0032 14.2117 14.0625 14.0625 14.0625H3.9375C3.78832 14.0625 3.64524 14.0032 3.53975 13.8977C3.43426 13.7923 3.375 13.6492 3.375 13.5V7.875H14.625ZM14.625 6.75H3.375V4.5C3.375 4.35082 3.43426 4.20774 3.53975 4.10225C3.64524 3.99676 3.78832 3.9375 3.9375 3.9375H14.0625C14.2117 3.9375 14.3548 3.99676 14.4602 4.10225C14.5657 4.20774 14.625 4.35082 14.625 4.5V6.75ZM10.6875 11.25V12.375H12.9375V11.25H10.6875Z\" fill=\"currentColor\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "57a3751e-72d8-8411-2713-541b6c5eb822",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "5dda8610-1316-e363-6035-b605ea7cb4c4"
+          ],
+          "children": [
+            "6db09ef3-43dc-e40e-c6ca-8e66c46fc54e"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6db09ef3-43dc-e40e-c6ca-8e66c46fc54e",
+          "text": true,
+          "v": "No credit-card required"
+        },
+        {
+          "_id": "6ce46c15-27fa-1b15-c798-13a274e52597",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "2ca9862b-f0cc-9a37-e633-5015f0e41e35"
+          ],
+          "children": [
+            "6bf9b74c-aec5-d95e-7a51-77760be33a76",
+            "0c9e680a-d4d2-45fb-46d4-92b31fce46a3",
+            "de43eefd-2480-5b5a-b524-1f7822c7dcd9"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "main": {
+                  "noPseudo": {
+                    "gridColumnStart": "span 1",
+                    "gridColumnEnd": "span 1",
+                    "gridRowStart": "span 1",
+                    "gridRowEnd": "span 1",
+                    "alignSelf": "end"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "_id": "6bf9b74c-aec5-d95e-7a51-77760be33a76",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ce9b9afe-1cf0-940c-4633-f6a36ddfcc8a"
+          ],
+          "children": [
+            "a00761a8-140d-6527-7b58-1443638db537",
+            "c37bf3a5-1a5c-2d9d-5c17-153a5f8ed19e"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a00761a8-140d-6527-7b58-1443638db537",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ebdc824e-719e-4f71-4399-f0ae894edb35"
+          ],
+          "children": [
+            "ee68f231-9e35-7662-743b-f85710b75f6b",
+            "dffda994-4fbd-38a0-1965-83b68fa29b93",
+            "fdcf315d-30eb-3c12-b2af-272e5430c620"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ee68f231-9e35-7662-743b-f85710b75f6b",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "f1235023-68ed-3b85-3225-e5c7ad2a20ed"
+          ],
+          "children": [
+            "f6d460c9-d347-216f-1fcb-a21981aa47a4"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "f6d460c9-d347-216f-1fcb-a21981aa47a4",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "e664cd49-c5cb-95be-b7d0-924c8b12a5a3"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "64b8dbf3795433381db25e82"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64b4b308ff77913536dd2812/64b8dbf3795433381db25e82_Avatar%201.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 10000,
+                "size": "48.721588134765625px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "dffda994-4fbd-38a0-1965-83b68fa29b93",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "f1235023-68ed-3b85-3225-e5c7ad2a20ed",
+            "f1235023-68ed-3b85-3225-e5c7ad2a20f0"
+          ],
+          "children": [
+            "3e23a4fd-ab92-0184-a347-3ed3010e2a0d"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3e23a4fd-ab92-0184-a347-3ed3010e2a0d",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "e664cd49-c5cb-95be-b7d0-924c8b12a5a3"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "64b8dbf2c25790961193193d"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64b4b308ff77913536dd2812/64b8dbf2c25790961193193d_Avatar%202.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 10000,
+                "size": "48.721588134765625px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "fdcf315d-30eb-3c12-b2af-272e5430c620",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "f1235023-68ed-3b85-3225-e5c7ad2a20ed",
+            "f1235023-68ed-3b85-3225-e5c7ad2a20f0"
+          ],
+          "children": [
+            "90be4f9b-fbb4-ec6a-8d45-8bf40e942655"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "90be4f9b-fbb4-ec6a-8d45-8bf40e942655",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "e664cd49-c5cb-95be-b7d0-924c8b12a5a3"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "64b8dbf25a8c42e06df8e1f9"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64b4b308ff77913536dd2812/64b8dbf25a8c42e06df8e1f9_Avatar%203.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 10000,
+                "size": "48.721588134765625px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c37bf3a5-1a5c-2d9d-5c17-153a5f8ed19e",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "37042926-48e0-265a-2560-19ab81dc8cb2",
+            "04504b6f-6414-abe2-009e-a65784ed74d4"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "37042926-48e0-265a-2560-19ab81dc8cb2",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ebdc824e-719e-4f71-4399-f0ae894edb14",
+            "6cbc1039-fea4-82a7-463a-5af0b3bfde27"
+          ],
+          "children": [
+            "2767da67-d014-0e53-8d19-100fe38147a6"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "2767da67-d014-0e53-8d19-100fe38147a6",
+          "text": true,
+          "v": "Trusted by"
+        },
+        {
+          "_id": "04504b6f-6414-abe2-009e-a65784ed74d4",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ed64482e-3c6c-7e47-ecb1-2cc107f6849f"
+          ],
+          "children": [
+            "c97c48b3-5afe-c6c5-c222-4d678ec6ef5e",
+            "d5d6e513-7a35-cbef-b2bf-05f2ecc2da2d"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c97c48b3-5afe-c6c5-c222-4d678ec6ef5e",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "96a7de6c-f73f-453e-e678-ade7d7549644"
+          ],
+          "children": [
+            "623069b3-bb60-6318-bb8e-17ce6ec79c3a"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "623069b3-bb60-6318-bb8e-17ce6ec79c3a",
+          "text": true,
+          "v": "2M+"
+        },
+        {
+          "_id": "d5d6e513-7a35-cbef-b2bf-05f2ecc2da2d",
+          "text": true,
+          "v": " Customers"
+        },
+        {
+          "_id": "0c9e680a-d4d2-45fb-46d4-92b31fce46a3",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "0f6dcf65-c95f-def5-80a7-5fbdc58efb5e",
+            "4bf99b92-20a0-8810-a2bc-6981b4aeb8b7"
+          ],
+          "children": [
+            "a086ea86-17ea-15e1-32d0-9a85369530a0"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a086ea86-17ea-15e1-32d0-9a85369530a0",
+          "text": true,
+          "v": "Helping you to protect all your digital activity and data from unwanted third party."
+        },
+        {
+          "_id": "de43eefd-2480-5b5a-b524-1f7822c7dcd9",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "9a84d605-4817-41bf-a27f-fda15a79aebc"
+          ],
+          "children": [
+            "981270fc-0182-3dca-d6b7-b579254511b3",
+            "61d9bb61-7300-3c27-d045-c1206e9aa63d",
+            "535dfe83-70e7-97b6-03ab-e76f65ad7c6f",
+            "3f76b57f-2bfb-998d-a430-acd153540d13"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "981270fc-0182-3dca-d6b7-b579254511b3",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "16c25caf-327a-4bb2-4ae7-5c9c4e5a42ee"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2635)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.57141 0C12.9897 0 16.5714 3.58172 16.5714 8V0H24.5714C28.9897 0 32.5714 3.58172 32.5714 8C32.5714 12.4182 28.9897 16 24.5714 16C28.9897 16 32.5714 19.5818 32.5714 24C32.5714 26.1938 31.6883 28.1814 30.2582 29.6267L30.2283 29.6569L30.2017 29.6833C28.7561 31.1154 26.7671 32 24.5714 32C22.3907 32 20.4137 31.1274 18.9706 29.7124C18.9519 29.694 18.9332 29.6754 18.9145 29.6569C18.897 29.6394 18.8796 29.6218 18.8622 29.6041C17.4453 28.1607 16.5714 26.1824 16.5714 24C16.5714 28.4182 12.9897 32 8.57141 32C4.15313 32 0.571411 28.4182 0.571411 24V16H8.57141C4.15313 16 0.571411 12.4182 0.571411 8C0.571411 3.58172 4.15313 0 8.57141 0ZM14.9714 8C14.9714 11.5346 12.1061 14.4 8.57141 14.4V1.6C12.1061 1.6 14.9714 4.46538 14.9714 8ZM30.9714 24C30.9714 20.4654 28.1061 17.6 24.5714 17.6C21.0368 17.6 18.1714 20.4654 18.1714 24H30.9714ZM2.17141 17.6V24C2.17141 27.5346 5.03679 30.4 8.57141 30.4C12.1061 30.4 14.9714 27.5346 14.9714 24V17.6H2.17141ZM18.1714 14.4V1.6H24.5714C28.1061 1.6 30.9714 4.46538 30.9714 8C30.9714 11.5346 28.1061 14.4 24.5714 14.4H18.1714Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2635\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.571411)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2635)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.57141 0C12.9897 0 16.5714 3.58172 16.5714 8V0H24.5714C28.9897 0 32.5714 3.58172 32.5714 8C32.5714 12.4182 28.9897 16 24.5714 16C28.9897 16 32.5714 19.5818 32.5714 24C32.5714 26.1938 31.6883 28.1814 30.2582 29.6267L30.2283 29.6569L30.2017 29.6833C28.7561 31.1154 26.7671 32 24.5714 32C22.3907 32 20.4137 31.1274 18.9706 29.7124C18.9519 29.694 18.9332 29.6754 18.9145 29.6569C18.897 29.6394 18.8796 29.6218 18.8622 29.6041C17.4453 28.1607 16.5714 26.1824 16.5714 24C16.5714 28.4182 12.9897 32 8.57141 32C4.15313 32 0.571411 28.4182 0.571411 24V16H8.57141C4.15313 16 0.571411 12.4182 0.571411 8C0.571411 3.58172 4.15313 0 8.57141 0ZM14.9714 8C14.9714 11.5346 12.1061 14.4 8.57141 14.4V1.6C12.1061 1.6 14.9714 4.46538 14.9714 8ZM30.9714 24C30.9714 20.4654 28.1061 17.6 24.5714 17.6C21.0368 17.6 18.1714 20.4654 18.1714 24H30.9714ZM2.17141 17.6V24C2.17141 27.5346 5.03679 30.4 8.57141 30.4C12.1061 30.4 14.9714 27.5346 14.9714 24V17.6H2.17141ZM18.1714 14.4V1.6H24.5714C28.1061 1.6 30.9714 4.46538 30.9714 8C30.9714 11.5346 28.1061 14.4 24.5714 14.4H18.1714Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2635\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.571411)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "61d9bb61-7300-3c27-d045-c1206e9aa63d",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "16c25caf-327a-4bb2-4ae7-5c9c4e5a42ee"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2637)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.26191 11.7139C0.433324 13.7605 0.216527 16.0124 0.638967 18.185C1.06136 20.3576 2.10401 22.3533 3.63501 23.9196C5.166 25.4859 7.11666 26.5526 9.24019 26.9848C11.3639 27.4169 13.565 27.1951 15.5654 26.3474C17.5657 25.4997 19.2755 24.0641 20.4784 22.2224C20.5104 22.1733 20.5421 22.1239 20.5734 22.0743C20.5955 22.0393 20.6174 22.0041 20.6392 21.9689V27.2H21.4812C23.6464 27.2 25.763 26.5431 27.5632 25.3124C29.3636 24.0818 30.7667 22.3325 31.5952 20.286C32.4239 18.2395 32.6407 15.9876 32.2182 13.8149C31.7958 11.6424 30.7532 9.64672 29.2222 8.0804C27.6912 6.51403 25.7405 5.44736 23.617 5.01522C21.4933 4.58303 19.2922 4.80483 17.2918 5.65254C15.2915 6.50025 13.5817 7.9358 12.3788 9.7776C12.3241 9.86143 12.2705 9.94598 12.218 10.0311V4.79999H11.376C9.21075 4.79999 7.0942 5.45688 5.29393 6.68756C3.49366 7.91818 2.0905 9.66739 1.26191 11.7139ZM10.5339 16V6.5623C8.99899 6.70564 7.51854 7.23916 6.22963 8.1202C4.7063 9.16153 3.51905 10.6417 2.81793 12.3733C2.11681 14.105 1.93337 16.0105 2.2908 17.8489C2.64822 19.6872 3.53047 21.3758 4.8259 22.7012C6.12139 24.0265 7.77193 24.9291 9.56883 25.2948C11.3657 25.6605 13.2282 25.4728 14.9208 24.7555C16.5455 24.067 17.9436 22.9203 18.9533 21.4512C18.188 21.8229 17.332 22.0308 16.4286 22.0308C13.1731 22.0308 10.5339 19.3306 10.5339 16ZM22.3233 25.4377V16C22.3233 12.6693 19.6841 9.96922 16.4286 9.96922C15.5252 9.96922 14.6692 10.1771 13.9039 10.5488C14.9136 9.07966 16.3117 7.9329 17.9364 7.24447C19.629 6.52717 21.4915 6.3395 23.2884 6.70517C25.0852 7.07084 26.7358 7.97344 28.0313 9.29877C29.3268 10.6242 30.209 12.3128 30.5664 14.1511C30.9238 15.9895 30.7404 17.8949 30.0392 19.6266C29.3382 21.3583 28.1509 22.8385 26.6276 23.8797C25.3387 24.7608 23.8582 25.2943 22.3233 25.4377ZM16.3444 20.3069C14.0858 20.2615 12.2632 18.3968 12.2189 16.0861H13.8119C15.0685 16.3792 16.0578 17.3912 16.3444 18.6769V20.3069ZM16.5128 20.3069C18.7713 20.2615 20.594 18.3968 20.6383 16.0861H19.0453C17.7885 16.3792 16.7992 17.3913 16.5128 18.6772V20.3069ZM20.6383 15.9138C20.594 13.6032 18.7713 11.7385 16.5128 11.6931V13.3228C16.7992 14.6085 17.7884 15.6207 19.0451 15.9138H20.6383ZM16.3444 11.6931C14.0859 11.7385 12.2632 13.6032 12.2189 15.9138H13.8121C15.0687 15.6207 16.0579 14.6087 16.3444 13.3231V11.6931Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2637\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.428589)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2637)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.26191 11.7139C0.433324 13.7605 0.216527 16.0124 0.638967 18.185C1.06136 20.3576 2.10401 22.3533 3.63501 23.9196C5.166 25.4859 7.11666 26.5526 9.24019 26.9848C11.3639 27.4169 13.565 27.1951 15.5654 26.3474C17.5657 25.4997 19.2755 24.0641 20.4784 22.2224C20.5104 22.1733 20.5421 22.1239 20.5734 22.0743C20.5955 22.0393 20.6174 22.0041 20.6392 21.9689V27.2H21.4812C23.6464 27.2 25.763 26.5431 27.5632 25.3124C29.3636 24.0818 30.7667 22.3325 31.5952 20.286C32.4239 18.2395 32.6407 15.9876 32.2182 13.8149C31.7958 11.6424 30.7532 9.64672 29.2222 8.0804C27.6912 6.51403 25.7405 5.44736 23.617 5.01522C21.4933 4.58303 19.2922 4.80483 17.2918 5.65254C15.2915 6.50025 13.5817 7.9358 12.3788 9.7776C12.3241 9.86143 12.2705 9.94598 12.218 10.0311V4.79999H11.376C9.21075 4.79999 7.0942 5.45688 5.29393 6.68756C3.49366 7.91818 2.0905 9.66739 1.26191 11.7139ZM10.5339 16V6.5623C8.99899 6.70564 7.51854 7.23916 6.22963 8.1202C4.7063 9.16153 3.51905 10.6417 2.81793 12.3733C2.11681 14.105 1.93337 16.0105 2.2908 17.8489C2.64822 19.6872 3.53047 21.3758 4.8259 22.7012C6.12139 24.0265 7.77193 24.9291 9.56883 25.2948C11.3657 25.6605 13.2282 25.4728 14.9208 24.7555C16.5455 24.067 17.9436 22.9203 18.9533 21.4512C18.188 21.8229 17.332 22.0308 16.4286 22.0308C13.1731 22.0308 10.5339 19.3306 10.5339 16ZM22.3233 25.4377V16C22.3233 12.6693 19.6841 9.96922 16.4286 9.96922C15.5252 9.96922 14.6692 10.1771 13.9039 10.5488C14.9136 9.07966 16.3117 7.9329 17.9364 7.24447C19.629 6.52717 21.4915 6.3395 23.2884 6.70517C25.0852 7.07084 26.7358 7.97344 28.0313 9.29877C29.3268 10.6242 30.209 12.3128 30.5664 14.1511C30.9238 15.9895 30.7404 17.8949 30.0392 19.6266C29.3382 21.3583 28.1509 22.8385 26.6276 23.8797C25.3387 24.7608 23.8582 25.2943 22.3233 25.4377ZM16.3444 20.3069C14.0858 20.2615 12.2632 18.3968 12.2189 16.0861H13.8119C15.0685 16.3792 16.0578 17.3912 16.3444 18.6769V20.3069ZM16.5128 20.3069C18.7713 20.2615 20.594 18.3968 20.6383 16.0861H19.0453C17.7885 16.3792 16.7992 17.3913 16.5128 18.6772V20.3069ZM20.6383 15.9138C20.594 13.6032 18.7713 11.7385 16.5128 11.6931V13.3228C16.7992 14.6085 17.7884 15.6207 19.0451 15.9138H20.6383ZM16.3444 11.6931C14.0859 11.7385 12.2632 13.6032 12.2189 15.9138H13.8121C15.0687 15.6207 16.0579 14.6087 16.3444 13.3231V11.6931Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2637\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.428589)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "535dfe83-70e7-97b6-03ab-e76f65ad7c6f",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "16c25caf-327a-4bb2-4ae7-5c9c4e5a42ee"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2858 32C25.1223 32 32.2858 24.8366 32.2858 16C32.2858 7.16345 25.1223 0 16.2858 0C7.44919 0 0.285767 7.16345 0.285767 16C0.285767 24.8366 7.44919 32 16.2858 32ZM21.2772 7.45348C21.5202 6.59044 20.6827 6.08011 19.9178 6.62504L9.24026 14.2317C8.41074 14.8226 8.54122 16 9.43626 16H12.2479V15.9782H17.7278L13.2627 17.5537L11.2943 24.5466C11.0514 25.4096 11.8888 25.9199 12.6538 25.375L23.3313 17.7684C24.1608 17.1774 24.0302 16 23.1353 16H18.8715L21.2772 7.45348Z\" fill=\"#474747\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2858 32C25.1223 32 32.2858 24.8366 32.2858 16C32.2858 7.16345 25.1223 0 16.2858 0C7.44919 0 0.285767 7.16345 0.285767 16C0.285767 24.8366 7.44919 32 16.2858 32ZM21.2772 7.45348C21.5202 6.59044 20.6827 6.08011 19.9178 6.62504L9.24026 14.2317C8.41074 14.8226 8.54122 16 9.43626 16H12.2479V15.9782H17.7278L13.2627 17.5537L11.2943 24.5466C11.0514 25.4096 11.8888 25.9199 12.6538 25.375L23.3313 17.7684C24.1608 17.1774 24.0302 16 23.1353 16H18.8715L21.2772 7.45348Z\" fill=\"#474747\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3f76b57f-2bfb-998d-a430-acd153540d13",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "16c25caf-327a-4bb2-4ae7-5c9c4e5a42ee"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.1429 32C24.9796 32 32.1429 24.8366 32.1429 16C32.1429 7.16345 24.9796 0 16.1429 0C7.30638 0 0.142944 7.16345 0.142944 16C0.142944 24.8366 7.30638 32 16.1429 32ZM18.6125 12.3621C19.9764 10.9981 19.9764 8.78686 18.6125 7.42293C17.2486 6.05903 15.0373 6.05903 13.6734 7.42293C12.3096 8.78686 12.3096 10.9981 13.6734 12.3621L16.1429 14.8316L18.6125 12.3621ZM19.7809 18.4696C21.1449 19.8335 23.3561 19.8335 24.7201 18.4696C26.0839 17.1057 26.0839 14.8944 24.7201 13.5305C23.3561 12.1666 21.1449 12.1666 19.7809 13.5305L17.3114 16.0001L19.7809 18.4696ZM18.6125 24.5771C19.9764 23.2132 19.9764 21.0019 18.6125 19.638L16.1429 17.1685L13.6734 19.638C12.3096 21.0019 12.3096 23.2132 13.6734 24.5771C15.0373 25.941 17.2486 25.941 18.6125 24.5771ZM7.56586 18.4696C6.20198 17.1057 6.20198 14.8944 7.56586 13.5305C8.9298 12.1666 11.1411 12.1666 12.505 13.5305L14.9745 16.0001L12.505 18.4696C11.1411 19.8335 8.9298 19.8335 7.56586 18.4696Z\" fill=\"#474747\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.1429 32C24.9796 32 32.1429 24.8366 32.1429 16C32.1429 7.16345 24.9796 0 16.1429 0C7.30638 0 0.142944 7.16345 0.142944 16C0.142944 24.8366 7.30638 32 16.1429 32ZM18.6125 12.3621C19.9764 10.9981 19.9764 8.78686 18.6125 7.42293C17.2486 6.05903 15.0373 6.05903 13.6734 7.42293C12.3096 8.78686 12.3096 10.9981 13.6734 12.3621L16.1429 14.8316L18.6125 12.3621ZM19.7809 18.4696C21.1449 19.8335 23.3561 19.8335 24.7201 18.4696C26.0839 17.1057 26.0839 14.8944 24.7201 13.5305C23.3561 12.1666 21.1449 12.1666 19.7809 13.5305L17.3114 16.0001L19.7809 18.4696ZM18.6125 24.5771C19.9764 23.2132 19.9764 21.0019 18.6125 19.638L16.1429 17.1685L13.6734 19.638C12.3096 21.0019 12.3096 23.2132 13.6734 24.5771C15.0373 25.941 17.2486 25.941 18.6125 24.5771ZM7.56586 18.4696C6.20198 17.1057 6.20198 14.8944 7.56586 13.5305C8.9298 12.1666 11.1411 12.1666 12.505 13.5305L14.9745 16.0001L12.505 18.4696C11.1411 19.8335 8.9298 19.8335 7.56586 18.4696Z\" fill=\"#474747\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "6be21c5e-95d2-2a8a-17a3-4e5f64d96810",
+          "fake": false,
+          "type": "class",
+          "name": "Header Section",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: flex; overflow: hidden; padding-right: 5%; padding-bottom: 120px; padding-left: 5%; flex-direction: column; justify-content: center; align-items: center; background-color: hsla(0, 0.00%, 0.00%, 1.00);",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "9a84d605-4817-41bf-a27f-fda15a79aebc",
+          "fake": false,
+          "type": "class",
+          "name": "Header Logo Row",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: space-between; flex-grow: 0; flex-shrink: 0; flex-basis: auto; grid-column-gap: 24px; grid-row-gap: 24px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "eb2c3931-1f80-9286-ce47-6fdf6973e48f",
+          "fake": false,
+          "type": "class",
+          "name": "Header Prism Top",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; z-index: 2; max-width: 1080px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6840eae0-f592-e118-60d3-224f5c99f40e",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Purple 500",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "f1235023-68ed-3b85-3225-e5c7ad2a20f0",
+          "fake": false,
+          "type": "class",
+          "name": "Grouped",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "margin-left: -16px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6cbc1039-fea4-82a7-463a-5af0b3bfde27",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Gray 700",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ebdc824e-719e-4f71-4399-f0ae894edb35",
+          "fake": false,
+          "type": "class",
+          "name": "Row",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: nowrap; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "4bf99b92-20a0-8810-a2bc-6981b4aeb8b7",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Gray 500",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "color: #ababab;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "0f6dcf65-c95f-def5-80a7-5fbdc58efb5e",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph X Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 20px; line-height: 32px; letter-spacing: -0.02em;",
+          "variants": {},
+          "children": [
+            "4bf99b92-20a0-8810-a2bc-6981b4aeb8b7"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "96a7de6c-f73f-453e-e678-ade7d7549644",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Purple 500",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "color: #8f6ee7;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "131cc068-5a10-4009-917b-d6fbb8dbeb05",
+          "fake": false,
+          "type": "class",
+          "name": "Row Tiny",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: row; justify-content: flex-start; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px;",
+          "variants": {},
+          "children": [
+            "41533271-2f5f-d6e7-9342-c311d9351966",
+            "6840eae0-f592-e118-60d3-224f5c99f40e"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ed64482e-3c6c-7e47-ecb1-2cc107f6849f",
+          "fake": false,
+          "type": "class",
+          "name": "Subheading Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; color: #e3e3e3; font-size: 18px; line-height: 24px; font-weight: 600; letter-spacing: -0.02em;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "3f93adb5-750f-47ce-bb2c-657a35b63045",
+          "fake": false,
+          "type": "class",
+          "name": "Icon Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 18px; height: 18px; justify-content: center; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "b2fd0822-30f4-3f82-d16b-4ea9f08b0f20",
+          "fake": false,
+          "type": "class",
+          "name": "Header Background Lines",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 0%; top: 0%; right: 0%; bottom: 0%; z-index: 0; width: 100%; height: 100%; max-height: 900px; max-width: 1440px; margin-right: auto; margin-left: auto; pointer-events: none;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "5dda8610-1316-e363-6035-b605ea7cb4c4",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 14px; line-height: 20px; letter-spacing: -0.25px;",
+          "variants": {},
+          "children": [
+            "fd78b048-009f-cd8e-2d18-6378efaf92ad",
+            "1297ff04-7f57-a0b8-60b4-2723cc9c2ef7",
+            "e975d287-10ab-f3d2-1188-0b001b89e0ea",
+            "2562e741-6ccb-2afe-504e-6c3dd6d748df",
+            "f2367848-a596-b7ad-d863-d3ce13f17cbe"
+          ],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "aacf13a0-7b5a-d739-ab73-52e586043bb9",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: inline-flex; padding-top: 12px; padding-right: 16px; padding-bottom: 12px; padding-left: 16px; justify-content: center; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px; border-top-style: solid; border-top-width: 1px; border-top-color: rgba(255, 255, 255, 0.08); border-right-style: solid; border-right-width: 1px; border-right-color: rgba(255, 255, 255, 0.08); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: rgba(255, 255, 255, 0.08); border-left-style: solid; border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.08); border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: rgba(54, 23, 140, 0.64); backdrop-filter: blur(64px); transition-property: border-color, background-color, color; transition-duration: 400ms, 400ms, 400ms; transition-timing-function: ease, ease, ease; color: #f0f0f0; font-size: 18px; line-height: 24px; font-weight: 500; letter-spacing: -0.25px; text-decoration: none;",
+          "variants": {
+            "main_current": {
+              "styleLess": "border-top-color: hsl(215, 19%, 35%); border-right-color: hsl(215, 19%, 35%); border-bottom-color: hsl(215, 19%, 35%); border-left-color: hsl(215, 19%, 35%); background-color: hsl(215, 25%, 27%);"
+            },
+            "main_hover": {
+              "styleLess": "border-top-color: rgba(255, 255, 255, 0.12); border-right-color: rgba(255, 255, 255, 0.12); border-bottom-color: rgba(255, 255, 255, 0.12); border-left-color: rgba(255, 255, 255, 0.12); background-color: rgba(54, 23, 140, 0.48);"
+            }
+          },
+          "children": [
+            "ba702eba-b266-fb34-3cf1-d615f8e57dc4",
+            "9cd7f23e-ca90-754a-8341-a09e93d03283",
+            "d0c35a88-470c-062b-0e0d-92486950f4a4"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ebdc824e-719e-4f71-4399-f0ae894edb14",
+          "fake": false,
+          "type": "class",
+          "name": "Overline Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "font-size: 12px; line-height: 16px; font-weight: 500; letter-spacing: 0.8px; text-transform: uppercase;",
+          "variants": {},
+          "children": [
+            "6cbc1039-fea4-82a7-463a-5af0b3bfde27"
+          ],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ce9b9afe-1cf0-940c-4633-f6a36ddfcc8a",
+          "fake": false,
+          "type": "class",
+          "name": "Avatar Row",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; align-items: center; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {
+            "tiny": {
+              "styleLess": "flex-direction: column; align-items: flex-start;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "cc5f1ff6-6fda-ff33-8688-e1e154dd35af",
+          "fake": false,
+          "type": "class",
+          "name": "Container Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 1200px; margin-right: auto; margin-left: auto;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "16c25caf-327a-4bb2-4ae7-5c9c4e5a42ee",
+          "fake": false,
+          "type": "class",
+          "name": "Header Logo",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 32px; height: 32px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "f1235023-68ed-3b85-3225-e5c7ad2a20ed",
+          "fake": false,
+          "type": "class",
+          "name": "Header Avatar Circle",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; overflow: hidden; width: 56px; height: 56px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto; border-top-style: solid; border-top-width: 4px; border-top-color: hsla(0, 0.00%, 0.00%, 1.00); border-right-style: solid; border-right-width: 4px; border-right-color: hsla(0, 0.00%, 0.00%, 1.00); border-bottom-style: solid; border-bottom-width: 4px; border-bottom-color: hsla(0, 0.00%, 0.00%, 1.00); border-left-style: solid; border-left-width: 4px; border-left-color: hsla(0, 0.00%, 0.00%, 1.00); border-top-left-radius: 100px; border-top-right-radius: 100px; border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; background-color: hsla(216, 16.13%, 93.92%, 1.00);",
+          "variants": {},
+          "children": [
+            "f1235023-68ed-3b85-3225-e5c7ad2a20f0"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "52434b6f-c4c4-041e-a742-e12e859311c1",
+          "fake": false,
+          "type": "class",
+          "name": "Header Grid Content",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; grid-column-gap: 24px; grid-row-gap: 44px; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto;",
+          "variants": {
+            "medium": {
+              "styleLess": "grid-template-columns: 1fr;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "2ca9862b-f0cc-9a37-e633-5015f0e41e35",
+          "fake": false,
+          "type": "class",
+          "name": "Column  X Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; grid-column-gap: 32px; grid-row-gap: 32px;",
+          "variants": {},
+          "children": [
+            "a4ee6dc2-1ae0-538f-6b29-005f28399f38",
+            "bfa4ab29-0431-6475-6f2c-14879ea7e9c9"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "e664cd49-c5cb-95be-b7d0-924c8b12a5a3",
+          "fake": false,
+          "type": "class",
+          "name": "Image Cover",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; height: 100%; object-fit: cover;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ebdc824e-719e-4f71-4399-f0ae894edb53",
+          "fake": false,
+          "type": "class",
+          "name": "Header Button Group",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap; align-items: center; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "4465eb72-18b9-4edc-7c28-61d02164afb8",
+          "fake": false,
+          "type": "class",
+          "name": "H2 Heading",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; background-image: linear-gradient(157deg, #a78eec, #8f6ee7 28%, hsla(256.2857142857143, 72.16%, 61.96%, 0.47)); color: white; font-size: 62px; line-height: 1.2; font-weight: 600; background-clip: text;",
+          "variants": {
+            "tiny": {
+              "styleLess": "font-size: 52px; line-height: 62px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large.png",
+          "siteId": "64b4b308ff77913536dd2812",
+          "width": 1080,
+          "isHD": false,
+          "height": 540,
+          "fileName": "64c22cda95baeb2d3c265c56_Prism Large.png",
+          "createdOn": "2023-07-27T08:37:46.102Z",
+          "origFileName": "Prism Large.png",
+          "fileHash": "965683cb3ae49e2a9c6472a745d4f4cf",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large-p-500.png",
+              "origFileName": "Prism%20Large-p-500.png",
+              "fileName": "64c22cda95baeb2d3c265c56_Prism%20Large-p-500.png",
+              "size": 29651,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "64c22cddbaf5db5f0fb3aa7f",
+              "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large-p-800.png",
+              "origFileName": "Prism%20Large-p-800.png",
+              "fileName": "64c22cda95baeb2d3c265c56_Prism%20Large-p-800.png",
+              "size": 75451,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "64c22cddbaf5db5f0fb3aa80",
+              "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large-p-800.png"
+            }
+          ],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64b4b308ff77913536dd2812/64c22cda95baeb2d3c265c56_Prism%20Large-p-130x130q80.png",
+          "_id": "64c22cda95baeb2d3c265c56",
+          "updatedOn": "2023-07-27T10:54:09.911Z",
+          "markedAsDeleted": false,
+          "fileSize": 369015,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64c21b5695452ac724295eb5_Header%20Lines.svg",
+          "siteId": "64b4b308ff77913536dd2812",
+          "width": 1440,
+          "isHD": false,
+          "height": 900,
+          "fileName": "64c21b5695452ac724295eb5_Header Lines.svg",
+          "createdOn": "2023-07-27T07:23:02.545Z",
+          "origFileName": "Header Lines.svg",
+          "fileHash": "05607366437983377b0c75097c377bc5",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/svg+xml",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64c21b5695452ac724295eb5_Header%20Lines.svg",
+          "thumbUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64c21b5695452ac724295eb5_Header%20Lines.svg",
+          "_id": "64c21b5695452ac724295eb5",
+          "updatedOn": "2023-07-27T07:23:02.545Z",
+          "markedAsDeleted": false,
+          "fileSize": 9691,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64b8dbf3795433381db25e82_Avatar%201.png",
+          "siteId": "64b4b308ff77913536dd2812",
+          "width": 96,
+          "isHD": false,
+          "height": 96,
+          "fileName": "64b8dbf3795433381db25e82_Avatar 1.png",
+          "createdOn": "2023-07-20T07:02:11.082Z",
+          "origFileName": "Avatar 1.png",
+          "fileHash": "939a8e25f7d6a950a39f269ce8c24fdf",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64b8dbf3795433381db25e82_Avatar%201.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64b4b308ff77913536dd2812/64b8dbf3795433381db25e82_Avatar%201.png",
+          "_id": "64b8dbf3795433381db25e82",
+          "updatedOn": "2023-07-21T01:44:36.117Z",
+          "markedAsDeleted": false,
+          "fileSize": 12770,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64b8dbf2c25790961193193d_Avatar%202.png",
+          "siteId": "64b4b308ff77913536dd2812",
+          "width": 96,
+          "isHD": false,
+          "height": 96,
+          "fileName": "64b8dbf2c25790961193193d_Avatar 2.png",
+          "createdOn": "2023-07-20T07:02:10.803Z",
+          "origFileName": "Avatar 2.png",
+          "fileHash": "dc56f8c6debdf9685b11e4d907e9df86",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64b8dbf2c25790961193193d_Avatar%202.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64b4b308ff77913536dd2812/64b8dbf2c25790961193193d_Avatar%202.png",
+          "_id": "64b8dbf2c25790961193193d",
+          "updatedOn": "2023-07-21T01:44:36.121Z",
+          "markedAsDeleted": false,
+          "fileSize": 15488,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64b4b308ff77913536dd2812/64b8dbf25a8c42e06df8e1f9_Avatar%203.png",
+          "siteId": "64b4b308ff77913536dd2812",
+          "width": 96,
+          "isHD": false,
+          "height": 96,
+          "fileName": "64b8dbf25a8c42e06df8e1f9_Avatar 3.png",
+          "createdOn": "2023-07-20T07:02:10.897Z",
+          "origFileName": "Avatar 3.png",
+          "fileHash": "5c4d66997a842f750a92f87d3d7cb38b",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64b4b308ff77913536dd2812/64b8dbf25a8c42e06df8e1f9_Avatar%203.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64b4b308ff77913536dd2812/64b8dbf25a8c42e06df8e1f9_Avatar%203.png",
+          "_id": "64b8dbf25a8c42e06df8e1f9",
+          "updatedOn": "2023-07-21T01:44:36.066Z",
+          "markedAsDeleted": false,
+          "fileSize": 15130,
+          "localizedSettings": {}
+        }
+      ],
+      "ix1": [],
+      "ix2": {
+        "interactions": [
+          {
+            "id": "i-25",
+            "interactionTypeId": "SCROLL_INTO_VIEW_INTERACTION",
+            "eventIds": [
+              "e-49",
+              "e-50"
+            ],
+            "target": "64c22ca5f77ac73a273773a7|0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+            "createdOn": 1690531325196
+          },
+          {
+            "id": "i-26",
+            "interactionTypeId": "SCROLL_INTO_VIEW_INTERACTION",
+            "eventIds": [
+              "e-51",
+              "e-52"
+            ],
+            "target": "64c22ca5f77ac73a273773a7|26a92655-50e5-b787-4418-6f58d0ee1846",
+            "createdOn": 1690531337118
+          }
+        ],
+        "events": [
+          {
+            "id": "e-49",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_INTO_VIEW",
+            "action": {
+              "id": "",
+              "actionTypeId": "SLIDE_EFFECT",
+              "instant": false,
+              "config": {
+                "actionListId": "SLIDE_EFFECT",
+                "autoStopEventId": "e-50"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "64c22ca5f77ac73a273773a7|0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "64c22ca5f77ac73a273773a7|0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": 300,
+              "direction": "TOP",
+              "effectIn": true
+            },
+            "createdOn": 1690531325196
+          },
+          {
+            "id": "e-50",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_OUT_OF_VIEW",
+            "action": null,
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "64c22ca5f77ac73a273773a7|0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "64c22ca5f77ac73a273773a7|0959ca4e-d569-83ac-dcb1-2c8d7fa510ad",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1690531325196
+          },
+          {
+            "id": "e-51",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_INTO_VIEW",
+            "action": {
+              "id": "",
+              "actionTypeId": "SLIDE_EFFECT",
+              "instant": false,
+              "config": {
+                "actionListId": "SLIDE_EFFECT",
+                "autoStopEventId": "e-52"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "64c22ca5f77ac73a273773a7|26a92655-50e5-b787-4418-6f58d0ee1846",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "64c22ca5f77ac73a273773a7|26a92655-50e5-b787-4418-6f58d0ee1846",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": 500,
+              "direction": "BOTTOM",
+              "effectIn": true
+            },
+            "createdOn": 1690531337118
+          },
+          {
+            "id": "e-52",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_OUT_OF_VIEW",
+            "action": null,
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "64c22ca5f77ac73a273773a7|26a92655-50e5-b787-4418-6f58d0ee1846",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "64c22ca5f77ac73a273773a7|26a92655-50e5-b787-4418-6f58d0ee1846",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1690531337118
+          }
+        ],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

@@ -1,0 +1,4429 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "284ca23c-4163-3f7e-16c3-d2b0510cdbdb",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b007"
+          ],
+          "children": [
+            "edbb23f6-48a1-a700-a0ea-8ee290bed713"
+          ],
+          "data": {
+            "tag": "section",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "edbb23f6-48a1-a700-a0ea-8ee290bed713",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00b"
+          ],
+          "children": [
+            "e57a4a1e-6f99-0146-7403-9b8f21801e09",
+            "d05df70d-3f2a-5048-35c4-62a7812e90eb"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "e57a4a1e-6f99-0146-7403-9b8f21801e09",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b011"
+          ],
+          "children": [
+            "7ff7dd6b-7ca6-3767-0f6f-2afdd9ee80f2",
+            "36dd00d7-1391-d8db-e6f6-d850b57e2ae3",
+            "3746514f-4cf2-325a-9bd9-fde5be60cf62",
+            "ac66a2ba-c5f6-d169-6c56-c4aec1adf7aa",
+            "f1ebc1c1-66d0-6d4f-124b-aa4e5e0a5116",
+            "bd08fd48-3fef-57db-1346-6efe4b146bd8"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "7ff7dd6b-7ca6-3767-0f6f-2afdd9ee80f2",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00a"
+          ],
+          "children": [
+            "5ff96bf7-4891-f6ed-9173-fb558d61c04c"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "5ff96bf7-4891-f6ed-9173-fb558d61c04c",
+          "text": true,
+          "v": "ZEN UI COLLECTION"
+        },
+        {
+          "_id": "36dd00d7-1391-d8db-e6f6-d850b57e2ae3",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ad9241ed-14fd-57c2-98a0-2e80e8bc6da8"
+          ],
+          "children": [
+            "62e66e4f-fe00-4f46-ad33-b58a30dce66a",
+            "e6f57a93-3987-ad24-fff4-25f11a855c57"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "62e66e4f-fe00-4f46-ad33-b58a30dce66a",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b010"
+          ],
+          "children": [
+            "a16f80f8-7408-b25d-a3c6-e20121fdf782"
+          ],
+          "data": {
+            "tag": "h1",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a16f80f8-7408-b25d-a3c6-e20121fdf782",
+          "text": true,
+          "v": "Build perfect resumes with Zen"
+        },
+        {
+          "_id": "e6f57a93-3987-ad24-fff4-25f11a855c57",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00c"
+          ],
+          "children": [
+            "4f7396b5-6f82-91ea-9ea3-3efaf16e5592"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4f7396b5-6f82-91ea-9ea3-3efaf16e5592",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet consectetur, ac sed erat amet vitae senectus pellentesque diam non amet massa amet."
+        },
+        {
+          "_id": "3746514f-4cf2-325a-9bd9-fde5be60cf62",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b004"
+          ],
+          "children": [
+            "e7814c5e-b948-380c-71c2-9bf876d2f5c1"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "e7814c5e-b948-380c-71c2-9bf876d2f5c1",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "8f26798e-62c8-64dc-9d51-63212b34318e"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "8f26798e-62c8-64dc-9d51-63212b34318e",
+          "text": true,
+          "v": "Browse Templates"
+        },
+        {
+          "_id": "ac66a2ba-c5f6-d169-6c56-c4aec1adf7aa",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b012"
+          ],
+          "children": [
+            "1c006ab9-af8d-1456-edae-78ce73ff2a84",
+            "1de6d7cc-1f0c-a807-2410-2bd7f4816e6b"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1c006ab9-af8d-1456-edae-78ce73ff2a84",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "a5b20d5b-ebea-bfdb-b000-836c4c35a270"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n  <mask id=\"mask0_2848_2902\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"20\" height=\"20\">\n    <rect width=\"20\" height=\"20\" fill=\"#D9D9D9\"/>\n  </mask>\n  <g mask=\"url(#mask0_2848_2902)\">\n    <path d=\"M11.575 17.1248C10.8923 17.1248 10.3413 16.9061 9.92197 16.4686C9.50264 16.0311 9.29297 15.4763 9.29297 14.8043C9.29297 14.3236 9.40461 13.8551 9.62791 13.3989C9.8512 12.9427 10.1656 12.5295 10.571 12.1593C10.9765 11.7891 11.4578 11.4809 12.0149 11.2346C12.5721 10.9883 13.1845 10.8348 13.8523 10.7739C13.7892 9.98328 13.6252 9.40662 13.3603 9.0439C13.0953 8.68119 12.7 8.49984 12.1744 8.49984C11.5013 8.49984 10.879 8.75892 10.3074 9.27709C9.73582 9.79524 9.15943 10.4021 8.57822 11.0976C7.91155 11.9085 7.30605 12.5671 6.76172 13.0736C6.21739 13.58 5.60548 13.8332 4.92599 13.8332C4.32449 13.8332 3.83944 13.6208 3.47084 13.1961C3.10226 12.7715 2.91797 12.2124 2.91797 11.5191C2.91797 10.7402 3.09986 9.98327 3.46364 9.24823C3.82741 8.51319 4.26999 7.78028 4.79136 7.0495C5.09478 6.61361 5.34986 6.21191 5.55659 5.84438C5.76332 5.47687 5.86668 5.14727 5.86668 4.85561C5.86668 4.65155 5.81994 4.50652 5.72647 4.4205C5.63298 4.3345 5.50344 4.2915 5.33784 4.2915C5.14554 4.2915 4.93721 4.35961 4.71284 4.49584C4.48848 4.63206 4.23741 4.85775 3.95964 5.17292L3.07822 4.2915C3.45857 3.86735 3.83784 3.55298 4.21605 3.3484C4.59425 3.1438 4.96818 3.0415 5.33784 3.0415C5.86241 3.0415 6.29003 3.21111 6.6207 3.55032C6.95136 3.88952 7.1167 4.32141 7.1167 4.84598C7.1167 5.31287 6.98315 5.79925 6.71605 6.30513C6.44896 6.811 6.12043 7.34386 5.73047 7.90369C5.29884 8.52548 4.93052 9.13178 4.62551 9.72259C4.32048 10.3134 4.16797 10.901 4.16797 11.4854C4.16797 11.8497 4.23287 12.1238 4.36268 12.3075C4.49248 12.4913 4.68025 12.5832 4.92599 12.5832C5.30632 12.5832 5.69387 12.3874 6.08864 11.9958C6.4834 11.6043 6.97191 11.0623 7.55418 10.37C8.23687 9.55272 8.94307 8.82836 9.67278 8.19694C10.4025 7.56554 11.2363 7.24984 12.1744 7.24984C13.0729 7.24984 13.7735 7.56661 14.2761 8.20015C14.7788 8.8337 15.0542 9.6836 15.1023 10.7498H17.0846V11.9998H15.1023C15.0189 13.4892 14.6706 14.7156 14.0574 15.6793C13.4442 16.643 12.6167 17.1248 11.575 17.1248ZM11.5846 15.8748C12.2331 15.8748 12.7596 15.5097 13.164 14.7795C13.5683 14.0492 13.7962 13.1339 13.8474 12.0335C12.9201 12.1211 12.1375 12.4419 11.4997 12.9958C10.8619 13.5498 10.543 14.1462 10.543 14.7851C10.543 15.1291 10.6386 15.3967 10.8298 15.588C11.0211 15.7792 11.2727 15.8748 11.5846 15.8748Z\" fill=\"#030712\"/>\n  </g>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n  <mask id=\"mask0_2848_2902\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"20\" height=\"20\">\n    <rect width=\"20\" height=\"20\" fill=\"#D9D9D9\"/>\n  </mask>\n  <g mask=\"url(#mask0_2848_2902)\">\n    <path d=\"M11.575 17.1248C10.8923 17.1248 10.3413 16.9061 9.92197 16.4686C9.50264 16.0311 9.29297 15.4763 9.29297 14.8043C9.29297 14.3236 9.40461 13.8551 9.62791 13.3989C9.8512 12.9427 10.1656 12.5295 10.571 12.1593C10.9765 11.7891 11.4578 11.4809 12.0149 11.2346C12.5721 10.9883 13.1845 10.8348 13.8523 10.7739C13.7892 9.98328 13.6252 9.40662 13.3603 9.0439C13.0953 8.68119 12.7 8.49984 12.1744 8.49984C11.5013 8.49984 10.879 8.75892 10.3074 9.27709C9.73582 9.79524 9.15943 10.4021 8.57822 11.0976C7.91155 11.9085 7.30605 12.5671 6.76172 13.0736C6.21739 13.58 5.60548 13.8332 4.92599 13.8332C4.32449 13.8332 3.83944 13.6208 3.47084 13.1961C3.10226 12.7715 2.91797 12.2124 2.91797 11.5191C2.91797 10.7402 3.09986 9.98327 3.46364 9.24823C3.82741 8.51319 4.26999 7.78028 4.79136 7.0495C5.09478 6.61361 5.34986 6.21191 5.55659 5.84438C5.76332 5.47687 5.86668 5.14727 5.86668 4.85561C5.86668 4.65155 5.81994 4.50652 5.72647 4.4205C5.63298 4.3345 5.50344 4.2915 5.33784 4.2915C5.14554 4.2915 4.93721 4.35961 4.71284 4.49584C4.48848 4.63206 4.23741 4.85775 3.95964 5.17292L3.07822 4.2915C3.45857 3.86735 3.83784 3.55298 4.21605 3.3484C4.59425 3.1438 4.96818 3.0415 5.33784 3.0415C5.86241 3.0415 6.29003 3.21111 6.6207 3.55032C6.95136 3.88952 7.1167 4.32141 7.1167 4.84598C7.1167 5.31287 6.98315 5.79925 6.71605 6.30513C6.44896 6.811 6.12043 7.34386 5.73047 7.90369C5.29884 8.52548 4.93052 9.13178 4.62551 9.72259C4.32048 10.3134 4.16797 10.901 4.16797 11.4854C4.16797 11.8497 4.23287 12.1238 4.36268 12.3075C4.49248 12.4913 4.68025 12.5832 4.92599 12.5832C5.30632 12.5832 5.69387 12.3874 6.08864 11.9958C6.4834 11.6043 6.97191 11.0623 7.55418 10.37C8.23687 9.55272 8.94307 8.82836 9.67278 8.19694C10.4025 7.56554 11.2363 7.24984 12.1744 7.24984C13.0729 7.24984 13.7735 7.56661 14.2761 8.20015C14.7788 8.8337 15.0542 9.6836 15.1023 10.7498H17.0846V11.9998H15.1023C15.0189 13.4892 14.6706 14.7156 14.0574 15.6793C13.4442 16.643 12.6167 17.1248 11.575 17.1248ZM11.5846 15.8748C12.2331 15.8748 12.7596 15.5097 13.164 14.7795C13.5683 14.0492 13.7962 13.1339 13.8474 12.0335C12.9201 12.1211 12.1375 12.4419 11.4997 12.9958C10.8619 13.5498 10.543 14.1462 10.543 14.7851C10.543 15.1291 10.6386 15.3967 10.8298 15.588C11.0211 15.7792 11.2727 15.8748 11.5846 15.8748Z\" fill=\"#030712\"/>\n  </g>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1de6d7cc-1f0c-a807-2410-2bd7f4816e6b",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b006"
+          ],
+          "children": [
+            "28890b84-420e-40c3-40cf-9626d4664480"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "28890b84-420e-40c3-40cf-9626d4664480",
+          "text": true,
+          "v": "Add footnote / additional information in here."
+        },
+        {
+          "_id": "f1ebc1c1-66d0-6d4f-124b-aa4e5e0a5116",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b009"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"49\" viewBox=\"0 0 48 49\" fill=\"none\">\n  <path d=\"M31.5343 0.725098C32.754 10.3096 38.9356 17.8165 48 20.7251C37.8822 23.6337 29.0672 31.1129 24.4657 40.7251C23.246 31.1406 17.0645 23.6337 8 20.7528C18.1178 17.8165 26.9328 10.3096 31.5343 0.725098Z\" fill=\"#030712\"/>\n  <path d=\"M9.39955 33C9.88336 36.8359 12.3542 39.8423 16 41C11.9568 42.1577 8.41469 45.1641 6.58315 49C6.09935 45.1641 3.62851 42.1577 0 41C4.02592 39.8423 7.55074 36.8359 9.39955 33Z\" fill=\"#030712\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"49\" viewBox=\"0 0 48 49\" fill=\"none\">\n  <path d=\"M31.5343 0.725098C32.754 10.3096 38.9356 17.8165 48 20.7251C37.8822 23.6337 29.0672 31.1129 24.4657 40.7251C23.246 31.1406 17.0645 23.6337 8 20.7528C18.1178 17.8165 26.9328 10.3096 31.5343 0.725098Z\" fill=\"#030712\"/>\n  <path d=\"M9.39955 33C9.88336 36.8359 12.3542 39.8423 16 41C11.9568 42.1577 8.41469 45.1641 6.58315 49C6.09935 45.1641 3.62851 42.1577 0 41C4.02592 39.8423 7.55074 36.8359 9.39955 33Z\" fill=\"#030712\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "bd08fd48-3fef-57db-1346-6efe4b146bd8",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00f"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"65\" height=\"83\" viewBox=\"0 0 65 83\" fill=\"none\">\n  <path d=\"M38.4968 0.845215C40.4326 16.2004 50.3128 28.2105 64.8711 32.8452C48.6997 37.48 34.585 49.4901 27.2051 64.8452C25.2694 49.5304 15.3891 37.5203 0.871094 32.8855C17.0022 28.2105 31.1572 16.2004 38.4968 0.845215Z\" fill=\"#030712\"/>\n  <path d=\"M54.8611 58.6172C55.5868 64.371 59.293 68.8807 64.7617 70.6172C58.6969 72.3537 53.3837 76.8634 50.6364 82.6172C49.9107 76.8634 46.2045 72.3537 40.7617 70.6172C46.8006 68.8807 52.1138 64.371 54.8611 58.6172Z\" fill=\"#030712\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"65\" height=\"83\" viewBox=\"0 0 65 83\" fill=\"none\">\n  <path d=\"M38.4968 0.845215C40.4326 16.2004 50.3128 28.2105 64.8711 32.8452C48.6997 37.48 34.585 49.4901 27.2051 64.8452C25.2694 49.5304 15.3891 37.5203 0.871094 32.8855C17.0022 28.2105 31.1572 16.2004 38.4968 0.845215Z\" fill=\"#030712\"/>\n  <path d=\"M54.8611 58.6172C55.5868 64.371 59.293 68.8807 64.7617 70.6172C58.6969 72.3537 53.3837 76.8634 50.6364 82.6172C49.9107 76.8634 46.2045 72.3537 40.7617 70.6172C46.8006 68.8807 52.1138 64.371 54.8611 58.6172Z\" fill=\"#030712\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d05df70d-3f2a-5048-35c4-62a7812e90eb",
+          "type": "SliderWrapper",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00d"
+          ],
+          "children": [
+            "282bca20-b90e-7126-5d3c-aac017ba5608",
+            "9cc57cec-31af-0685-0621-2c0bc233575f",
+            "26d89e7d-e1c9-8531-a944-45686ea8d40d",
+            "29484d67-b6d8-9414-da8b-4456953a7d03"
+          ],
+          "data": {
+            "slider": {
+              "animation": "slide",
+              "easing": "ease",
+              "duration": 500,
+              "infinite": false,
+              "disableSwipe": false,
+              "autoplay": true,
+              "delay": 4000,
+              "autoMax": 0,
+              "hideArrows": false,
+              "navRound": true,
+              "navNumbers": true,
+              "navShadow": false,
+              "navInvert": false,
+              "navSpacing": 3,
+              "iconArrows": true,
+              "type": "wrapper"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "282bca20-b90e-7126-5d3c-aac017ba5608",
+          "type": "SliderMask",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b013"
+          ],
+          "children": [
+            "7c858660-88ee-df1c-8d93-379d5e8dba88",
+            "c36ee114-c0e6-851c-c4e5-7e64bf100c04",
+            "ffb96620-e33f-c607-4588-36faf7a1f089",
+            "2ab77de5-d581-0ac5-66d3-50eda32cbe78",
+            "40bd0c5a-810e-9d10-6d7c-725bf03e8b36",
+            "771170ba-daf2-cbb2-425e-dff22c0362ee",
+            "f371d427-b9c7-a319-0d60-2f33fe410e67",
+            "4eaa119a-8c63-c1f6-e223-1f63561f3b7e",
+            "18fa68a3-c051-a435-405e-3b79e9367500",
+            "91f4e264-9e06-456b-d9cf-6252c4b8d915"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "slider": {
+              "type": "slides"
+            }
+          }
+        },
+        {
+          "_id": "7c858660-88ee-df1c-8d93-379d5e8dba88",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "33540b83-cdf9-ab59-8830-5d75f527b6a9"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "33540b83-cdf9-ab59-8830-5d75f527b6a9",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "825161cc-a4a2-4e37-a1d6-98d82ea7ccc6",
+            "b20f0c87-0337-83b5-f465-52b9fbec7e0b"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "825161cc-a4a2-4e37-a1d6-98d82ea7ccc6",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b20f0c87-0337-83b5-f465-52b9fbec7e0b",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "de8a81cf-329b-f83a-4ea6-0724d959dcdc"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "de8a81cf-329b-f83a-4ea6-0724d959dcdc",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "78670ac4-46ce-dbe4-63c9-86048a74cb9c"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "78670ac4-46ce-dbe4-63c9-86048a74cb9c",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "c36ee114-c0e6-851c-c4e5-7e64bf100c04",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "2fc9c4e3-a455-da30-1628-ed148b78c1d6"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "2fc9c4e3-a455-da30-1628-ed148b78c1d6",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "3329766e-4e52-7be2-4774-a822e1e7166e",
+            "213be0a2-6e73-66cc-bdb9-2b72310088f2"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3329766e-4e52-7be2-4774-a822e1e7166e",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "213be0a2-6e73-66cc-bdb9-2b72310088f2",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "967aed1f-aa32-72de-d018-48544ecd6edc"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "967aed1f-aa32-72de-d018-48544ecd6edc",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "ca178669-6097-7344-5d91-fe11f3bd25d7"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ca178669-6097-7344-5d91-fe11f3bd25d7",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "ffb96620-e33f-c607-4588-36faf7a1f089",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "6073824e-b84f-5bb9-4c6b-e68983bb622a"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6073824e-b84f-5bb9-4c6b-e68983bb622a",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "3343297f-0b48-1fce-7316-a57794401b27",
+            "72f0bb4e-673e-bd3a-11fd-61bf03a3d900"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3343297f-0b48-1fce-7316-a57794401b27",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "72f0bb4e-673e-bd3a-11fd-61bf03a3d900",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "8723b08f-102a-4b8a-bd75-ca345ac231df"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "8723b08f-102a-4b8a-bd75-ca345ac231df",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "e9ed0dc4-10a7-a3cc-6f0b-b942fc50385d"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "e9ed0dc4-10a7-a3cc-6f0b-b942fc50385d",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "2ab77de5-d581-0ac5-66d3-50eda32cbe78",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "a5f3df64-c54d-d4b6-1716-e6e7425e9f91"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a5f3df64-c54d-d4b6-1716-e6e7425e9f91",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "e1d6aa6d-3b03-9ec8-04a1-21a367c1d7b1",
+            "5317d7a7-b85e-0ae6-3432-be5f4c937a7f"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "e1d6aa6d-3b03-9ec8-04a1-21a367c1d7b1",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "5317d7a7-b85e-0ae6-3432-be5f4c937a7f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "c4c5c659-1add-254a-6ef5-a6bc48f93bef"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c4c5c659-1add-254a-6ef5-a6bc48f93bef",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "1fb7e212-4f9e-e71a-66a6-2b68f8c9abe2"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1fb7e212-4f9e-e71a-66a6-2b68f8c9abe2",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "40bd0c5a-810e-9d10-6d7c-725bf03e8b36",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "9a39f51c-cb47-fa5c-7af1-31062056de14"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "9a39f51c-cb47-fa5c-7af1-31062056de14",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "fec60b1a-aa38-0c40-d975-46f5af570f9f",
+            "c83d97a6-feb0-2b2c-c35c-1ab296da870a"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "fec60b1a-aa38-0c40-d975-46f5af570f9f",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c83d97a6-feb0-2b2c-c35c-1ab296da870a",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "f121a9ab-3d1d-5416-4365-ce239185eacf"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "f121a9ab-3d1d-5416-4365-ce239185eacf",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "9de709d1-157b-79c6-9385-bf0282a11f95"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "9de709d1-157b-79c6-9385-bf0282a11f95",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "771170ba-daf2-cbb2-425e-dff22c0362ee",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "26cb4c0c-bb33-f8d3-0ad3-cf617accb07e"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "26cb4c0c-bb33-f8d3-0ad3-cf617accb07e",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "d26500cd-5207-6b71-3a22-b33cdfd90be9",
+            "1d8a4f8a-7cfa-54f6-e0c1-75d4757842bc"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d26500cd-5207-6b71-3a22-b33cdfd90be9",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1d8a4f8a-7cfa-54f6-e0c1-75d4757842bc",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "5b5e6780-21f7-81ff-17e1-754b921e0850"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "5b5e6780-21f7-81ff-17e1-754b921e0850",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "0a92725a-f491-1409-79d5-129fe3663f8e"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "0a92725a-f491-1409-79d5-129fe3663f8e",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "f371d427-b9c7-a319-0d60-2f33fe410e67",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "d0fa09cb-9b37-3cca-d4cf-801f87ad4803"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d0fa09cb-9b37-3cca-d4cf-801f87ad4803",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "82705c9c-39dc-7228-7986-2be7c2d9b28f",
+            "b38bcda1-cb4f-3423-896b-9641818acdde"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "82705c9c-39dc-7228-7986-2be7c2d9b28f",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b38bcda1-cb4f-3423-896b-9641818acdde",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "a2f150e1-ebd9-59ac-6a81-e53093e6d5c6"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a2f150e1-ebd9-59ac-6a81-e53093e6d5c6",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "75e4d776-f641-b88b-d04f-2d03d7e5eaf4"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "75e4d776-f641-b88b-d04f-2d03d7e5eaf4",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "4eaa119a-8c63-c1f6-e223-1f63561f3b7e",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "1c872ef1-203b-7a7b-b60f-50f8cb5c0d03"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1c872ef1-203b-7a7b-b60f-50f8cb5c0d03",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "d647e1f2-c3d7-02cc-6c94-09d23847da47",
+            "a426403b-87f2-dab9-61e0-e23aa7382665"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d647e1f2-c3d7-02cc-6c94-09d23847da47",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a426403b-87f2-dab9-61e0-e23aa7382665",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "5ee4c142-39c9-b520-9ec5-c352de4d0d64"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "5ee4c142-39c9-b520-9ec5-c352de4d0d64",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "46aec565-29f8-7639-4c62-533a4807f203"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "46aec565-29f8-7639-4c62-533a4807f203",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "18fa68a3-c051-a435-405e-3b79e9367500",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "45acc67e-669a-93a6-9878-d646ede78661"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "45acc67e-669a-93a6-9878-d646ede78661",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "976dc1ab-eb31-f75c-3c39-a33ce97619aa",
+            "7ddc1da4-de77-d072-ccbd-3d4431c8623c"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "976dc1ab-eb31-f75c-3c39-a33ce97619aa",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "7ddc1da4-de77-d072-ccbd-3d4431c8623c",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "d963490c-2f53-0184-71c6-d74885077da5"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d963490c-2f53-0184-71c6-d74885077da5",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "bb2d05dd-b781-0d4c-005d-ee36571caca5"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "bb2d05dd-b781-0d4c-005d-ee36571caca5",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "91f4e264-9e06-456b-d9cf-6252c4b8d915",
+          "type": "SliderSlide",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b008"
+          ],
+          "children": [
+            "17f695d6-e589-d4dc-26e9-7d97e3a5b273"
+          ],
+          "data": {
+            "tag": "div",
+            "slider": {
+              "type": "slide"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "17f695d6-e589-d4dc-26e9-7d97e3a5b273",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b015"
+          ],
+          "children": [
+            "d6973137-69f0-dee3-23cc-13bcbac66a8b",
+            "2cf92743-6fd9-7ab8-67d4-4bd7d9b7fbc7"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d6973137-69f0-dee3-23cc-13bcbac66a8b",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b016"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03ec00e635e4ebfd56169"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "2cf92743-6fd9-7ab8-67d4-4bd7d9b7fbc7",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b00e"
+          ],
+          "children": [
+            "e5e98d2c-c394-450c-5dda-4bf8948d1b21"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "e5e98d2c-c394-450c-5dda-4bf8948d1b21",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "d28b4803-065b-1d6c-030c-559b54651a82"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d28b4803-065b-1d6c-030c-559b54651a82",
+          "text": true,
+          "v": "Use template"
+        },
+        {
+          "_id": "9cc57cec-31af-0685-0621-2c0bc233575f",
+          "type": "SliderArrow",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b005",
+            "074994df-cce9-00e5-26dd-e95c08c1b017"
+          ],
+          "children": [
+            "87952d82-eb42-5096-928d-0e8606de0ee4"
+          ],
+          "data": {
+            "slider": {
+              "dir": "left"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "87952d82-eb42-5096-928d-0e8606de0ee4",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b014"
+          ],
+          "children": [
+            "d7cc4cd7-6f67-7fc1-c8a6-a38042ac5ed3"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d7cc4cd7-6f67-7fc1-c8a6-a38042ac5ed3",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "a5b20d5b-ebea-bfdb-b000-836c4c35a270"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n  <mask id=\"mask0_3547_113\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"24\" height=\"24\">\n    <rect width=\"24\" height=\"24\" transform=\"matrix(-1 0 0 1 24 0)\" fill=\"#D9D9D9\"/>\n  </mask>\n  <g mask=\"url(#mask0_3547_113)\">\n    <path d=\"M10.3077 17.3079L11.0155 16.5886L6.927 12.5001H19V11.5001H6.927L11.0155 7.41163L10.3077 6.69238L5 12.0001L10.3077 17.3079Z\" fill=\"#1F2937\"/>\n  </g>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n  <mask id=\"mask0_3547_113\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"24\" height=\"24\">\n    <rect width=\"24\" height=\"24\" transform=\"matrix(-1 0 0 1 24 0)\" fill=\"#D9D9D9\"/>\n  </mask>\n  <g mask=\"url(#mask0_3547_113)\">\n    <path d=\"M10.3077 17.3079L11.0155 16.5886L6.927 12.5001H19V11.5001H6.927L11.0155 7.41163L10.3077 6.69238L5 12.0001L10.3077 17.3079Z\" fill=\"#1F2937\"/>\n  </g>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "26d89e7d-e1c9-8531-a944-45686ea8d40d",
+          "type": "SliderArrow",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b005"
+          ],
+          "children": [
+            "45a0ff34-154a-0aad-c115-f9e8a182bdb5"
+          ],
+          "data": {
+            "slider": {
+              "dir": "right"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "45a0ff34-154a-0aad-c115-f9e8a182bdb5",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b014"
+          ],
+          "children": [
+            "49485cea-4fe0-8ad5-d919-46b68ff5df01"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "49485cea-4fe0-8ad5-d919-46b68ff5df01",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "a5b20d5b-ebea-bfdb-b000-836c4c35a270"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n  <mask id=\"mask0_3547_109\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"24\" height=\"24\">\n    <rect width=\"24\" height=\"24\" fill=\"currentColor\"/>\n  </mask>\n  <g mask=\"url(#mask0_3547_109)\">\n    <path d=\"M13.6923 17.3079L12.9845 16.5886L17.073 12.5001H5V11.5001H17.073L12.9845 7.41163L13.6923 6.69238L19 12.0001L13.6923 17.3079Z\" fill=\"#1F2937\"/>\n  </g>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n  <mask id=\"mask0_3547_109\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"24\" height=\"24\">\n    <rect width=\"24\" height=\"24\" fill=\"currentColor\"/>\n  </mask>\n  <g mask=\"url(#mask0_3547_109)\">\n    <path d=\"M13.6923 17.3079L12.9845 16.5886L17.073 12.5001H5V11.5001H17.073L12.9845 7.41163L13.6923 6.69238L19 12.0001L13.6923 17.3079Z\" fill=\"#1F2937\"/>\n  </g>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "29484d67-b6d8-9414-da8b-4456953a7d03",
+          "type": "SliderNav",
+          "tag": "div",
+          "classes": [
+            "074994df-cce9-00e5-26dd-e95c08c1b003"
+          ],
+          "children": [],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "slider": {
+              "type": "nav"
+            }
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b009",
+          "fake": false,
+          "type": "class",
+          "name": "Header Star Left",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 0%; top: 15%; right: auto; bottom: 0%; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center;",
+          "variants": {
+            "tiny": {
+              "styleLess": "display: none;"
+            },
+            "small": {
+              "styleLess": "top: 0%;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b012",
+          "fake": false,
+          "type": "class",
+          "name": "Row X Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: flex-start; align-items: center; grid-column-gap: 8px; grid-row-gap: 8px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b016",
+          "fake": false,
+          "type": "class",
+          "name": "Header Card Image",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b010",
+          "fake": false,
+          "type": "class",
+          "name": "Display Heading",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; color: hsl(224, 71%, 4%); font-size: 88px; line-height: 1.1; font-weight: 500; letter-spacing: -2.5px;",
+          "variants": {
+            "small": {
+              "styleLess": "font-size: 58px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b003",
+          "fake": false,
+          "type": "class",
+          "name": "Hide",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: none;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b007",
+          "fake": false,
+          "type": "class",
+          "name": "Section Regular 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 82px; padding-right: 5%; padding-bottom: 82px; padding-left: 5%;",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 72px; padding-bottom: 72px;"
+            }
+          },
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b014",
+          "fake": false,
+          "type": "class",
+          "name": "Slider Button",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: hsl(220, 13%, 91%); border-right-style: solid; border-right-width: 1px; border-right-color: hsl(220, 13%, 91%); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsl(220, 13%, 91%); border-left-style: solid; border-left-width: 1px; border-left-color: hsl(220, 13%, 91%); border-top-left-radius: 100%; border-top-right-radius: 100%; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; transition-property: background-color, border-color; transition-duration: 300ms, 300ms; transition-timing-function: ease, ease;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "border-top-color: hsl(216, 12%, 84%); border-right-color: hsl(216, 12%, 84%); border-bottom-color: hsl(216, 12%, 84%); border-left-color: hsl(216, 12%, 84%); background-color: hsl(210, 20%, 98%);"
+            }
+          },
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "a5b20d5b-ebea-bfdb-b000-836c4c35a270",
+          "fake": false,
+          "type": "class",
+          "name": "Icon Regular 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 24px; height: 24px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b015",
+          "fake": false,
+          "type": "class",
+          "name": "Header Card 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: flex; min-height: 400px; padding-top: 32px; padding-right: 32px; padding-bottom: 32px; padding-left: 32px; justify-content: center; align-items: center; border-top-left-radius: 24px; border-top-right-radius: 24px; border-bottom-left-radius: 24px; border-bottom-right-radius: 24px; background-color: hsl(220, 14%, 96%);",
+          "variants": {
+            "tiny": {
+              "styleLess": "min-height: 340px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b00c",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Large 5",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 20px; line-height: 32px; letter-spacing: -0.3px;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b00b",
+          "fake": false,
+          "type": "class",
+          "name": "Container X Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 1440px; margin-right: auto; margin-left: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b00d",
+          "fake": false,
+          "type": "class",
+          "name": "Header Card Slider",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "overflow: hidden; height: auto; background-color: transparent;",
+          "variants": {
+            "medium": {
+              "styleLess": "margin-right: -5%; margin-left: -5%; padding-right: 5%; padding-left: 5%;"
+            }
+          },
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b005",
+          "fake": false,
+          "type": "class",
+          "name": "Header Slider Trigger",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: auto; top: 0%; right: 0%; bottom: 0%; z-index: 2; display: flex; width: 20%; justify-content: flex-end; align-items: center; background-image: linear-gradient(90deg, hsla(0, 0.00%, 100.00%, 0.00), white 50%);",
+          "variants": {},
+          "children": [
+            "074994df-cce9-00e5-26dd-e95c08c1b017"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b017",
+          "fake": false,
+          "type": "class",
+          "name": "Left",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "left: 0px; right: auto; justify-content: flex-start; align-items: center; background-image: linear-gradient(90deg, hsla(0, 0.00%, 100.00%, 1.00) 50%, hsla(0, 0.00%, 100.00%, 0.00));",
+          "variants": {
+            "medium": {
+              "styleLess": "width: 5%; background-image: none /* linear-gradient(90deg, hsla(0, 0.00%, 100.00%, 1.00) 50%, hsla(0, 0.00%, 100.00%, 0.00)) */;"
+            }
+          },
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b006",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph X Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 12px; text-decoration: none;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ad9241ed-14fd-57c2-98a0-2e80e8bc6da8",
+          "fake": false,
+          "type": "class",
+          "name": "Column Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {},
+          "children": [
+            "ad9241ed-14fd-57c2-98a0-2e80e8bc6db1"
+          ],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b013",
+          "fake": false,
+          "type": "class",
+          "name": "Header Slider Mask",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "overflow: visible; width: 270px; margin-right: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b011",
+          "fake": false,
+          "type": "class",
+          "name": "Header Title Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: flex; max-width: 700px; margin-right: auto; margin-bottom: 80px; margin-left: auto; flex-direction: column; justify-content: center; align-items: center; grid-column-gap: 24px; grid-row-gap: 24px; text-align: center;",
+          "variants": {
+            "medium": {
+              "styleLess": "max-width: 600px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b008",
+          "fake": false,
+          "type": "class",
+          "name": "Header Card Slide",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-right: 24px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b004",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary 5",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: inline-flex; height: 48px; padding-top: 8px; padding-right: 24px; padding-bottom: 8px; padding-left: 24px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto; grid-column-gap: 4px; grid-row-gap: 4px; border-top-left-radius: 44px; border-top-right-radius: 44px; border-bottom-left-radius: 44px; border-bottom-right-radius: 44px; background-color: hsl(221, 39%, 11%); transition-property: color, background-color; transition-duration: 300ms, 300ms; transition-timing-function: ease, ease; color: hsl(0, 0%, 100%); font-size: 16px; line-height: 32px; font-weight: 500; letter-spacing: -0.2px; text-decoration: none;",
+          "variants": {
+            "main_current": {
+              "styleLess": "border-top-color: hsl(215, 19%, 35%); border-right-color: hsl(215, 19%, 35%); border-bottom-color: hsl(215, 19%, 35%); border-left-color: hsl(215, 19%, 35%); background-color: hsl(215, 25%, 27%);"
+            },
+            "main_hover": {
+              "styleLess": "background-color: hsl(304, 42%, 40%); color: hsl(0, 0%, 100%);"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b00e",
+          "fake": false,
+          "type": "class",
+          "name": "Header Card Button",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; bottom: 24px; display: flex; height: 32px; padding-top: 4px; padding-right: 16px; padding-bottom: 4px; padding-left: 16px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 1; flex-basis: auto; grid-column-gap: 4px; grid-row-gap: 4px; border-top-left-radius: 44px; border-top-right-radius: 44px; border-bottom-left-radius: 44px; border-bottom-right-radius: 44px; background-color: hsl(224, 71%, 4%); transition-property: background-color; transition-duration: 300ms; transition-timing-function: ease; color: white; font-size: 14px; line-height: 24px; font-weight: 500; letter-spacing: -0.2px; text-decoration: none;",
+          "variants": {
+            "main_current": {
+              "styleLess": "border-top-color: hsl(215, 19%, 35%); border-right-color: hsl(215, 19%, 35%); border-bottom-color: hsl(215, 19%, 35%); border-left-color: hsl(215, 19%, 35%); background-color: hsl(215, 25%, 27%);"
+            },
+            "main_hover": {
+              "styleLess": "background-color: hsl(304, 42%, 40%);"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b00a",
+          "fake": false,
+          "type": "class",
+          "name": "Overline Regular",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "font-size: 14px; line-height: 24px; font-weight: 500; letter-spacing: 1.28px; text-transform: uppercase;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "074994df-cce9-00e5-26dd-e95c08c1b00f",
+          "fake": false,
+          "type": "class",
+          "name": "Header Star Right",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: auto; top: 0%; right: 0%; bottom: auto; display: flex; width: 64px; height: 81px; justify-content: center; align-items: center;",
+          "variants": {
+            "tiny": {
+              "styleLess": "display: none;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+          "siteId": "67b501190b2613705a22cf3a",
+          "width": 211,
+          "isHD": false,
+          "height": 156,
+          "fileName": "67e03ec00e635e4ebfd56169_Resume Card Image.svg",
+          "createdOn": "2025-03-23T17:02:56.793Z",
+          "origFileName": "Resume Card Image.svg",
+          "fileHash": "14ffd14660ce98e0896963fb185c33b2",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/svg+xml",
+          "isFromWellKnownFolder": false,
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03ec00e635e4ebfd56169_Resume%20Card%20Image.svg",
+          "_id": "67e03ec00e635e4ebfd56169",
+          "updatedOn": "2025-03-23T17:02:56.794Z",
+          "fileSize": 3157,
+          "localizedSettings": {}
+        }
+      ],
+      "ix1": [],
+      "ix2": {
+        "interactions": [
+          {
+            "id": "i-8",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-19",
+              "e-20"
+            ],
+            "target": "67b501190b2613705a22cf41|45acc67e-669a-93a6-9878-d646ede78661",
+            "createdOn": 1725786469382
+          },
+          {
+            "id": "i-12",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-31",
+              "e-36"
+            ],
+            "target": "67b501190b2613705a22cf41|26d89e7d-e1c9-8531-a944-45686ea8d40d",
+            "createdOn": 1726044713036
+          },
+          {
+            "id": "i-13",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-18",
+              "e-35"
+            ],
+            "target": "67b501190b2613705a22cf41|17f695d6-e589-d4dc-26e9-7d97e3a5b273",
+            "createdOn": 1725786469171
+          },
+          {
+            "id": "i-10",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-24",
+              "e-34"
+            ],
+            "target": "67b501190b2613705a22cf41|26cb4c0c-bb33-f8d3-0ad3-cf617accb07e",
+            "createdOn": 1725797738704
+          },
+          {
+            "id": "i-16",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-28",
+              "e-25"
+            ],
+            "target": "67b501190b2613705a22cf41|6073824e-b84f-5bb9-4c6b-e68983bb622a",
+            "createdOn": 1725786470175
+          },
+          {
+            "id": "i-18",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-22",
+              "e-33"
+            ],
+            "target": "67b501190b2613705a22cf41|2fc9c4e3-a455-da30-1628-ed148b78c1d6",
+            "createdOn": 1725786472925
+          },
+          {
+            "id": "i-9",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-32",
+              "e-16"
+            ],
+            "target": "67b501190b2613705a22cf41|33540b83-cdf9-ab59-8830-5d75f527b6a9",
+            "createdOn": 1725786390571
+          },
+          {
+            "id": "i-15",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-29",
+              "e-17"
+            ],
+            "target": "67b501190b2613705a22cf41|d0fa09cb-9b37-3cca-d4cf-801f87ad4803",
+            "createdOn": 1725797738500
+          },
+          {
+            "id": "i-14",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-21",
+              "e-26"
+            ],
+            "target": "67b501190b2613705a22cf41|a5f3df64-c54d-d4b6-1716-e6e7425e9f91",
+            "createdOn": 1725797739032
+          },
+          {
+            "id": "i-11",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-27",
+              "e-37"
+            ],
+            "target": "67b501190b2613705a22cf41|1c872ef1-203b-7a7b-b60f-50f8cb5c0d03",
+            "createdOn": 1725786469585
+          },
+          {
+            "id": "i-17",
+            "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+            "eventIds": [
+              "e-30",
+              "e-23"
+            ],
+            "target": "67b501190b2613705a22cf41|9a39f51c-cb47-fa5c-7af1-31062056de14",
+            "createdOn": 1725797738875
+          }
+        ],
+        "events": [
+          {
+            "id": "e-22",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-33"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|2fc9c4e3-a455-da30-1628-ed148b78c1d6",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|2fc9c4e3-a455-da30-1628-ed148b78c1d6",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786472925
+          },
+          {
+            "id": "e-19",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-20"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|45acc67e-669a-93a6-9878-d646ede78661",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|45acc67e-669a-93a6-9878-d646ede78661",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786469382
+          },
+          {
+            "id": "e-23",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-30"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|9a39f51c-cb47-fa5c-7af1-31062056de14",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|9a39f51c-cb47-fa5c-7af1-31062056de14",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797738875
+          },
+          {
+            "id": "e-26",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-21"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|a5f3df64-c54d-d4b6-1716-e6e7425e9f91",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|a5f3df64-c54d-d4b6-1716-e6e7425e9f91",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797739032
+          },
+          {
+            "id": "e-17",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-29"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|d0fa09cb-9b37-3cca-d4cf-801f87ad4803",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|d0fa09cb-9b37-3cca-d4cf-801f87ad4803",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797738500
+          },
+          {
+            "id": "e-35",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-18"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|17f695d6-e589-d4dc-26e9-7d97e3a5b273",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|17f695d6-e589-d4dc-26e9-7d97e3a5b273",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786469171
+          },
+          {
+            "id": "e-31",
+            "name": "",
+            "animationType": "custom",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-17",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-36"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|26d89e7d-e1c9-8531-a944-45686ea8d40d",
+              "appliesTo": "CLASS",
+              "styleBlockIds": [
+                "074994df-cce9-00e5-26dd-e95c08c1b005"
+              ]
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|26d89e7d-e1c9-8531-a944-45686ea8d40d",
+                "appliesTo": "CLASS",
+                "styleBlockIds": [
+                  "074994df-cce9-00e5-26dd-e95c08c1b005"
+                ]
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1726044713036
+          },
+          {
+            "id": "e-28",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-25"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|6073824e-b84f-5bb9-4c6b-e68983bb622a",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|6073824e-b84f-5bb9-4c6b-e68983bb622a",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786470175
+          },
+          {
+            "id": "e-20",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-19"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|45acc67e-669a-93a6-9878-d646ede78661",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|45acc67e-669a-93a6-9878-d646ede78661",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786469382
+          },
+          {
+            "id": "e-30",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-23"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|9a39f51c-cb47-fa5c-7af1-31062056de14",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|9a39f51c-cb47-fa5c-7af1-31062056de14",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797738875
+          },
+          {
+            "id": "e-32",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-16"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|33540b83-cdf9-ab59-8830-5d75f527b6a9",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|33540b83-cdf9-ab59-8830-5d75f527b6a9",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786390571
+          },
+          {
+            "id": "e-24",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-34"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|26cb4c0c-bb33-f8d3-0ad3-cf617accb07e",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|26cb4c0c-bb33-f8d3-0ad3-cf617accb07e",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797738704
+          },
+          {
+            "id": "e-25",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-28"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|6073824e-b84f-5bb9-4c6b-e68983bb622a",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|6073824e-b84f-5bb9-4c6b-e68983bb622a",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786470175
+          },
+          {
+            "id": "e-21",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-26"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|a5f3df64-c54d-d4b6-1716-e6e7425e9f91",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|a5f3df64-c54d-d4b6-1716-e6e7425e9f91",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797739032
+          },
+          {
+            "id": "e-37",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-27"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|1c872ef1-203b-7a7b-b60f-50f8cb5c0d03",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|1c872ef1-203b-7a7b-b60f-50f8cb5c0d03",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786469585
+          },
+          {
+            "id": "e-34",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-24"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|26cb4c0c-bb33-f8d3-0ad3-cf617accb07e",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|26cb4c0c-bb33-f8d3-0ad3-cf617accb07e",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797738704
+          },
+          {
+            "id": "e-29",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-17"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|d0fa09cb-9b37-3cca-d4cf-801f87ad4803",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|d0fa09cb-9b37-3cca-d4cf-801f87ad4803",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725797738500
+          },
+          {
+            "id": "e-16",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-32"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|33540b83-cdf9-ab59-8830-5d75f527b6a9",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|33540b83-cdf9-ab59-8830-5d75f527b6a9",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786390571
+          },
+          {
+            "id": "e-18",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-35"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|17f695d6-e589-d4dc-26e9-7d97e3a5b273",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|17f695d6-e589-d4dc-26e9-7d97e3a5b273",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786469171
+          },
+          {
+            "id": "e-36",
+            "name": "",
+            "animationType": "custom",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-18",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-31"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|26d89e7d-e1c9-8531-a944-45686ea8d40d",
+              "appliesTo": "CLASS",
+              "styleBlockIds": [
+                "074994df-cce9-00e5-26dd-e95c08c1b005"
+              ]
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|26d89e7d-e1c9-8531-a944-45686ea8d40d",
+                "appliesTo": "CLASS",
+                "styleBlockIds": [
+                  "074994df-cce9-00e5-26dd-e95c08c1b005"
+                ]
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1726044713037
+          },
+          {
+            "id": "e-27",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OVER",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-15",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-37"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|1c872ef1-203b-7a7b-b60f-50f8cb5c0d03",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|1c872ef1-203b-7a7b-b60f-50f8cb5c0d03",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786469585
+          },
+          {
+            "id": "e-33",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "MOUSE_OUT",
+            "action": {
+              "id": "",
+              "actionTypeId": "GENERAL_START_ACTION",
+              "instant": true,
+              "config": {
+                "delay": 0,
+                "easing": "",
+                "duration": 0,
+                "actionListId": "a-16",
+                "affectedElements": {},
+                "playInReverse": false,
+                "autoStopEventId": "e-22"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|2fc9c4e3-a455-da30-1628-ed148b78c1d6",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|2fc9c4e3-a455-da30-1628-ed148b78c1d6",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": null,
+              "scrollOffsetUnit": null,
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1725786472925
+          }
+        ],
+        "actionLists": [
+          {
+            "id": "a-15",
+            "title": "Header Hover On",
+            "actionItemGroups": [
+              {
+                "actionItems": [
+                  {
+                    "id": "a-15-n",
+                    "actionTypeId": "TRANSFORM_MOVE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "",
+                      "duration": 500,
+                      "target": {
+                        "nodeId": "6535b87a8dd7217452182180|122b9e2a-5743-6ebc-95a8-8a0f7e107573",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b00e"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "yValue": 32,
+                      "xUnit": "PX",
+                      "yUnit": "px",
+                      "zUnit": "PX"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-15-n-2",
+                    "actionTypeId": "STYLE_OPACITY",
+                    "config": {
+                      "delay": 0,
+                      "easing": "",
+                      "duration": 500,
+                      "target": {
+                        "nodeId": "6535b87a8dd7217452182180|122b9e2a-5743-6ebc-95a8-8a0f7e107573",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b00e"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "value": 0,
+                      "unit": "%"
+                    },
+                    "instant": false
+                  }
+                ]
+              },
+              {
+                "actionItems": [
+                  {
+                    "id": "a-15-n-3",
+                    "actionTypeId": "STYLE_OPACITY",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "6535b87a8dd7217452182180|122b9e2a-5743-6ebc-95a8-8a0f7e107573",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b00e"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "value": 100,
+                      "unit": "%"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-15-n-4",
+                    "actionTypeId": "TRANSFORM_MOVE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "6535b87a8dd7217452182180|122b9e2a-5743-6ebc-95a8-8a0f7e107573",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b00e"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "yValue": 0,
+                      "xUnit": "PX",
+                      "yUnit": "px",
+                      "zUnit": "PX"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-15-n-5",
+                    "actionTypeId": "TRANSFORM_SCALE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "67b501190b2613705a22cf41|3343297f-0b48-1fce-7316-a57794401b27",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b016"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "xValue": 1.1,
+                      "yValue": 1.1,
+                      "locked": true
+                    },
+                    "instant": false
+                  }
+                ]
+              }
+            ],
+            "useFirstGroupAsInitialState": true,
+            "createdOn": 1698311561330
+          },
+          {
+            "id": "a-16",
+            "title": "Header Hover Off",
+            "actionItemGroups": [
+              {
+                "actionItems": [
+                  {
+                    "id": "a-16-n",
+                    "actionTypeId": "STYLE_OPACITY",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "6535b87a8dd7217452182180|122b9e2a-5743-6ebc-95a8-8a0f7e107573",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b00e"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "value": 0,
+                      "unit": "%"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-16-n-2",
+                    "actionTypeId": "TRANSFORM_MOVE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "6535b87a8dd7217452182180|122b9e2a-5743-6ebc-95a8-8a0f7e107573",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b00e"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "yValue": 32,
+                      "xUnit": "PX",
+                      "yUnit": "px",
+                      "zUnit": "PX"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-16-n-3",
+                    "actionTypeId": "TRANSFORM_SCALE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "67b501190b2613705a22cf41|3343297f-0b48-1fce-7316-a57794401b27",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b016"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "xValue": 1,
+                      "yValue": 1,
+                      "locked": true
+                    },
+                    "instant": false
+                  }
+                ]
+              }
+            ],
+            "useFirstGroupAsInitialState": false,
+            "createdOn": 1698311561330
+          },
+          {
+            "id": "a-17",
+            "title": "Testimonial Slider Button Hover On",
+            "actionItemGroups": [
+              {
+                "actionItems": [
+                  {
+                    "id": "a-17-n",
+                    "actionTypeId": "STYLE_OPACITY",
+                    "config": {
+                      "delay": 0,
+                      "easing": "",
+                      "duration": 500,
+                      "target": {
+                        "nodeId": "653b14158289366d65288ca4|c3aa7a2d-1318-5fc4-3ee7-51d3a15c8b4c",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b014"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "value": 0,
+                      "unit": "%"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-17-n-2",
+                    "actionTypeId": "TRANSFORM_MOVE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "",
+                      "duration": 500,
+                      "target": {
+                        "nodeId": "653b14158289366d65288ca4|c3aa7a2d-1318-5fc4-3ee7-51d3a15c8b4c",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b014"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "xValue": null,
+                      "yValue": 20,
+                      "xUnit": "px",
+                      "yUnit": "px",
+                      "zUnit": "PX"
+                    },
+                    "instant": false
+                  }
+                ]
+              },
+              {
+                "actionItems": [
+                  {
+                    "id": "a-17-n-3",
+                    "actionTypeId": "STYLE_OPACITY",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "653b14158289366d65288ca4|c3aa7a2d-1318-5fc4-3ee7-51d3a15c8b4c",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b014"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "value": 100,
+                      "unit": "%"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-17-n-4",
+                    "actionTypeId": "TRANSFORM_MOVE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "653b14158289366d65288ca4|c3aa7a2d-1318-5fc4-3ee7-51d3a15c8b4c",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b014"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "xValue": null,
+                      "yValue": 0,
+                      "xUnit": "px",
+                      "yUnit": "px",
+                      "zUnit": "PX"
+                    },
+                    "instant": false
+                  }
+                ]
+              }
+            ],
+            "useFirstGroupAsInitialState": true,
+            "createdOn": 1726037575584
+          },
+          {
+            "id": "a-18",
+            "title": "Testimonial Slider Button Hover Off",
+            "actionItemGroups": [
+              {
+                "actionItems": [
+                  {
+                    "id": "a-18-n",
+                    "actionTypeId": "STYLE_OPACITY",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "653b14158289366d65288ca4|c3aa7a2d-1318-5fc4-3ee7-51d3a15c8b4c",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b014"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "value": 0,
+                      "unit": "%"
+                    },
+                    "instant": false
+                  },
+                  {
+                    "id": "a-18-n-2",
+                    "actionTypeId": "TRANSFORM_MOVE",
+                    "config": {
+                      "delay": 0,
+                      "easing": "ease",
+                      "duration": 300,
+                      "target": {
+                        "nodeId": "653b14158289366d65288ca4|c3aa7a2d-1318-5fc4-3ee7-51d3a15c8b4c",
+                        "appliesTo": "ELEMENT_CLASS",
+                        "styleBlockIds": [
+                          "074994df-cce9-00e5-26dd-e95c08c1b014"
+                        ],
+                        "useEventTarget": "CHILDREN",
+                        "boundaryMode": false
+                      },
+                      "xValue": null,
+                      "yValue": 20,
+                      "xUnit": "px",
+                      "yUnit": "px",
+                      "zUnit": "PX"
+                    },
+                    "instant": false
+                  }
+                ]
+              }
+            ],
+            "useFirstGroupAsInitialState": false,
+            "createdOn": 1726037575584
+          }
+        ]
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

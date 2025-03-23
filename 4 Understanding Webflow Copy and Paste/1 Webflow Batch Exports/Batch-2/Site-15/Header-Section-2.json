@@ -1,0 +1,2131 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "1200da7e-ee82-f152-c65f-235c3d9f8532",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7bd"
+          ],
+          "children": [
+            "6f70f659-6e78-b157-b2bd-16895d60ea11",
+            "f3cceb2e-ba67-d109-8d36-70c768c5e69b",
+            "c3e6a566-909d-7ba4-01f6-6417e685d04a",
+            "70ba27bd-a70a-1ef5-715f-565b237edcc4"
+          ],
+          "data": {
+            "tag": "section",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "6f70f659-6e78-b157-b2bd-16895d60ea11",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "a6c4ee37-2565-f0ef-25e2-c76b8f5f3858"
+          ],
+          "children": [],
+          "v": "<!-- Flowbase Booster [Carousel Ticker] -->\n<script src=\"https://cdn.jsdelivr.net/npm/@flowbase-co/boosters-carousel-ticker@1/dist/carousel-ticker.min.js\" type=\"text/javascript\"></script>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<!-- Flowbase Booster [Carousel Ticker] -->\n<script src=\"https://cdn.jsdelivr.net/npm/@flowbase-co/boosters-carousel-ticker@1/dist/carousel-ticker.min.js\" type=\"text/javascript\"></script>",
+                "div": false,
+                "script": true,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "f3cceb2e-ba67-d109-8d36-70c768c5e69b",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d1"
+          ],
+          "children": [
+            "05252b53-64c5-b30d-daae-9a6b4b457777",
+            "77f573ec-a2c4-2075-aaf5-e4dc35b9faa5"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "main": {
+                  "noPseudo": {
+                    "gridColumnStart": "span 1",
+                    "gridColumnEnd": "span 1",
+                    "gridRowStart": "span 1",
+                    "gridRowEnd": "span 1",
+                    "alignSelf": "center"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "_id": "05252b53-64c5-b30d-daae-9a6b4b457777",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7cf"
+          ],
+          "children": [
+            "398e1dbb-d120-c13d-04eb-868efeab80c4",
+            "01d71baf-f63f-a29d-2b19-f076c62255ca"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "398e1dbb-d120-c13d-04eb-868efeab80c4",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c3"
+          ],
+          "children": [
+            "b79d9d3e-f13d-d306-4058-169b193f244d",
+            "07e680b4-0b9e-31c2-8370-2839da98b268",
+            "233733a6-73c2-f8ba-5b78-bcd5c7488853",
+            "56065d60-33c7-9691-affb-bac82c6a61b5"
+          ],
+          "data": {
+            "tag": "h1",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b79d9d3e-f13d-d306-4058-169b193f244d",
+          "text": true,
+          "v": "Enhanced your team "
+        },
+        {
+          "_id": "07e680b4-0b9e-31c2-8370-2839da98b268",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d0"
+          ],
+          "children": [
+            "dc465724-61bf-294a-1f1c-067259680fea"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "dc465724-61bf-294a-1f1c-067259680fea",
+          "text": true,
+          "v": "productivity"
+        },
+        {
+          "_id": "233733a6-73c2-f8ba-5b78-bcd5c7488853",
+          "text": true,
+          "v": " and "
+        },
+        {
+          "_id": "56065d60-33c7-9691-affb-bac82c6a61b5",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d0"
+          ],
+          "children": [
+            "cf87f053-60b8-1fb3-b4b0-e40ed143eb74"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "cf87f053-60b8-1fb3-b4b0-e40ed143eb74",
+          "text": true,
+          "v": "well-being"
+        },
+        {
+          "_id": "01d71baf-f63f-a29d-2b19-f076c62255ca",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7cd"
+          ],
+          "children": [
+            "1d77a22f-e7bc-4a25-4977-f07d2009e721"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1d77a22f-e7bc-4a25-4977-f07d2009e721",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a luctus lorem, porttitor blandit purus."
+        },
+        {
+          "_id": "77f573ec-a2c4-2075-aaf5-e4dc35b9faa5",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7be"
+          ],
+          "children": [
+            "5d6090aa-b419-6e9c-0c35-a16fa031ceab",
+            "51ae6172-8556-a5ba-e295-f6c684603e2e"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "5d6090aa-b419-6e9c-0c35-a16fa031ceab",
+          "type": "FormWrapper",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c1"
+          ],
+          "children": [
+            "4b0c4f54-48be-f7d4-9bb6-d80df0791bcc",
+            "40b66354-bbf7-47da-09df-9a7b8919d786",
+            "c10deba5-7ef3-a9fe-bbd6-8b3c82fa1911"
+          ],
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "form": {
+              "type": "wrapper"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4b0c4f54-48be-f7d4-9bb6-d80df0791bcc",
+          "type": "FormForm",
+          "tag": "form",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ca"
+          ],
+          "children": [
+            "23d8ebda-1497-bf27-6d4b-7eadf76790b8",
+            "6931a40f-01d7-89a6-17a9-20e48435a2f5"
+          ],
+          "data": {
+            "Source": {
+              "tag": "Default form",
+              "val": {}
+            },
+            "form": {
+              "type": "form",
+              "name": "Email Form"
+            },
+            "attr": {
+              "id": "email-form",
+              "name": "email-form",
+              "data-name": "Email Form",
+              "redirect": "",
+              "data-redirect": "",
+              "action": "",
+              "method": "get"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "23d8ebda-1497-bf27-6d4b-7eadf76790b8",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c6"
+          ],
+          "children": [
+            "4eb41626-3874-4db4-dec9-f5d5725a8dc8",
+            "0e248d49-4ce6-85ba-43f0-67a78144e2ea"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4eb41626-3874-4db4-dec9-f5d5725a8dc8",
+          "type": "FormTextInput",
+          "tag": "input",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7b9",
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d3"
+          ],
+          "children": [],
+          "data": {
+            "form": {
+              "name": "Header Email",
+              "type": "input",
+              "passwordPage": false
+            },
+            "attr": {
+              "id": "Header-Email",
+              "name": "Header-Email",
+              "maxlength": 256,
+              "data-name": "Header Email",
+              "placeholder": "Enter Your Email",
+              "disabled": false,
+              "type": "email",
+              "required": false,
+              "autofocus": false
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "0e248d49-4ce6-85ba-43f0-67a78144e2ea",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7bf"
+          ],
+          "children": [],
+          "v": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.25 5.25H18.75C18.9489 5.25 19.1397 5.32902 19.2803 5.46967C19.421 5.61032 19.5 5.80109 19.5 6V18C19.5 18.1989 19.421 18.3897 19.2803 18.5303C19.1397 18.671 18.9489 18.75 18.75 18.75H5.25C5.05109 18.75 4.86032 18.671 4.71967 18.5303C4.57902 18.3897 4.5 18.1989 4.5 18V6C4.5 5.80109 4.57902 5.61032 4.71967 5.46967C4.86032 5.32902 5.05109 5.25 5.25 5.25V5.25ZM12.045 11.7622L7.236 7.6785L6.26475 8.8215L12.0547 13.7378L17.7405 8.81775L16.7595 7.683L12.0457 11.7622H12.045Z\" fill=\"currentColor\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.25 5.25H18.75C18.9489 5.25 19.1397 5.32902 19.2803 5.46967C19.421 5.61032 19.5 5.80109 19.5 6V18C19.5 18.1989 19.421 18.3897 19.2803 18.5303C19.1397 18.671 18.9489 18.75 18.75 18.75H5.25C5.05109 18.75 4.86032 18.671 4.71967 18.5303C4.57902 18.3897 4.5 18.1989 4.5 18V6C4.5 5.80109 4.57902 5.61032 4.71967 5.46967C4.86032 5.32902 5.05109 5.25 5.25 5.25V5.25ZM12.045 11.7622L7.236 7.6785L6.26475 8.8215L12.0547 13.7378L17.7405 8.81775L16.7595 7.683L12.0457 11.7622H12.045Z\" fill=\"currentColor\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6931a40f-01d7-89a6-17a9-20e48435a2f5",
+          "type": "FormButton",
+          "tag": "input",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c7"
+          ],
+          "children": [],
+          "data": {
+            "form": {
+              "type": "button"
+            },
+            "eventIds": [],
+            "attr": {
+              "type": "submit",
+              "value": "Get started",
+              "data-wait": "Please wait...",
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "40b66354-bbf7-47da-09df-9a7b8919d786",
+          "type": "FormSuccessMessage",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c0"
+          ],
+          "children": [
+            "aee25b34-13e6-6df1-d84d-556564463292"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "form": {
+              "type": "msg-done"
+            }
+          }
+        },
+        {
+          "_id": "aee25b34-13e6-6df1-d84d-556564463292",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "d26e2871-89ec-8157-ed33-417ca100f838"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d26e2871-89ec-8157-ed33-417ca100f838",
+          "text": true,
+          "v": "Thank you! Your submission has been received!"
+        },
+        {
+          "_id": "c10deba5-7ef3-a9fe-bbd6-8b3c82fa1911",
+          "type": "FormErrorMessage",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c5"
+          ],
+          "children": [
+            "5df6ceef-61cf-fd4b-b77c-9be2bc9c8994"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "form": {
+              "type": "msg-fail"
+            }
+          }
+        },
+        {
+          "_id": "5df6ceef-61cf-fd4b-b77c-9be2bc9c8994",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "a98cd4cb-a8e2-4971-04fd-ed7904f99a0c"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a98cd4cb-a8e2-4971-04fd-ed7904f99a0c",
+          "text": true,
+          "v": "Oops! Something went wrong while submitting the form."
+        },
+        {
+          "_id": "51ae6172-8556-a5ba-e295-f6c684603e2e",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c4"
+          ],
+          "children": [
+            "317920de-5507-4166-db4b-1a78a93ae868",
+            "25a5031f-d2a5-03b3-24b5-f0a7a1434560"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "317920de-5507-4166-db4b-1a78a93ae868",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "a5b20d5b-ebea-bfdb-b000-836c4c35a271"
+          ],
+          "children": [],
+          "v": "<svg width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 14.625C5.89331 14.625 3.375 12.1067 3.375 9C3.375 5.89331 5.89331 3.375 9 3.375C12.1067 3.375 14.625 5.89331 14.625 9C14.625 12.1067 12.1067 14.625 9 14.625ZM8.4375 8.4375V11.8125H9.5625V8.4375H8.4375ZM8.4375 6.1875V7.3125H9.5625V6.1875H8.4375Z\" fill=\"currentColor\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 14.625C5.89331 14.625 3.375 12.1067 3.375 9C3.375 5.89331 5.89331 3.375 9 3.375C12.1067 3.375 14.625 5.89331 14.625 9C14.625 12.1067 12.1067 14.625 9 14.625ZM8.4375 8.4375V11.8125H9.5625V8.4375H8.4375ZM8.4375 6.1875V7.3125H9.5625V6.1875H8.4375Z\" fill=\"currentColor\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "25a5031f-d2a5-03b3-24b5-f0a7a1434560",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c2"
+          ],
+          "children": [
+            "b31f5f82-3130-2467-5d19-731520145c33",
+            "76b7ec3a-3d2b-38ce-46c8-4b93cae0180f"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b31f5f82-3130-2467-5d19-731520145c33",
+          "text": true,
+          "v": "Hint text can be added here. "
+        },
+        {
+          "_id": "76b7ec3a-3d2b-38ce-46c8-4b93cae0180f",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7cc"
+          ],
+          "children": [
+            "dca4f498-52bc-8acf-5a5f-5a85acdafb63"
+          ],
+          "data": {
+            "button": false,
+            "block": "",
+            "link": {
+              "mode": "external"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": "",
+              "href": "#"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "dca4f498-52bc-8acf-5a5f-5a85acdafb63",
+          "text": true,
+          "v": "Link"
+        },
+        {
+          "_id": "c3e6a566-909d-7ba4-01f6-6417e685d04a",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ba"
+          ],
+          "children": [
+            "ce341dd6-7b6a-feb2-4eed-706fd87f4ec7",
+            "2cff6fdc-df4c-ab17-cb97-c1d818570e56"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ce341dd6-7b6a-feb2-4eed-706fd87f4ec7",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7cb",
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d2"
+          ],
+          "children": [
+            "a53046de-985d-717f-d7b7-80c2792e88b0"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a53046de-985d-717f-d7b7-80c2792e88b0",
+          "text": true,
+          "v": "Trusted by worldwide companies"
+        },
+        {
+          "_id": "2cff6fdc-df4c-ab17-cb97-c1d818570e56",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c8"
+          ],
+          "children": [
+            "bbbb7bd4-8060-4aaa-c789-84514b0aef47",
+            "3da62d3c-5b8d-baff-b7e5-a19cd6849d4a",
+            "82e06073-3bc7-4c66-1751-302f84e2da39"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [
+              {
+                "name": "fb-carousel",
+                "value": "true"
+              },
+              {
+                "name": "fb-carousel-direction",
+                "value": "right"
+              },
+              {
+                "name": "fb-carousel-speed",
+                "value": "15000"
+              },
+              {
+                "name": "fb-carousel-delay",
+                "value": "500"
+              },
+              {
+                "name": "fb-carousel-pauseable",
+                "value": "true"
+              },
+              {
+                "name": "fb-carousel-overflow",
+                "value": "false"
+              },
+              {
+                "name": "fb-carousel-overflow-size",
+                "value": "0"
+              }
+            ],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "bbbb7bd4-8060-4aaa-c789-84514b0aef47",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7bc"
+          ],
+          "children": [],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3da62d3c-5b8d-baff-b7e5-a19cd6849d4a",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7bb"
+          ],
+          "children": [],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "82e06073-3bc7-4c66-1751-302f84e2da39",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7b8"
+          ],
+          "children": [
+            "3e8db897-0509-06fa-e848-a762cc519e4b",
+            "3913a99e-cd65-56a7-a059-4fb9aa9fc91c",
+            "2b9384a2-9c9d-d2ca-2453-9d27ed9858f5",
+            "89d52594-22ba-570b-9f14-2608d9e9312c",
+            "3574ae09-1a34-51ec-cfe0-cd559a32936f",
+            "27ccff8f-91de-2130-da04-693dd38ba8dc",
+            "ed6b0149-ef15-2b43-5e03-fd4fb45c8851",
+            "ebec80b0-5785-1973-dd10-3e00f4f2ed04",
+            "c9e54e0c-5d40-f9b4-8352-7155d1f3105f",
+            "d990a418-5860-b2d8-90be-cb818a4410ec"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [
+              {
+                "name": "fb-carousel-content",
+                "value": "true"
+              }
+            ],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3e8db897-0509-06fa-e848-a762cc519e4b",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2567)\">\n    <path d=\"M16.0001 0C24.8369 0 32.0001 7.1632 32.0001 16V27.2C32.0001 28.473 31.4944 29.6939 30.5942 30.5941C29.694 31.4943 28.4731 32 27.2001 32H16.8001V24.9808C16.8001 23.3792 16.8977 21.72 17.7377 20.3568C18.3391 19.3799 19.1435 18.5437 20.0965 17.905C21.0495 17.2664 22.1287 16.8401 23.2609 16.6552L23.5673 16.6056C23.6936 16.5624 23.8033 16.4808 23.8809 16.3722C23.9585 16.2636 24.0003 16.1335 24.0003 16C24.0003 15.8665 23.9585 15.7364 23.8809 15.6278C23.8033 15.5192 23.6936 15.4376 23.5673 15.3944L23.2609 15.3448C21.6066 15.0746 20.079 14.2916 18.8938 13.1063C17.7085 11.9211 16.9255 10.3935 16.6553 8.7392L16.6057 8.4328C16.5625 8.30648 16.4809 8.19683 16.3723 8.11918C16.2637 8.04154 16.1336 7.9998 16.0001 7.9998C15.8666 7.9998 15.7364 8.04154 15.6278 8.11918C15.5193 8.19683 15.4377 8.30648 15.3945 8.4328L15.3449 8.7392C15.16 9.87142 14.7338 10.9506 14.0951 11.9036C13.4564 12.8566 12.6203 13.661 11.6433 14.2624C10.2801 15.1024 8.62089 15.2 7.01929 15.2H0.0192871C0.437687 6.7352 7.43209 0 16.0001 0Z\" fill=\"#737373\"/>\n    <path d=\"M0 16.8H7.0192C8.6208 16.8 10.28 16.8976 11.6432 17.7376C12.7088 18.3942 13.6058 19.2912 14.2624 20.3568C15.1024 21.72 15.2 23.3792 15.2 24.9808V32H4.8C3.52696 32 2.30606 31.4943 1.40589 30.5941C0.505713 29.6939 0 28.473 0 27.2L0 16.8ZM32 1.6C32 2.02435 31.8314 2.43131 31.5314 2.73137C31.2313 3.03143 30.8243 3.2 30.4 3.2C29.9757 3.2 29.5687 3.03143 29.2686 2.73137C28.9686 2.43131 28.8 2.02435 28.8 1.6C28.8 1.17565 28.9686 0.768687 29.2686 0.468629C29.5687 0.168571 29.9757 0 30.4 0C30.8243 0 31.2313 0.168571 31.5314 0.468629C31.8314 0.768687 32 1.17565 32 1.6Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2567\">\n      <rect width=\"32\" height=\"32\" fill=\"white\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2567)\">\n    <path d=\"M16.0001 0C24.8369 0 32.0001 7.1632 32.0001 16V27.2C32.0001 28.473 31.4944 29.6939 30.5942 30.5941C29.694 31.4943 28.4731 32 27.2001 32H16.8001V24.9808C16.8001 23.3792 16.8977 21.72 17.7377 20.3568C18.3391 19.3799 19.1435 18.5437 20.0965 17.905C21.0495 17.2664 22.1287 16.8401 23.2609 16.6552L23.5673 16.6056C23.6936 16.5624 23.8033 16.4808 23.8809 16.3722C23.9585 16.2636 24.0003 16.1335 24.0003 16C24.0003 15.8665 23.9585 15.7364 23.8809 15.6278C23.8033 15.5192 23.6936 15.4376 23.5673 15.3944L23.2609 15.3448C21.6066 15.0746 20.079 14.2916 18.8938 13.1063C17.7085 11.9211 16.9255 10.3935 16.6553 8.7392L16.6057 8.4328C16.5625 8.30648 16.4809 8.19683 16.3723 8.11918C16.2637 8.04154 16.1336 7.9998 16.0001 7.9998C15.8666 7.9998 15.7364 8.04154 15.6278 8.11918C15.5193 8.19683 15.4377 8.30648 15.3945 8.4328L15.3449 8.7392C15.16 9.87142 14.7338 10.9506 14.0951 11.9036C13.4564 12.8566 12.6203 13.661 11.6433 14.2624C10.2801 15.1024 8.62089 15.2 7.01929 15.2H0.0192871C0.437687 6.7352 7.43209 0 16.0001 0Z\" fill=\"#737373\"/>\n    <path d=\"M0 16.8H7.0192C8.6208 16.8 10.28 16.8976 11.6432 17.7376C12.7088 18.3942 13.6058 19.2912 14.2624 20.3568C15.1024 21.72 15.2 23.3792 15.2 24.9808V32H4.8C3.52696 32 2.30606 31.4943 1.40589 30.5941C0.505713 29.6939 0 28.473 0 27.2L0 16.8ZM32 1.6C32 2.02435 31.8314 2.43131 31.5314 2.73137C31.2313 3.03143 30.8243 3.2 30.4 3.2C29.9757 3.2 29.5687 3.03143 29.2686 2.73137C28.9686 2.43131 28.8 2.02435 28.8 1.6C28.8 1.17565 28.9686 0.768687 29.2686 0.468629C29.5687 0.168571 29.9757 0 30.4 0C30.8243 0 31.2313 0.168571 31.5314 0.468629C31.8314 0.768687 32 1.17565 32 1.6Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2567\">\n      <rect width=\"32\" height=\"32\" fill=\"white\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3913a99e-cd65-56a7-a059-4fb9aa9fc91c",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2570)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.7717 0C9.96661 0 8.23549 0.71707 6.9591 1.99346L0.800049 8.15247V10.9717C0.800049 12.9634 1.6556 14.7553 3.01926 16C1.6556 17.2446 0.800049 19.0365 0.800049 21.0283V23.8475L6.9591 30.0065C8.23549 31.2829 9.96661 32 11.7717 32C13.7635 32 15.5554 31.1445 16.8 29.7808C18.0447 31.1445 19.8366 32 21.8284 32C23.6335 32 25.3646 31.2829 26.641 30.0065L32.8 23.8475V21.0283C32.8 19.0365 31.9445 17.2446 30.5809 16C31.9445 14.7553 32.8 12.9634 32.8 10.9717V8.15247L26.641 1.99346C25.3646 0.71707 23.6335 0 21.8284 0C19.8366 0 18.0447 0.855549 16.8 2.21921C15.5554 0.855549 13.7635 0 11.7717 0ZM21.4071 16C21.3304 15.93 21.2551 15.8581 21.1813 15.7843L16.8 11.403L12.4188 15.7843C12.345 15.8581 12.2697 15.93 12.193 16C12.2697 16.07 12.345 16.1419 12.4188 16.2157L16.8 20.597L21.1813 16.2157C21.2551 16.1419 21.3304 16.07 21.4071 16ZM18.5778 23.8475V25.1939C18.5778 26.9891 20.0332 28.4445 21.8284 28.4445C22.6904 28.4445 23.5172 28.102 24.1268 27.4924L29.2445 22.3747V21.0283C29.2445 19.2331 27.7892 17.7777 25.994 17.7777C25.1319 17.7777 24.3051 18.1202 23.6955 18.7298L18.5778 23.8475ZM15.0223 23.8475L9.90461 18.7298C9.29501 18.1202 8.46824 17.7777 7.60614 17.7777C5.81092 17.7777 4.3556 19.2331 4.3556 21.0283V22.3747L9.47325 27.4924C10.0828 28.102 10.9096 28.4445 11.7717 28.4445C13.5669 28.4445 15.0223 26.9891 15.0223 25.1939V23.8475ZM15.0223 6.80609V8.15247L9.90461 13.2701C9.29501 13.8797 8.46824 14.2222 7.60614 14.2222C5.81092 14.2222 4.3556 12.7669 4.3556 10.9717V9.62527L9.47325 4.50761C10.0828 3.89802 10.9096 3.55556 11.7717 3.55556C13.5669 3.55556 15.0223 5.01087 15.0223 6.80609ZM23.6955 13.2701L18.5778 8.15247V6.80609C18.5778 5.01087 20.0332 3.55556 21.8284 3.55556C22.6904 3.55556 23.5172 3.89802 24.1268 4.50761L29.2445 9.62527V10.9717C29.2445 12.7669 27.7892 14.2222 25.994 14.2222C25.1319 14.2222 24.3051 13.8797 23.6955 13.2701Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2570\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.800049)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2570)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.7717 0C9.96661 0 8.23549 0.71707 6.9591 1.99346L0.800049 8.15247V10.9717C0.800049 12.9634 1.6556 14.7553 3.01926 16C1.6556 17.2446 0.800049 19.0365 0.800049 21.0283V23.8475L6.9591 30.0065C8.23549 31.2829 9.96661 32 11.7717 32C13.7635 32 15.5554 31.1445 16.8 29.7808C18.0447 31.1445 19.8366 32 21.8284 32C23.6335 32 25.3646 31.2829 26.641 30.0065L32.8 23.8475V21.0283C32.8 19.0365 31.9445 17.2446 30.5809 16C31.9445 14.7553 32.8 12.9634 32.8 10.9717V8.15247L26.641 1.99346C25.3646 0.71707 23.6335 0 21.8284 0C19.8366 0 18.0447 0.855549 16.8 2.21921C15.5554 0.855549 13.7635 0 11.7717 0ZM21.4071 16C21.3304 15.93 21.2551 15.8581 21.1813 15.7843L16.8 11.403L12.4188 15.7843C12.345 15.8581 12.2697 15.93 12.193 16C12.2697 16.07 12.345 16.1419 12.4188 16.2157L16.8 20.597L21.1813 16.2157C21.2551 16.1419 21.3304 16.07 21.4071 16ZM18.5778 23.8475V25.1939C18.5778 26.9891 20.0332 28.4445 21.8284 28.4445C22.6904 28.4445 23.5172 28.102 24.1268 27.4924L29.2445 22.3747V21.0283C29.2445 19.2331 27.7892 17.7777 25.994 17.7777C25.1319 17.7777 24.3051 18.1202 23.6955 18.7298L18.5778 23.8475ZM15.0223 23.8475L9.90461 18.7298C9.29501 18.1202 8.46824 17.7777 7.60614 17.7777C5.81092 17.7777 4.3556 19.2331 4.3556 21.0283V22.3747L9.47325 27.4924C10.0828 28.102 10.9096 28.4445 11.7717 28.4445C13.5669 28.4445 15.0223 26.9891 15.0223 25.1939V23.8475ZM15.0223 6.80609V8.15247L9.90461 13.2701C9.29501 13.8797 8.46824 14.2222 7.60614 14.2222C5.81092 14.2222 4.3556 12.7669 4.3556 10.9717V9.62527L9.47325 4.50761C10.0828 3.89802 10.9096 3.55556 11.7717 3.55556C13.5669 3.55556 15.0223 5.01087 15.0223 6.80609ZM23.6955 13.2701L18.5778 8.15247V6.80609C18.5778 5.01087 20.0332 3.55556 21.8284 3.55556C22.6904 3.55556 23.5172 3.89802 24.1268 4.50761L29.2445 9.62527V10.9717C29.2445 12.7669 27.7892 14.2222 25.994 14.2222C25.1319 14.2222 24.3051 13.8797 23.6955 13.2701Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2570\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.800049)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "2b9384a2-9c9d-d2ca-2453-9d27ed9858f5",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2572)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.0447 9.34824C19.7291 8.4692 18.1823 8 16.6001 8V0C19.7646 0 22.858 0.938384 25.4892 2.69649C28.1204 4.45458 30.1711 6.95345 31.3822 9.87704C32.5931 12.8006 32.91 16.0178 32.2927 19.1214C31.6753 22.2251 30.1515 25.0761 27.9138 27.3137C25.6762 29.5514 22.8252 31.0752 19.7215 31.6926C16.6179 32.3099 13.4007 31.993 10.4771 30.7821C7.55355 29.571 5.05468 27.5203 3.29659 24.8891C1.53848 22.2579 0.600098 19.1645 0.600098 16H8.6001C8.6001 17.5822 9.0693 19.129 9.94834 20.4446C10.8274 21.7602 12.0768 22.7855 13.5387 23.391C15.0004 23.9966 16.609 24.155 18.1608 23.8462C19.7127 23.5376 21.1381 22.7757 22.257 21.6569C23.3758 20.538 24.1377 19.1126 24.4463 17.5607C24.7551 16.0089 24.5967 14.4003 23.9911 12.9386C23.3856 11.4767 22.3603 10.2273 21.0447 9.34824Z\" fill=\"#737373\"/>\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.60009 3.465e-06C8.60009 1.05058 8.39317 2.09087 7.99113 3.06147C7.58909 4.03208 6.99982 4.91399 6.25695 5.65686C5.51409 6.39973 4.63217 6.989 3.66157 7.39104C2.69096 7.79308 1.65067 8 0.600098 8L0.600098 16C2.70125 16 4.78182 15.5862 6.72304 14.7821C8.66425 13.978 10.4281 12.7994 11.9138 11.3137C13.3995 9.828 14.5781 8.06416 15.3822 6.12294C16.1863 4.18172 16.6001 2.10115 16.6001 0L8.60009 3.465e-06Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2572\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.600098)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2572)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.0447 9.34824C19.7291 8.4692 18.1823 8 16.6001 8V0C19.7646 0 22.858 0.938384 25.4892 2.69649C28.1204 4.45458 30.1711 6.95345 31.3822 9.87704C32.5931 12.8006 32.91 16.0178 32.2927 19.1214C31.6753 22.2251 30.1515 25.0761 27.9138 27.3137C25.6762 29.5514 22.8252 31.0752 19.7215 31.6926C16.6179 32.3099 13.4007 31.993 10.4771 30.7821C7.55355 29.571 5.05468 27.5203 3.29659 24.8891C1.53848 22.2579 0.600098 19.1645 0.600098 16H8.6001C8.6001 17.5822 9.0693 19.129 9.94834 20.4446C10.8274 21.7602 12.0768 22.7855 13.5387 23.391C15.0004 23.9966 16.609 24.155 18.1608 23.8462C19.7127 23.5376 21.1381 22.7757 22.257 21.6569C23.3758 20.538 24.1377 19.1126 24.4463 17.5607C24.7551 16.0089 24.5967 14.4003 23.9911 12.9386C23.3856 11.4767 22.3603 10.2273 21.0447 9.34824Z\" fill=\"#737373\"/>\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.60009 3.465e-06C8.60009 1.05058 8.39317 2.09087 7.99113 3.06147C7.58909 4.03208 6.99982 4.91399 6.25695 5.65686C5.51409 6.39973 4.63217 6.989 3.66157 7.39104C2.69096 7.79308 1.65067 8 0.600098 8L0.600098 16C2.70125 16 4.78182 15.5862 6.72304 14.7821C8.66425 13.978 10.4281 12.7994 11.9138 11.3137C13.3995 9.828 14.5781 8.06416 15.3822 6.12294C16.1863 4.18172 16.6001 2.10115 16.6001 0L8.60009 3.465e-06Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2572\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.600098)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "89d52594-22ba-570b-9f14-2608d9e9312c",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2575)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.3999 0C12.8181 0 16.3999 3.58172 16.3999 8V0H24.3999C28.8181 0 32.3999 3.58172 32.3999 8C32.3999 12.4182 28.8181 16 24.3999 16C28.8181 16 32.3999 19.5818 32.3999 24C32.3999 26.1938 31.5168 28.1814 30.0867 29.6267L30.0568 29.6569L30.0302 29.6833C28.5846 31.1154 26.5956 32 24.3999 32C22.2192 32 20.2422 31.1274 18.7991 29.7124C18.7804 29.694 18.7617 29.6754 18.743 29.6569C18.7255 29.6394 18.7081 29.6218 18.6907 29.6041C17.2738 28.1607 16.3999 26.1824 16.3999 24C16.3999 28.4182 12.8181 32 8.3999 32C3.98162 32 0.399902 28.4182 0.399902 24V16H8.3999C3.98162 16 0.399902 12.4182 0.399902 8C0.399902 3.58172 3.98162 0 8.3999 0ZM14.7999 8C14.7999 11.5346 11.9345 14.4 8.3999 14.4V1.6C11.9345 1.6 14.7999 4.46538 14.7999 8ZM30.7999 24C30.7999 20.4654 27.9345 17.6 24.3999 17.6C20.8653 17.6 17.9999 20.4654 17.9999 24H30.7999ZM1.9999 17.6V24C1.9999 27.5346 4.86528 30.4 8.3999 30.4C11.9345 30.4 14.7999 27.5346 14.7999 24V17.6H1.9999ZM17.9999 14.4V1.6H24.3999C27.9345 1.6 30.7999 4.46538 30.7999 8C30.7999 11.5346 27.9345 14.4 24.3999 14.4H17.9999Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2575\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.399902)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2575)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.3999 0C12.8181 0 16.3999 3.58172 16.3999 8V0H24.3999C28.8181 0 32.3999 3.58172 32.3999 8C32.3999 12.4182 28.8181 16 24.3999 16C28.8181 16 32.3999 19.5818 32.3999 24C32.3999 26.1938 31.5168 28.1814 30.0867 29.6267L30.0568 29.6569L30.0302 29.6833C28.5846 31.1154 26.5956 32 24.3999 32C22.2192 32 20.2422 31.1274 18.7991 29.7124C18.7804 29.694 18.7617 29.6754 18.743 29.6569C18.7255 29.6394 18.7081 29.6218 18.6907 29.6041C17.2738 28.1607 16.3999 26.1824 16.3999 24C16.3999 28.4182 12.8181 32 8.3999 32C3.98162 32 0.399902 28.4182 0.399902 24V16H8.3999C3.98162 16 0.399902 12.4182 0.399902 8C0.399902 3.58172 3.98162 0 8.3999 0ZM14.7999 8C14.7999 11.5346 11.9345 14.4 8.3999 14.4V1.6C11.9345 1.6 14.7999 4.46538 14.7999 8ZM30.7999 24C30.7999 20.4654 27.9345 17.6 24.3999 17.6C20.8653 17.6 17.9999 20.4654 17.9999 24H30.7999ZM1.9999 17.6V24C1.9999 27.5346 4.86528 30.4 8.3999 30.4C11.9345 30.4 14.7999 27.5346 14.7999 24V17.6H1.9999ZM17.9999 14.4V1.6H24.3999C27.9345 1.6 30.7999 4.46538 30.7999 8C30.7999 11.5346 27.9345 14.4 24.3999 14.4H17.9999Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2575\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.399902)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3574ae09-1a34-51ec-cfe0-cd559a32936f",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2577)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.03327 11.714C0.204686 13.7605 -0.0121105 16.0124 0.410329 18.1851C0.832718 20.3576 1.87538 22.3533 3.40637 23.9196C4.93736 25.486 6.88802 26.5527 9.01155 26.9848C11.1352 27.417 13.3364 27.1952 15.3368 26.3475C17.3371 25.4998 19.0468 24.0642 20.2497 22.2224C20.2818 22.1733 20.3135 22.124 20.3448 22.0744C20.3668 22.0394 20.3888 22.0042 20.4105 21.9689V27.2H21.2526C23.4178 27.2 25.5344 26.5432 27.3346 25.3124C29.1349 24.0819 30.538 22.3326 31.3666 20.286C32.1952 18.2396 32.412 15.9876 31.9896 13.815C31.5672 11.6425 30.5246 9.64679 28.9936 8.08047C27.4625 6.51409 25.5119 5.44742 23.3884 5.01528C21.2647 4.58309 19.0636 4.80489 17.0632 5.6526C15.0628 6.50031 13.3531 7.93586 12.1502 9.77767C12.0955 9.86149 12.0419 9.94604 11.9894 10.0312V4.80006H11.1473C8.98211 4.80006 6.86556 5.45694 5.0653 6.68762C3.26502 7.91824 1.86186 9.66745 1.03327 11.714ZM10.3052 16V6.56236C8.77035 6.7057 7.2899 7.23923 6.00099 8.12027C4.47766 9.16159 3.29042 10.6417 2.5893 12.3734C1.88818 14.1051 1.70473 16.0105 2.06216 17.8489C2.41958 19.6872 3.30183 21.3759 4.59726 22.7012C5.89275 24.0266 7.5433 24.9292 9.34019 25.2948C11.1371 25.6605 12.9996 25.4728 14.6922 24.7556C16.3168 24.0671 17.7149 22.9204 18.7247 21.4512C17.9594 21.8229 17.1034 22.0308 16.2 22.0308C12.9444 22.0308 10.3052 19.3307 10.3052 16ZM22.0947 25.4377V16C22.0947 12.6694 19.4555 9.96928 16.2 9.96928C15.2965 9.96928 14.4405 10.1772 13.6752 10.5489C14.685 9.07972 16.0831 7.93296 17.7077 7.24453C19.4004 6.52723 21.2628 6.33956 23.0597 6.70523C24.8566 7.0709 26.5072 7.97351 27.8027 9.29883C29.0981 10.6242 29.9804 12.3128 30.3377 14.1512C30.6952 15.9896 30.5117 17.895 29.8106 19.6267C29.1096 21.3584 27.9223 22.8385 26.3989 23.8798C25.11 24.7608 23.6296 25.2944 22.0947 25.4377ZM16.1157 20.3069C13.8572 20.2616 12.0346 18.3968 11.9903 16.0862H13.5832C14.8399 16.3792 15.8292 17.3912 16.1157 18.6769V20.3069ZM16.2841 20.3069C18.5427 20.2616 20.3653 18.3968 20.4096 16.0862H18.8167C17.5599 16.3792 16.5706 17.3914 16.2841 18.6772V20.3069ZM20.4096 15.9139C20.3653 13.6032 18.5427 11.7385 16.2841 11.6932V13.3228C16.5706 14.6086 17.5598 15.6208 18.8164 15.9139H20.4096ZM16.1157 11.6932C13.8572 11.7385 12.0346 13.6032 11.9903 15.9139H13.5835C14.84 15.6208 15.8292 14.6088 16.1157 13.3232V11.6932Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2577\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.199951)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2577)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.03327 11.714C0.204686 13.7605 -0.0121105 16.0124 0.410329 18.1851C0.832718 20.3576 1.87538 22.3533 3.40637 23.9196C4.93736 25.486 6.88802 26.5527 9.01155 26.9848C11.1352 27.417 13.3364 27.1952 15.3368 26.3475C17.3371 25.4998 19.0468 24.0642 20.2497 22.2224C20.2818 22.1733 20.3135 22.124 20.3448 22.0744C20.3668 22.0394 20.3888 22.0042 20.4105 21.9689V27.2H21.2526C23.4178 27.2 25.5344 26.5432 27.3346 25.3124C29.1349 24.0819 30.538 22.3326 31.3666 20.286C32.1952 18.2396 32.412 15.9876 31.9896 13.815C31.5672 11.6425 30.5246 9.64679 28.9936 8.08047C27.4625 6.51409 25.5119 5.44742 23.3884 5.01528C21.2647 4.58309 19.0636 4.80489 17.0632 5.6526C15.0628 6.50031 13.3531 7.93586 12.1502 9.77767C12.0955 9.86149 12.0419 9.94604 11.9894 10.0312V4.80006H11.1473C8.98211 4.80006 6.86556 5.45694 5.0653 6.68762C3.26502 7.91824 1.86186 9.66745 1.03327 11.714ZM10.3052 16V6.56236C8.77035 6.7057 7.2899 7.23923 6.00099 8.12027C4.47766 9.16159 3.29042 10.6417 2.5893 12.3734C1.88818 14.1051 1.70473 16.0105 2.06216 17.8489C2.41958 19.6872 3.30183 21.3759 4.59726 22.7012C5.89275 24.0266 7.5433 24.9292 9.34019 25.2948C11.1371 25.6605 12.9996 25.4728 14.6922 24.7556C16.3168 24.0671 17.7149 22.9204 18.7247 21.4512C17.9594 21.8229 17.1034 22.0308 16.2 22.0308C12.9444 22.0308 10.3052 19.3307 10.3052 16ZM22.0947 25.4377V16C22.0947 12.6694 19.4555 9.96928 16.2 9.96928C15.2965 9.96928 14.4405 10.1772 13.6752 10.5489C14.685 9.07972 16.0831 7.93296 17.7077 7.24453C19.4004 6.52723 21.2628 6.33956 23.0597 6.70523C24.8566 7.0709 26.5072 7.97351 27.8027 9.29883C29.0981 10.6242 29.9804 12.3128 30.3377 14.1512C30.6952 15.9896 30.5117 17.895 29.8106 19.6267C29.1096 21.3584 27.9223 22.8385 26.3989 23.8798C25.11 24.7608 23.6296 25.2944 22.0947 25.4377ZM16.1157 20.3069C13.8572 20.2616 12.0346 18.3968 11.9903 16.0862H13.5832C14.8399 16.3792 15.8292 17.3912 16.1157 18.6769V20.3069ZM16.2841 20.3069C18.5427 20.2616 20.3653 18.3968 20.4096 16.0862H18.8167C17.5599 16.3792 16.5706 17.3914 16.2841 18.6772V20.3069ZM20.4096 15.9139C20.3653 13.6032 18.5427 11.7385 16.2841 11.6932V13.3228C16.5706 14.6086 17.5598 15.6208 18.8164 15.9139H20.4096ZM16.1157 11.6932C13.8572 11.7385 12.0346 13.6032 11.9903 15.9139H13.5835C14.84 15.6208 15.8292 14.6088 16.1157 13.3232V11.6932Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2577\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.199951)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "27ccff8f-91de-2130-da04-693dd38ba8dc",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 32C24.8366 32 32 24.8366 32 16C32 7.16345 24.8366 0 16 0C7.16343 0 0 7.16345 0 16C0 24.8366 7.16343 32 16 32ZM20.9914 7.45348C21.2344 6.59044 20.3969 6.08011 19.632 6.62504L8.95449 14.2317C8.12497 14.8226 8.25545 16 9.15049 16H11.9622V15.9782H17.442L12.977 17.5537L11.0086 24.5466C10.7656 25.4096 11.603 25.9199 12.368 25.375L23.0455 17.7684C23.875 17.1774 23.7445 16 22.8495 16H18.5857L20.9914 7.45348Z\" fill=\"#737373\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 32C24.8366 32 32 24.8366 32 16C32 7.16345 24.8366 0 16 0C7.16343 0 0 7.16345 0 16C0 24.8366 7.16343 32 16 32ZM20.9914 7.45348C21.2344 6.59044 20.3969 6.08011 19.632 6.62504L8.95449 14.2317C8.12497 14.8226 8.25545 16 9.15049 16H11.9622V15.9782H17.442L12.977 17.5537L11.0086 24.5466C10.7656 25.4096 11.603 25.9199 12.368 25.375L23.0455 17.7684C23.875 17.1774 23.7445 16 22.8495 16H18.5857L20.9914 7.45348Z\" fill=\"#737373\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ed6b0149-ef15-2b43-5e03-fd4fb45c8851",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.8 32C25.6367 32 32.8 24.8366 32.8 16C32.8 7.16345 25.6367 0 16.8 0C7.96349 0 0.800049 7.16345 0.800049 16C0.800049 24.8366 7.96349 32 16.8 32ZM19.2696 12.3621C20.6335 10.9981 20.6335 8.78686 19.2696 7.42293C17.9057 6.05903 15.6944 6.05903 14.3305 7.42293C12.9667 8.78686 12.9667 10.9981 14.3305 12.3621L16.8 14.8316L19.2696 12.3621ZM20.438 18.4696C21.802 19.8335 24.0132 19.8335 25.3772 18.4696C26.741 17.1057 26.741 14.8944 25.3772 13.5305C24.0132 12.1666 21.802 12.1666 20.438 13.5305L17.9685 16.0001L20.438 18.4696ZM19.2696 24.5771C20.6335 23.2132 20.6335 21.0019 19.2696 19.638L16.8 17.1685L14.3305 19.638C12.9667 21.0019 12.9667 23.2132 14.3305 24.5771C15.6944 25.941 17.9057 25.941 19.2696 24.5771ZM8.22296 18.4696C6.85909 17.1057 6.85909 14.8944 8.22296 13.5305C9.58691 12.1666 11.7982 12.1666 13.1621 13.5305L15.6316 16.0001L13.1621 18.4696C11.7982 19.8335 9.58691 19.8335 8.22296 18.4696Z\" fill=\"#737373\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.8 32C25.6367 32 32.8 24.8366 32.8 16C32.8 7.16345 25.6367 0 16.8 0C7.96349 0 0.800049 7.16345 0.800049 16C0.800049 24.8366 7.96349 32 16.8 32ZM19.2696 12.3621C20.6335 10.9981 20.6335 8.78686 19.2696 7.42293C17.9057 6.05903 15.6944 6.05903 14.3305 7.42293C12.9667 8.78686 12.9667 10.9981 14.3305 12.3621L16.8 14.8316L19.2696 12.3621ZM20.438 18.4696C21.802 19.8335 24.0132 19.8335 25.3772 18.4696C26.741 17.1057 26.741 14.8944 25.3772 13.5305C24.0132 12.1666 21.802 12.1666 20.438 13.5305L17.9685 16.0001L20.438 18.4696ZM19.2696 24.5771C20.6335 23.2132 20.6335 21.0019 19.2696 19.638L16.8 17.1685L14.3305 19.638C12.9667 21.0019 12.9667 23.2132 14.3305 24.5771C15.6944 25.941 17.9057 25.941 19.2696 24.5771ZM8.22296 18.4696C6.85909 17.1057 6.85909 14.8944 8.22296 13.5305C9.58691 12.1666 11.7982 12.1666 13.1621 13.5305L15.6316 16.0001L13.1621 18.4696C11.7982 19.8335 9.58691 19.8335 8.22296 18.4696Z\" fill=\"#737373\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ebec80b0-5785-1973-dd10-3e00f4f2ed04",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path d=\"M11.6953 5.23083H24.8502L15.1787 19.368H2.0238L11.6953 5.23083Z\" fill=\"#737373\"/>\n  <path d=\"M12.2714 20.6783L8.52539 26.154H22.3043L31.9758 12.0168H21.8061L15.8806 20.6783H12.2714Z\" fill=\"#737373\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path d=\"M11.6953 5.23083H24.8502L15.1787 19.368H2.0238L11.6953 5.23083Z\" fill=\"#737373\"/>\n  <path d=\"M12.2714 20.6783L8.52539 26.154H22.3043L31.9758 12.0168H21.8061L15.8806 20.6783H12.2714Z\" fill=\"#737373\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c9e54e0c-5d40-f9b4-8352-7155d1f3105f",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2586)\">\n    <path d=\"M16.4 0C25.2368 0 32.4 7.1632 32.4 16V27.2C32.4 28.473 31.8943 29.6939 30.9941 30.5941C30.0939 31.4943 28.873 32 27.6 32H17.2V24.9808C17.2 23.3792 17.2976 21.72 18.1376 20.3568C18.739 19.3799 19.5434 18.5437 20.4964 17.905C21.4494 17.2664 22.5286 16.8401 23.6608 16.6552L23.9672 16.6056C24.0935 16.5624 24.2032 16.4808 24.2808 16.3722C24.3584 16.2636 24.4002 16.1335 24.4002 16C24.4002 15.8665 24.3584 15.7364 24.2808 15.6278C24.2032 15.5192 24.0935 15.4376 23.9672 15.3944L23.6608 15.3448C22.0065 15.0746 20.4789 14.2916 19.2937 13.1063C18.1084 11.9211 17.3254 10.3935 17.0552 8.7392L17.0056 8.4328C16.9624 8.30648 16.8808 8.19683 16.7722 8.11918C16.6636 8.04154 16.5335 7.9998 16.4 7.9998C16.2665 7.9998 16.1363 8.04154 16.0278 8.11918C15.9192 8.19683 15.8376 8.30648 15.7944 8.4328L15.7448 8.7392C15.5599 9.87142 15.1337 10.9506 14.495 11.9036C13.8563 12.8566 13.0202 13.661 12.0432 14.2624C10.68 15.1024 9.02079 15.2 7.41919 15.2H0.419189C0.837589 6.7352 7.83199 0 16.4 0Z\" fill=\"#737373\"/>\n    <path d=\"M0.400024 16.8H7.41922C9.02082 16.8 10.68 16.8976 12.0432 17.7376C13.1088 18.3942 14.0058 19.2912 14.6624 20.3568C15.5024 21.72 15.6 23.3792 15.6 24.9808V32H5.20002C3.92699 32 2.70609 31.4943 1.80591 30.5941C0.905737 29.6939 0.400024 28.473 0.400024 27.2L0.400024 16.8ZM32.4 1.6C32.4 2.02435 32.2315 2.43131 31.9314 2.73137C31.6313 3.03143 31.2244 3.2 30.8 3.2C30.3757 3.2 29.9687 3.03143 29.6687 2.73137C29.3686 2.43131 29.2 2.02435 29.2 1.6C29.2 1.17565 29.3686 0.768687 29.6687 0.468629C29.9687 0.168571 30.3757 0 30.8 0C31.2244 0 31.6313 0.168571 31.9314 0.468629C32.2315 0.768687 32.4 1.17565 32.4 1.6Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2586\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.400024)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2586)\">\n    <path d=\"M16.4 0C25.2368 0 32.4 7.1632 32.4 16V27.2C32.4 28.473 31.8943 29.6939 30.9941 30.5941C30.0939 31.4943 28.873 32 27.6 32H17.2V24.9808C17.2 23.3792 17.2976 21.72 18.1376 20.3568C18.739 19.3799 19.5434 18.5437 20.4964 17.905C21.4494 17.2664 22.5286 16.8401 23.6608 16.6552L23.9672 16.6056C24.0935 16.5624 24.2032 16.4808 24.2808 16.3722C24.3584 16.2636 24.4002 16.1335 24.4002 16C24.4002 15.8665 24.3584 15.7364 24.2808 15.6278C24.2032 15.5192 24.0935 15.4376 23.9672 15.3944L23.6608 15.3448C22.0065 15.0746 20.4789 14.2916 19.2937 13.1063C18.1084 11.9211 17.3254 10.3935 17.0552 8.7392L17.0056 8.4328C16.9624 8.30648 16.8808 8.19683 16.7722 8.11918C16.6636 8.04154 16.5335 7.9998 16.4 7.9998C16.2665 7.9998 16.1363 8.04154 16.0278 8.11918C15.9192 8.19683 15.8376 8.30648 15.7944 8.4328L15.7448 8.7392C15.5599 9.87142 15.1337 10.9506 14.495 11.9036C13.8563 12.8566 13.0202 13.661 12.0432 14.2624C10.68 15.1024 9.02079 15.2 7.41919 15.2H0.419189C0.837589 6.7352 7.83199 0 16.4 0Z\" fill=\"#737373\"/>\n    <path d=\"M0.400024 16.8H7.41922C9.02082 16.8 10.68 16.8976 12.0432 17.7376C13.1088 18.3942 14.0058 19.2912 14.6624 20.3568C15.5024 21.72 15.6 23.3792 15.6 24.9808V32H5.20002C3.92699 32 2.70609 31.4943 1.80591 30.5941C0.905737 29.6939 0.400024 28.473 0.400024 27.2L0.400024 16.8ZM32.4 1.6C32.4 2.02435 32.2315 2.43131 31.9314 2.73137C31.6313 3.03143 31.2244 3.2 30.8 3.2C30.3757 3.2 29.9687 3.03143 29.6687 2.73137C29.3686 2.43131 29.2 2.02435 29.2 1.6C29.2 1.17565 29.3686 0.768687 29.6687 0.468629C29.9687 0.168571 30.3757 0 30.8 0C31.2244 0 31.6313 0.168571 31.9314 0.468629C32.2315 0.768687 32.4 1.17565 32.4 1.6Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2586\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.400024)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d990a418-5860-b2d8-90be-cb818a4410ec",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7ce"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2589)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.1718 0C9.36663 0 7.63551 0.71707 6.35912 1.99346L0.200073 8.15247V10.9717C0.200073 12.9634 1.05563 14.7553 2.41928 16C1.05563 17.2446 0.200073 19.0365 0.200073 21.0283V23.8475L6.35912 30.0065C7.63551 31.2829 9.36663 32 11.1718 32C13.1635 32 14.9554 31.1445 16.2001 29.7808C17.4447 31.1445 19.2366 32 21.2284 32C23.0335 32 24.7646 31.2829 26.041 30.0065L32.2001 23.8475V21.0283C32.2001 19.0365 31.3446 17.2446 29.9809 16C31.3446 14.7553 32.2001 12.9634 32.2001 10.9717V8.15247L26.041 1.99346C24.7646 0.71707 23.0335 0 21.2284 0C19.2366 0 17.4447 0.855549 16.2001 2.21921C14.9554 0.855549 13.1635 0 11.1718 0ZM20.8071 16C20.7304 15.93 20.6551 15.8581 20.5814 15.7843L16.2001 11.403L11.8188 15.7843C11.745 15.8581 11.6698 15.93 11.593 16C11.6698 16.07 11.745 16.1419 11.8188 16.2157L16.2001 20.597L20.5814 16.2157C20.6551 16.1419 20.7304 16.07 20.8071 16ZM17.9778 23.8475V25.1939C17.9778 26.9891 19.4332 28.4445 21.2284 28.4445C22.0905 28.4445 22.9173 28.102 23.5269 27.4924L28.6446 22.3747V21.0283C28.6446 19.2331 27.1892 17.7777 25.394 17.7777C24.5319 17.7777 23.7051 18.1202 23.0955 18.7298L17.9778 23.8475ZM14.4223 23.8475L9.30463 18.7298C8.69503 18.1202 7.86827 17.7777 7.00617 17.7777C5.21095 17.7777 3.75563 19.2331 3.75563 21.0283V22.3747L8.87327 27.4924C9.48287 28.102 10.3097 28.4445 11.1718 28.4445C12.967 28.4445 14.4223 26.9891 14.4223 25.1939V23.8475ZM14.4223 6.80609V8.15247L9.30463 13.2701C8.69503 13.8797 7.86827 14.2222 7.00617 14.2222C5.21095 14.2222 3.75563 12.7669 3.75563 10.9717V9.62527L8.87327 4.50761C9.48287 3.89802 10.3097 3.55556 11.1718 3.55556C12.967 3.55556 14.4223 5.01087 14.4223 6.80609ZM23.0955 13.2701L17.9778 8.15247V6.80609C17.9778 5.01087 19.4332 3.55556 21.2284 3.55556C22.0905 3.55556 22.9173 3.89802 23.5269 4.50761L28.6446 9.62527V10.9717C28.6446 12.7669 27.1892 14.2222 25.394 14.2222C24.5319 14.2222 23.7051 13.8797 23.0955 13.2701Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2589\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.200073)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_993_2589)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.1718 0C9.36663 0 7.63551 0.71707 6.35912 1.99346L0.200073 8.15247V10.9717C0.200073 12.9634 1.05563 14.7553 2.41928 16C1.05563 17.2446 0.200073 19.0365 0.200073 21.0283V23.8475L6.35912 30.0065C7.63551 31.2829 9.36663 32 11.1718 32C13.1635 32 14.9554 31.1445 16.2001 29.7808C17.4447 31.1445 19.2366 32 21.2284 32C23.0335 32 24.7646 31.2829 26.041 30.0065L32.2001 23.8475V21.0283C32.2001 19.0365 31.3446 17.2446 29.9809 16C31.3446 14.7553 32.2001 12.9634 32.2001 10.9717V8.15247L26.041 1.99346C24.7646 0.71707 23.0335 0 21.2284 0C19.2366 0 17.4447 0.855549 16.2001 2.21921C14.9554 0.855549 13.1635 0 11.1718 0ZM20.8071 16C20.7304 15.93 20.6551 15.8581 20.5814 15.7843L16.2001 11.403L11.8188 15.7843C11.745 15.8581 11.6698 15.93 11.593 16C11.6698 16.07 11.745 16.1419 11.8188 16.2157L16.2001 20.597L20.5814 16.2157C20.6551 16.1419 20.7304 16.07 20.8071 16ZM17.9778 23.8475V25.1939C17.9778 26.9891 19.4332 28.4445 21.2284 28.4445C22.0905 28.4445 22.9173 28.102 23.5269 27.4924L28.6446 22.3747V21.0283C28.6446 19.2331 27.1892 17.7777 25.394 17.7777C24.5319 17.7777 23.7051 18.1202 23.0955 18.7298L17.9778 23.8475ZM14.4223 23.8475L9.30463 18.7298C8.69503 18.1202 7.86827 17.7777 7.00617 17.7777C5.21095 17.7777 3.75563 19.2331 3.75563 21.0283V22.3747L8.87327 27.4924C9.48287 28.102 10.3097 28.4445 11.1718 28.4445C12.967 28.4445 14.4223 26.9891 14.4223 25.1939V23.8475ZM14.4223 6.80609V8.15247L9.30463 13.2701C8.69503 13.8797 7.86827 14.2222 7.00617 14.2222C5.21095 14.2222 3.75563 12.7669 3.75563 10.9717V9.62527L8.87327 4.50761C9.48287 3.89802 10.3097 3.55556 11.1718 3.55556C12.967 3.55556 14.4223 5.01087 14.4223 6.80609ZM23.0955 13.2701L17.9778 8.15247V6.80609C17.9778 5.01087 19.4332 3.55556 21.2284 3.55556C22.0905 3.55556 22.9173 3.89802 23.5269 4.50761L28.6446 9.62527V10.9717C28.6446 12.7669 27.1892 14.2222 25.394 14.2222C24.5319 14.2222 23.7051 13.8797 23.0955 13.2701Z\" fill=\"#737373\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_993_2589\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.200073)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "70ba27bd-a70a-1ef5-715f-565b237edcc4",
+          "type": "Grid",
+          "tag": "div",
+          "classes": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7c9"
+          ],
+          "children": [
+            "528a06f7-7e17-99a5-b2a2-9167ab6d9db5",
+            "9d1d2656-faed-9b3e-b24d-084c27c3020d"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": "two-by-two",
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "528a06f7-7e17-99a5-b2a2-9167ab6d9db5",
+          "type": "Image",
+          "tag": "img",
+          "classes": [],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03f3c815d75d81da516d8"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "348",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%20Image%2001.webp",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 479,
+                "size": "100vw"
+              },
+              {
+                "max": 10000,
+                "size": "348px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "main": {
+                  "noPseudo": {
+                    "gridColumnStart": "span 1",
+                    "gridColumnEnd": "span 1",
+                    "gridRowStart": "span 1",
+                    "gridRowEnd": "span 1"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "_id": "9d1d2656-faed-9b3e-b24d-084c27c3020d",
+          "type": "Image",
+          "tag": "img",
+          "classes": [],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e03f3c815d75d81da516dd"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "348",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%20Image%2002.webp",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 479,
+                "size": "100vw"
+              },
+              {
+                "max": 10000,
+                "size": "348px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "main": {
+                  "noPseudo": {
+                    "gridColumnEnd": 4,
+                    "gridColumnStart": 3,
+                    "gridRowEnd": 2,
+                    "gridRowStart": 1,
+                    "justifySelf": "end"
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7cf",
+          "fake": false,
+          "type": "class",
+          "name": "Column Regular",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; flex-wrap: nowrap; grid-column-gap: 16px; grid-row-gap: 16px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7d2",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Gray 500",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "color: #737373;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7cd",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph X Large 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; font-size: 20px; line-height: 32px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c5",
+          "fake": false,
+          "type": "class",
+          "name": "Form Error Message 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px; background-color: #eed8d8; font-weight: 500;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7ce",
+          "fake": false,
+          "type": "class",
+          "name": "Icon X Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 32px; height: 32px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c7",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary Large 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 1; flex-basis: auto; grid-column-gap: 4px; grid-row-gap: 4px; background-color: #0a0a0a; transition-property: background-color; transition-duration: 400ms; transition-timing-function: ease; color: white; font-size: 18px; line-height: 24px; font-weight: 500; letter-spacing: -0.25px; text-decoration: none;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "background-color: #734573;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7b8",
+          "fake": false,
+          "type": "class",
+          "name": "Carousel Horizontal Content",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 100%; height: 100%; flex-direction: row; justify-content: flex-start; align-items: center; grid-column-gap: 32px; grid-row-gap: 32px; column-gap: 100px; row-gap: 100px;",
+          "variants": {},
+          "children": [],
+          "createdBy": null,
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7cc",
+          "fake": false,
+          "type": "class",
+          "name": "Text Link",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "transition-property: color; transition-duration: 300ms; transition-timing-function: ease; color: #404040; text-decoration: underline;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "color: #734573;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c8",
+          "fake": false,
+          "type": "class",
+          "name": "Carousel Horizontal Wide",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; overflow-x: hidden; overflow-y: hidden; width: 100%;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7cb",
+          "fake": false,
+          "type": "class",
+          "name": "Subheading Small 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; color: #0a0a0a; font-size: 16px; line-height: 24px; font-weight: 500; letter-spacing: -0.02em;",
+          "variants": {},
+          "children": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d2"
+          ],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c2",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Small 4",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 14px; line-height: 20px;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7bd",
+          "fake": false,
+          "type": "class",
+          "name": "Header Section 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 86px; padding-right: 5%; padding-bottom: 48px; padding-left: 5%; background-color: #f8f6f6;",
+          "variants": {
+            "medium": {
+              "styleLess": "padding-top: 64px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "a5b20d5b-ebea-bfdb-b000-836c4c35a271",
+          "fake": false,
+          "type": "class",
+          "name": "Icon Small 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 20px; height: 20px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7b9",
+          "fake": false,
+          "type": "class",
+          "name": "Form Text Field",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "min-height: 56px; margin-bottom: 0px; padding-top: 16px; padding-right: 16px; padding-bottom: 16px; padding-left: 16px; border-top-style: solid; border-top-width: 1px; border-top-color: #e6e6e6; border-right-style: solid; border-right-width: 1px; border-right-color: #e6e6e6; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #e6e6e6; border-left-style: solid; border-left-width: 1px; border-left-color: #e6e6e6; background-color: white; transition-property: border-color; transition-duration: 300ms; transition-timing-function: ease; color: #171717; font-size: 16px; line-height: 24px; font-weight: 400;",
+          "variants": {
+            "main_placeholder": {
+              "styleLess": "color: #737373;"
+            },
+            "main_hover": {
+              "styleLess": "border-top-color: #a3a3a3; border-right-color: #a3a3a3; border-bottom-color: #a3a3a3; border-left-color: #a3a3a3;"
+            },
+            "main_focus": {
+              "styleLess": "border-top-color: #ac91ac; border-right-color: #ac91ac; border-bottom-color: #ac91ac; border-left-color: #ac91ac;"
+            }
+          },
+          "children": [
+            "d7ad1194-2279-d4cf-8955-d8879af9b7d3"
+          ],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c9",
+          "fake": false,
+          "type": "class",
+          "name": "Header Image Grid",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 0%; top: 114px; right: 0%; z-index: 0; width: 100%; max-width: 1440px; margin-right: auto; margin-left: auto; align-items: center; grid-column-gap: 40px; grid-row-gap: 40px; grid-template-columns: 1fr 2fr 1fr; grid-template-rows: auto; pointer-events: none;",
+          "variants": {
+            "medium": {
+              "styleLess": "display: none;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7d0",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Purple 600",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "color: #5c2d5c;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7bf",
+          "fake": false,
+          "type": "class",
+          "name": "Form Icon 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 16px; top: auto; bottom: auto; display: flex; width: 24px; height: 24px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c0",
+          "fake": false,
+          "type": "class",
+          "name": "Form Success Message 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "background-color: #d6f0e5; color: #0a0a0a; font-weight: 500;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7ca",
+          "fake": false,
+          "type": "class",
+          "name": "Header Newsletter Form",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 100%; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px;",
+          "variants": {
+            "tiny": {
+              "styleLess": "flex-direction: column; align-items: stretch;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c6",
+          "fake": false,
+          "type": "class",
+          "name": "Form Icon Wrapper 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: flex; width: 100%; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7bb",
+          "fake": false,
+          "type": "class",
+          "name": "Fade Gradient Right",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: auto; top: 0%; right: 0%; bottom: 0%; z-index: 1; width: 15%; background-image: linear-gradient(93deg, hsla(0, 0.00%, 0.00%, 0.00), hsla(0, 14.00%, 97.00%, 0.71) 60%, #f8f6f6); pointer-events: none;",
+          "variants": {
+            "tiny": {
+              "styleLess": "display: none;"
+            }
+          },
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7d3",
+          "fake": false,
+          "type": "class",
+          "name": "Form Icon Left",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "padding-left: 52px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7be",
+          "fake": false,
+          "type": "class",
+          "name": "Header Form Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 100%; max-width: 480px; margin-right: auto; margin-left: auto; flex-direction: column; justify-content: center; align-items: center; grid-column-gap: 8px; grid-row-gap: 8px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c3",
+          "fake": false,
+          "type": "class",
+          "name": "H1 Heading 6",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; color: #0a0a0a; font-size: 64px; line-height: 1.2; font-weight: 500; letter-spacing: -0.03em;",
+          "variants": {
+            "small": {
+              "styleLess": "font-size: 48px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7bc",
+          "fake": false,
+          "type": "class",
+          "name": "Fade Gradient Left",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 0%; top: 0%; right: auto; bottom: 0%; z-index: 5; width: 15%; background-image: linear-gradient(89deg, #f8f6f6, hsla(0, 14.00%, 97.00%, 0.72) 48%, hsla(0, 0.00%, 0.00%, 0.00)); pointer-events: none;",
+          "variants": {
+            "tiny": {
+              "styleLess": "display: none;"
+            }
+          },
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7ba",
+          "fake": false,
+          "type": "class",
+          "name": "Logo Carousel Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; margin-top: 86px; flex-direction: column; align-items: center; grid-column-gap: 32px; grid-row-gap: 32px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c4",
+          "fake": false,
+          "type": "class",
+          "name": "Row Tiny",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: row; grid-column-gap: 4px; grid-row-gap: 4px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "a6c4ee37-2565-f0ef-25e2-c76b8f5f3858",
+          "fake": false,
+          "type": "class",
+          "name": "Code Embed",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: none;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7d1",
+          "fake": false,
+          "type": "class",
+          "name": "Header Title Wrapper 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 100%; max-width: 592px; margin-right: auto; margin-left: auto; flex-direction: column; flex-wrap: nowrap; grid-column-gap: 32px; grid-row-gap: 32px; text-align: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d7ad1194-2279-d4cf-8955-d8879af9b7c1",
+          "fake": false,
+          "type": "class",
+          "name": "Form Block",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; margin-bottom: 0px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%20Image%2001.webp",
+          "siteId": "67b501190b2613705a22cf3a",
+          "width": 696,
+          "isHD": false,
+          "height": 870,
+          "fileName": "67e03f3c815d75d81da516d8_Header Image 01.webp",
+          "createdOn": "2025-03-23T17:05:00.752Z",
+          "origFileName": "Header Image 01.webp",
+          "alt": "Spark header placeholder image",
+          "fileHash": "c0834b9c47b228db3e1a0a60b11a5193",
+          "translationLoading": false,
+          "variants": [
+            {
+              "size": 32630,
+              "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%2520B%2520Image%252001-p-500.png",
+              "width": 500,
+              "fileName": "67e03f3c815d75d81da516d8_Header%20B%20Image%2001-p-500.png",
+              "origFileName": "Header%20B%20Image%2001-p-500.png",
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%2520B%2520Image%252001-p-500.png",
+              "format": "webp",
+              "_id": "64e5d7bca8284f2a37c5b7e0",
+              "quality": 100
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%20B%20Image%2001.webp",
+              "origFileName": "Header B Image 01.webp",
+              "fileName": "67e03f3c815d75d81da516d8_Header B Image 01.webp",
+              "format": "webp",
+              "_id": "66a9896ef4e32939fcbf4e6e",
+              "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%20B%20Image%2001.webp"
+            }
+          ],
+          "mimeType": "image/webp",
+          "isFromWellKnownFolder": false,
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%20Image%2001.webp",
+          "thumbUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516d8_Header%20B%20Image%2001.webp",
+          "_id": "67e03f3c815d75d81da516d8",
+          "updatedOn": "2025-03-23T17:05:00.753Z",
+          "markedAsDeleted": false,
+          "fileSize": 51770,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%20Image%2002.webp",
+          "siteId": "67b501190b2613705a22cf3a",
+          "width": 634,
+          "isHD": false,
+          "height": 670,
+          "fileName": "67e03f3c815d75d81da516dd_Header Image 02.webp",
+          "createdOn": "2025-03-23T17:05:00.747Z",
+          "origFileName": "Header Image 02.webp",
+          "alt": "Spark header placeholder image",
+          "fileHash": "bf036f1a9db9ee72fc9418e907674d03",
+          "translationLoading": false,
+          "variants": [
+            {
+              "size": 16672,
+              "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%2520B%2520Image%252002-p-500.png",
+              "width": 500,
+              "fileName": "67e03f3c815d75d81da516dd_Header%20B%20Image%2002-p-500.png",
+              "origFileName": "Header%20B%20Image%2002-p-500.png",
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%2520B%2520Image%252002-p-500.png",
+              "format": "webp",
+              "_id": "64e5d7c45e09cbabff9e4dda",
+              "quality": 100
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%20B%20Image%2002.webp",
+              "origFileName": "Header B Image 02.webp",
+              "fileName": "67e03f3c815d75d81da516dd_Header B Image 02.webp",
+              "format": "webp",
+              "_id": "66a9896ef4e32939fcbf4e71",
+              "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%20B%20Image%2002.webp"
+            }
+          ],
+          "mimeType": "image/webp",
+          "isFromWellKnownFolder": false,
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%20Image%2002.webp",
+          "thumbUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e03f3c815d75d81da516dd_Header%20B%20Image%2002.webp",
+          "_id": "67e03f3c815d75d81da516dd",
+          "updatedOn": "2025-03-23T17:05:00.749Z",
+          "markedAsDeleted": false,
+          "fileSize": 21630,
+          "localizedSettings": {}
+        }
+      ],
+      "ix1": [],
+      "ix2": {
+        "interactions": [],
+        "events": [],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

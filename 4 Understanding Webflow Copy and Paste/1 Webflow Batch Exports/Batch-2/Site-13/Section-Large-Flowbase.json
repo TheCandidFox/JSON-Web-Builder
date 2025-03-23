@@ -1,0 +1,1608 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "6fb4e04b-4d4f-aadf-1fef-153e2e626552",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "d68573ff-46d4-1132-2979-1aca340bb670",
+            "8ec14c8e-0f29-dca4-4551-2aed963202ee"
+          ],
+          "children": [
+            "a01e442b-81ce-f6c7-7230-944b316e321a",
+            "bef80176-d50c-30d1-e1c4-7996228307e6",
+            "bda83d31-aec6-2a1e-1dd7-49bcbd74d8c0"
+          ],
+          "data": {
+            "tag": "section",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "a01e442b-81ce-f6c7-7230-944b316e321a",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "cc5f1ff6-6fda-ff33-8688-e1e154dd35af"
+          ],
+          "children": [
+            "df2fba4b-bc7f-8482-ada8-8df8e8bc3e0d"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "df2fba4b-bc7f-8482-ada8-8df8e8bc3e0d",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "fbf67b48-43b2-9e1c-0917-133d2ad2ae4d"
+          ],
+          "children": [
+            "330d6999-967a-a463-f2b9-428fec80f04e",
+            "7fd3171a-324e-2e2d-5324-1f36b7345081"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "medium": {
+                  "noPseudo": {
+                    "justifySelf": "center"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "_id": "330d6999-967a-a463-f2b9-428fec80f04e",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "2020aefe-57d5-aa88-aaeb-2ded5ddeb0bb"
+          ],
+          "children": [
+            "83e428b5-1ae5-4c07-7d2a-a44198cde0ee",
+            "4e709a13-39f2-e89e-9c3b-fb5e5e7f0a43"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "83e428b5-1ae5-4c07-7d2a-a44198cde0ee",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "162e4efb-731c-4d83-45bc-bf2d21e261c0"
+          ],
+          "children": [
+            "1d7d32d6-7950-8207-c16d-b1044123cf6f",
+            "af80ff7c-50fb-c79a-ebed-37633374c73f",
+            "a33c9e96-599a-b560-6f67-d0e200024f8e"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1d7d32d6-7950-8207-c16d-b1044123cf6f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "720c8359-be0a-1639-2541-a07584c66cdb"
+          ],
+          "children": [
+            "94bf0fcd-323e-f717-b2b2-34479c132847"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "94bf0fcd-323e-f717-b2b2-34479c132847",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "68664981-4f51-e8d9-63f4-c7c2347abc6b"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "68664981-4f51-e8d9-63f4-c7c2347abc6b",
+          "text": true,
+          "v": "Wealth Management"
+        },
+        {
+          "_id": "af80ff7c-50fb-c79a-ebed-37633374c73f",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [
+            "69ced712-5f4d-d7c5-3c20-30dc07d081e2"
+          ],
+          "children": [
+            "09a49ed2-b1f4-b314-5a53-aaa8a88ed024",
+            "9d949ece-cbed-3a9e-1077-91ac56d2271e"
+          ],
+          "data": {
+            "tag": "h1",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "09a49ed2-b1f4-b314-5a53-aaa8a88ed024",
+          "text": true,
+          "v": "Investment and "
+        },
+        {
+          "_id": "9d949ece-cbed-3a9e-1077-91ac56d2271e",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "1d9250bb-410a-fd58-05cd-fa83ee0932b8"
+          ],
+          "children": [
+            "a55235f9-0d43-80ea-a10b-b86711668cf5"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a55235f9-0d43-80ea-a10b-b86711668cf5",
+          "text": true,
+          "v": "Retirement Planning"
+        },
+        {
+          "_id": "a33c9e96-599a-b560-6f67-d0e200024f8e",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "fd071b85-39d5-42a5-88ca-d1b953bd48b5"
+          ],
+          "children": [
+            "cb6111d0-1131-f5cc-f6ba-e2e72f569e9e"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "cb6111d0-1131-f5cc-f6ba-e2e72f569e9e",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "5dda8610-1316-e363-6035-b605ea7cb48c"
+          ],
+          "children": [
+            "216b6bea-ee03-fbb4-2045-94fb835f206c",
+            "6b9f719a-e84a-abdd-e2c4-2f64966acdf3",
+            "9965db24-eb42-b5ae-db75-c220daffa724"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "216b6bea-ee03-fbb4-2045-94fb835f206c",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet, "
+        },
+        {
+          "_id": "6b9f719a-e84a-abdd-e2c4-2f64966acdf3",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "00116857-9acd-bb6c-fc23-08e56029f763"
+          ],
+          "children": [
+            "05a709fe-80b5-4e23-13d6-ce52a1359b3f"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "05a709fe-80b5-4e23-13d6-ce52a1359b3f",
+          "text": true,
+          "v": "consectetur adipiscing elit. "
+        },
+        {
+          "_id": "9965db24-eb42-b5ae-db75-c220daffa724",
+          "text": true,
+          "v": "Vestibulum sed mauris a ex posuere luctus sit amet ac mi."
+        },
+        {
+          "_id": "4e709a13-39f2-e89e-9c3b-fb5e5e7f0a43",
+          "type": "FormWrapper",
+          "tag": "div",
+          "classes": [
+            "3dbef31f-e126-8e3c-0743-b4dd1a1d04ae"
+          ],
+          "children": [
+            "45742ef7-ef08-b022-9c65-d2b7aa80dd32",
+            "3697f2cb-ef40-2569-962e-a764c157c76b",
+            "6dbb0800-da71-4f95-faf9-6db7e595cf3c"
+          ],
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "form": {
+              "type": "wrapper"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "45742ef7-ef08-b022-9c65-d2b7aa80dd32",
+          "type": "FormForm",
+          "tag": "form",
+          "classes": [
+            "417b3e52-87e7-9353-1d2f-78965bf5d938"
+          ],
+          "children": [
+            "d60e4f2a-0931-c020-2911-6d5dc3cb995f",
+            "89afa6a9-01ab-600b-af9f-211bf5213e13"
+          ],
+          "data": {
+            "Source": {
+              "tag": "Default form",
+              "val": {}
+            },
+            "form": {
+              "type": "form",
+              "name": "Header 02 Form"
+            },
+            "attr": {
+              "id": "wf-form-Header-02-Form",
+              "name": "wf-form-Header-02-Form",
+              "data-name": "Header 02 Form",
+              "redirect": "",
+              "data-redirect": "",
+              "action": "",
+              "method": "get"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d60e4f2a-0931-c020-2911-6d5dc3cb995f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "f1d65627-c52d-17d0-3390-40e696df19f7"
+          ],
+          "children": [
+            "b77f5090-c078-566f-e733-5709800c70e1",
+            "1cf2a019-3bf5-0bc7-2517-17fb87e3a5f4"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b77f5090-c078-566f-e733-5709800c70e1",
+          "type": "FormTextInput",
+          "tag": "input",
+          "classes": [
+            "9a4bbe65-01b1-b877-e8d4-2bc4802a0bb5"
+          ],
+          "children": [],
+          "data": {
+            "form": {
+              "name": "Email",
+              "type": "input",
+              "passwordPage": false
+            },
+            "attr": {
+              "id": "Email",
+              "name": "Email",
+              "maxlength": 256,
+              "data-name": "Email",
+              "placeholder": "Your email address...",
+              "disabled": false,
+              "type": "email",
+              "required": false,
+              "autofocus": false
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1cf2a019-3bf5-0bc7-2517-17fb87e3a5f4",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "94bcc053-c700-409b-cfad-3dd5b231ce37"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "65a905fa08c4f3a17a73fd0c"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/658032aa153b94b7c8f17858/65a905fa08c4f3a17a73fd0c_Mail%20Icon.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "89afa6a9-01ab-600b-af9f-211bf5213e13",
+          "type": "FormButton",
+          "tag": "input",
+          "classes": [
+            "5dda8610-1316-e363-6035-b605ea7cb492"
+          ],
+          "children": [],
+          "data": {
+            "form": {
+              "type": "button"
+            },
+            "attr": {
+              "type": "submit",
+              "value": "Get Started",
+              "data-wait": "Please wait...",
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3697f2cb-ef40-2569-962e-a764c157c76b",
+          "type": "FormSuccessMessage",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "b9669026-61a8-768e-66e4-7a159d1728c7"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "form": {
+              "type": "msg-done"
+            }
+          }
+        },
+        {
+          "_id": "b9669026-61a8-768e-66e4-7a159d1728c7",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "65631696-6007-b243-eefc-a2f303df3e52"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "65631696-6007-b243-eefc-a2f303df3e52",
+          "text": true,
+          "v": "Thank you! Your submission has been received!"
+        },
+        {
+          "_id": "6dbb0800-da71-4f95-faf9-6db7e595cf3c",
+          "type": "FormErrorMessage",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "14d8705d-821c-b8f6-f7eb-5e5858b0a903"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "form": {
+              "type": "msg-fail"
+            }
+          }
+        },
+        {
+          "_id": "14d8705d-821c-b8f6-f7eb-5e5858b0a903",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "054eca80-d748-2231-6a7f-379bdc2cb546"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "054eca80-d748-2231-6a7f-379bdc2cb546",
+          "text": true,
+          "v": "Oops! Something went wrong while submitting the form."
+        },
+        {
+          "_id": "7fd3171a-324e-2e2d-5324-1f36b7345081",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "210f1645-b7bd-8cba-f1d8-cff7b17f2047"
+          ],
+          "children": [
+            "4bed4cb5-d1f4-9f73-b0a2-ba7fc5f4bc0f",
+            "c71f31fb-c8f5-89f6-52cd-8395235a1f74"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4bed4cb5-d1f4-9f73-b0a2-ba7fc5f4bc0f",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "28b54c9e-f2f2-ffe5-0442-f372c9aac40a"
+          ],
+          "children": [],
+          "v": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"28\" height=\"28\" rx=\"14\" fill=\"#FF4B0E\"/>\n<path d=\"M13.9999 17.8196L9.5098 20.5619L10.7305 15.4439L6.73535 12.0216L11.9794 11.6015L13.9999 6.74316L16.0204 11.6015L21.2653 12.0216L17.2694 15.4439L18.4901 20.5619L13.9999 17.8196Z\" fill=\"white\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"28\" height=\"28\" rx=\"14\" fill=\"#FF4B0E\"/>\n<path d=\"M13.9999 17.8196L9.5098 20.5619L10.7305 15.4439L6.73535 12.0216L11.9794 11.6015L13.9999 6.74316L16.0204 11.6015L21.2653 12.0216L17.2694 15.4439L18.4901 20.5619L13.9999 17.8196Z\" fill=\"white\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c71f31fb-c8f5-89f6-52cd-8395235a1f74",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "5dda8610-1316-e363-6035-b605ea7cb4ab"
+          ],
+          "children": [
+            "7132e894-d52b-10a1-75e6-c2a05335c15f",
+            "9f3965b4-8bbf-ec40-89cc-303de930f83a",
+            "f23593f5-e91c-03f5-7a3c-4fd588e9b916",
+            "85e385c2-76d4-c903-af43-ffd337dcc950",
+            "16ab8467-65c2-fadb-4c56-bc691b86b960"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "7132e894-d52b-10a1-75e6-c2a05335c15f",
+          "text": true,
+          "v": "Rated "
+        },
+        {
+          "_id": "9f3965b4-8bbf-ec40-89cc-303de930f83a",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "00116857-9acd-bb6c-fc23-08e56029f763"
+          ],
+          "children": [
+            "4d7cf7a1-53d0-35d6-8ef9-3fc7b00a6c27"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4d7cf7a1-53d0-35d6-8ef9-3fc7b00a6c27",
+          "text": true,
+          "v": "4.9/5"
+        },
+        {
+          "_id": "f23593f5-e91c-03f5-7a3c-4fd588e9b916",
+          "text": true,
+          "v": " from over "
+        },
+        {
+          "_id": "85e385c2-76d4-c903-af43-ffd337dcc950",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "00116857-9acd-bb6c-fc23-08e56029f763"
+          ],
+          "children": [
+            "069aa9ce-67c8-2104-e457-63e71db3314f"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "069aa9ce-67c8-2104-e457-63e71db3314f",
+          "text": true,
+          "v": "600"
+        },
+        {
+          "_id": "16ab8467-65c2-fadb-4c56-bc691b86b960",
+          "text": true,
+          "v": " reviews."
+        },
+        {
+          "_id": "bef80176-d50c-30d1-e1c4-7996228307e6",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "aec9fdb1-8bb3-18d9-3739-931768b1d465"
+          ],
+          "children": [
+            "65b26b22-b46c-9050-0353-3a23d2690119"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "65b26b22-b46c-9050-0353-3a23d2690119",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "40ffb002-ec1d-b727-99a9-ce8d0c684760"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "65c35bdb1ab6feee3bd76226"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "1562",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002.webp",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 10000,
+                "size": "55vw"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "bda83d31-aec6-2a1e-1dd7-49bcbd74d8c0",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "c05cf4a0-940d-4abd-693f-acb40af33658"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "65d2d78a07da4cc136657798"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 10000,
+                "size": "100vw"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "aec9fdb1-8bb3-18d9-3739-931768b1d465",
+          "fake": false,
+          "type": "class",
+          "name": "Header Image Right",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: auto; top: 0%; right: 0%; bottom: 0%; z-index: 0; overflow: hidden; width: 55vw; pointer-events: none;",
+          "variants": {
+            "tiny": {
+              "styleLess": "display: none;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "2020aefe-57d5-aa88-aaeb-2ded5ddeb0bb",
+          "fake": false,
+          "type": "class",
+          "name": "Column X Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; grid-column-gap: 32px; grid-row-gap: 32px;",
+          "variants": {},
+          "children": [
+            "d4ef574a-6096-5a00-93f4-dacc23cdea77"
+          ],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "00116857-9acd-bb6c-fc23-08e56029f763",
+          "fake": false,
+          "type": "class",
+          "name": "Text Span Strong",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "color: hsl(0, 0%, 0%); font-weight: 500;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "40ffb002-ec1d-b727-99a9-ce8d0c684760",
+          "fake": false,
+          "type": "class",
+          "name": "Header Image",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; height: 100%; object-fit: cover; object-position: 0% 100%;",
+          "variants": {
+            "medium": {
+              "styleLess": "width: 990px;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "5dda8610-1316-e363-6035-b605ea7cb4ab",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 16px; line-height: 28px; letter-spacing: -0.02em;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "9a4bbe65-01b1-b877-e8d4-2bc4802a0bb5",
+          "fake": false,
+          "type": "class",
+          "name": "Text Field Left Icon",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 38px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 0.00%, 0.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 0.00%, 0.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 0.00%, 0.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 0.00%, 0.00); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsl(0, 0%, 100%); box-shadow: 0 0 0 1px hsla(0, 100.00%, 0.00%, 0.06), 0 1px 2px 0 hsla(0, 100.00%, 0.00%, 0.06); color: hsl(0, 0%, 0%); font-size: 14px; line-height: 20px; letter-spacing: -0.006em;",
+          "variants": {
+            "main_placeholder": {
+              "styleLess": "color: hsl(0, 0%, 56%);"
+            },
+            "main_focus": {
+              "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsl(15, 100%, 53%); border-right-style: solid; border-right-width: 1px; border-right-color: hsl(15, 100%, 53%); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsl(15, 100%, 53%); border-left-style: solid; border-left-width: 1px; border-left-color: hsl(15, 100%, 53%);"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "94bcc053-c700-409b-cfad-3dd5b231ce37",
+          "fake": false,
+          "type": "class",
+          "name": "Input Icon",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 10px; top: 10px; right: auto; bottom: 10px; display: flex; width: 20px; height: 20px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "f1d65627-c52d-17d0-3390-40e696df19f7",
+          "fake": false,
+          "type": "class",
+          "name": "Form Input Icon",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: flex; width: 100%; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "417b3e52-87e7-9353-1d2f-78965bf5d938",
+          "fake": false,
+          "type": "class",
+          "name": "Email Form",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; align-items: center; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {
+            "tiny": {
+              "styleLess": "flex-direction: column; align-items: stretch;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "1d9250bb-410a-fd58-05cd-fa83ee0932b8",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Tertiary",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "color: hsl(0, 0%, 56%);",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "c05cf4a0-940d-4abd-693f-acb40af33658",
+          "fake": false,
+          "type": "class",
+          "name": "Header Background Image",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 0%; top: 0%; right: 0%; bottom: 0%; width: 100%; height: 100%; pointer-events: none; object-fit: cover;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "cc5f1ff6-6fda-ff33-8688-e1e154dd35af",
+          "fake": false,
+          "type": "class",
+          "name": "Container Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 1208px; margin-right: auto; margin-left: auto;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "fbf67b48-43b2-9e1c-0917-133d2ad2ae4d",
+          "fake": false,
+          "type": "class",
+          "name": "Header Content",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 100%; max-width: 688px; flex-direction: column; justify-content: space-between; grid-column-gap: 208px; grid-row-gap: 208px;",
+          "variants": {
+            "medium": {
+              "styleLess": "display: flex; flex-direction: column;"
+            },
+            "small": {
+              "styleLess": "grid-column-gap: 80px; grid-row-gap: 80px;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d68573ff-46d4-1132-2979-1aca340bb670",
+          "fake": false,
+          "type": "class",
+          "name": "Section Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 120px; padding-right: 5%; padding-bottom: 120px; padding-left: 5%;",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 72px; padding-bottom: 72px;"
+            }
+          },
+          "children": [
+            "8ec14c8e-0f29-dca4-4551-2aed963202ee"
+          ],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "fd071b85-39d5-42a5-88ca-d1b953bd48b5",
+          "fake": false,
+          "type": "class",
+          "name": "Max Width Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 400px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "210f1645-b7bd-8cba-f1d8-cff7b17f2047",
+          "fake": false,
+          "type": "class",
+          "name": "Header Reviews",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; align-items: center; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "5dda8610-1316-e363-6035-b605ea7cb48c",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Regular",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 14px; line-height: 24px;",
+          "variants": {},
+          "children": [
+            "47075d02-e861-567a-8635-63bb3d03cce6",
+            "aad9becb-ac9b-0fb7-fc65-8e29842493d1",
+            "09b841d4-2c51-cb54-584e-696dd4c48129"
+          ],
+          "createdBy": "5df2e89837f19362c7fc3005",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "5dda8610-1316-e363-6035-b605ea7cb492",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; height: 40px; padding-top: 8px; padding-right: 16px; padding-bottom: 8px; padding-left: 16px; flex-direction: row; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto; grid-column-gap: 8px; grid-row-gap: 8px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsl(0, 0%, 16%); box-shadow: inset 1px 1px 0.25px 0 hsla(0, 0.00%, 100.00%, 0.12), inset -1px 1px 0.25px 0 hsla(0, 0.00%, 100.00%, 0.12), 0 0 0 1px hsl(0, 0%, 0%), 0 1px 2px 0 hsla(0, 0.00%, 0.00%, 0.64); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease; font-family: Inter; color: hsl(0, 0%, 100%); font-size: 14px; line-height: 24px; font-weight: 500; text-align: center; text-decoration: none;",
+          "variants": {
+            "medium": {
+              "styleLess": "display: flex;"
+            },
+            "main_hover": {
+              "styleLess": "background-color: hsl(0, 0%, 8%);"
+            }
+          },
+          "children": [
+            "20b601c7-9042-4ac7-8bba-309012e9a86e"
+          ],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "8ec14c8e-0f29-dca4-4551-2aed963202ee",
+          "fake": false,
+          "type": "class",
+          "name": "Background Secondary",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "background-color: hsl(0, 0%, 96%);",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "28b54c9e-f2f2-ffe5-0442-f372c9aac40a",
+          "fake": false,
+          "type": "class",
+          "name": "Rating Icon",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 28px; height: 28px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "3dbef31f-e126-8e3c-0743-b4dd1a1d04ae",
+          "fake": false,
+          "type": "class",
+          "name": "Email Form Block",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 376px; margin-bottom: 0px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "162e4efb-731c-4d83-45bc-bf2d21e261c0",
+          "fake": false,
+          "type": "class",
+          "name": "Header Title",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; align-items: flex-start; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "69ced712-5f4d-d7c5-3c20-30dc07d081e2",
+          "fake": false,
+          "type": "class",
+          "name": "H1 Heading",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; font-family: Instrument Sans; font-size: 64px; line-height: 1.2; font-weight: 500;",
+          "variants": {
+            "tiny": {
+              "styleLess": "font-size: 48px;"
+            },
+            "small": {
+              "styleLess": "font-size: 56px;"
+            }
+          },
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "720c8359-be0a-1639-2541-a07584c66cdb",
+          "fake": false,
+          "type": "class",
+          "name": "Badge Outline",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; padding-top: 4px; padding-right: 12px; padding-bottom: 4px; padding-left: 12px; border-top-left-radius: 99px; border-top-right-radius: 99px; border-bottom-left-radius: 99px; border-bottom-right-radius: 99px; background-color: hsl(0, 0%, 100%); box-shadow: 0 0 0 1px hsla(0, 100.00%, 0.00%, 0.06), 0 1px 2px 0 hsla(0, 100.00%, 0.00%, 0.06); color: hsl(0, 0%, 0%); font-size: 12px; line-height: 20px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65a905fa08c4f3a17a73fd0c_Mail%20Icon.svg",
+          "siteId": "658032aa153b94b7c8f17858",
+          "width": 20,
+          "isHD": false,
+          "height": 20,
+          "fileName": "65a905fa08c4f3a17a73fd0c_Mail Icon.svg",
+          "createdOn": "2024-01-18T11:05:30.436Z",
+          "origFileName": "Mail Icon.svg",
+          "fileHash": "c2da1e7e201990d27ac6231cd751c1ec",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/svg+xml",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65a905fa08c4f3a17a73fd0c_Mail%20Icon.svg",
+          "thumbUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65a905fa08c4f3a17a73fd0c_Mail%20Icon.svg",
+          "_id": "65a905fa08c4f3a17a73fd0c",
+          "updatedOn": "2024-09-16T07:48:33.232Z",
+          "fileSize": 846,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002.webp",
+          "siteId": "658032aa153b94b7c8f17858",
+          "width": 3124,
+          "isHD": false,
+          "height": 1922,
+          "fileName": "65c35bdb1ab6feee3bd76226_Header Image 02.webp",
+          "createdOn": "2024-02-07T10:30:51.689Z",
+          "origFileName": "Header Image 02.webp",
+          "fileHash": "a00a4d2a8af4eede395ff7b7673bb1b8",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-500.png",
+              "origFileName": "Header%20Image%2002-p-500.png",
+              "fileName": "65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-500.png",
+              "size": 24564,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "65c35be2cacabf8f7a6fe840",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-800.png",
+              "origFileName": "Header%20Image%2002-p-800.png",
+              "fileName": "65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-800.png",
+              "size": 47324,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "65c35be2cacabf8f7a6fe841",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-800.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-1080.png",
+              "origFileName": "Header%20Image%2002-p-1080.png",
+              "fileName": "65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-1080.png",
+              "size": 86328,
+              "format": "png",
+              "width": 1080,
+              "quality": 100,
+              "_id": "65c35be2cacabf8f7a6fe842",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-1080.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-1600.png",
+              "origFileName": "Header%20Image%2002-p-1600.png",
+              "fileName": "65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-1600.png",
+              "size": 181255,
+              "format": "png",
+              "width": 1600,
+              "quality": 100,
+              "_id": "65c35be2cacabf8f7a6fe843",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-1600.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-2000.png",
+              "origFileName": "Header%20Image%2002-p-2000.png",
+              "fileName": "65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-2000.png",
+              "size": 299318,
+              "format": "png",
+              "width": 2000,
+              "quality": 100,
+              "_id": "65c35be2cacabf8f7a6fe844",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-2000.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-2600.png",
+              "origFileName": "Header%20Image%2002-p-2600.png",
+              "fileName": "65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-2600.png",
+              "size": 489983,
+              "format": "png",
+              "width": 2600,
+              "quality": 100,
+              "_id": "65c35be2cacabf8f7a6fe845",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002-p-2600.png"
+            }
+          ],
+          "mimeType": "image/webp",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002.webp",
+          "thumbUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65c35bdb1ab6feee3bd76226_Header%20Image%2002.webp",
+          "_id": "65c35bdb1ab6feee3bd76226",
+          "updatedOn": "2024-09-16T07:48:33.624Z",
+          "fileSize": 1049890,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large.webp",
+          "siteId": "658032aa153b94b7c8f17858",
+          "width": 1440,
+          "isHD": false,
+          "height": 756,
+          "fileName": "65d2d78a07da4cc136657798_Background Pattern X Large.webp",
+          "createdOn": "2024-02-19T04:22:34.446Z",
+          "origFileName": "Background Pattern X Large.webp",
+          "fileHash": "ca384d5bf0f843fa54aee368b738c700",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-500.png",
+              "origFileName": "Background%20Pattern%20X%20Large-p-500.png",
+              "fileName": "65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-500.png",
+              "size": 6024,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "65d2d78de78d68be451b5c12",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-800.png",
+              "origFileName": "Background%20Pattern%20X%20Large-p-800.png",
+              "fileName": "65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-800.png",
+              "size": 11125,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "65d2d78de78d68be451b5c13",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-800.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-1080.png",
+              "origFileName": "Background%20Pattern%20X%20Large-p-1080.png",
+              "fileName": "65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-1080.png",
+              "size": 18276,
+              "format": "png",
+              "width": 1080,
+              "quality": 100,
+              "_id": "65d2d78de78d68be451b5c14",
+              "cdnUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large-p-1080.png"
+            }
+          ],
+          "mimeType": "image/webp",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large.webp",
+          "thumbUrl": "https://cdn.prod.website-files.com/658032aa153b94b7c8f17858/65d2d78a07da4cc136657798_Background%20Pattern%20X%20Large.webp",
+          "_id": "65d2d78a07da4cc136657798",
+          "updatedOn": "2024-09-16T07:48:33.625Z",
+          "fileSize": 18978,
+          "localizedSettings": {}
+        }
+      ],
+      "ix1": [],
+      "ix2": {
+        "interactions": [],
+        "events": [],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

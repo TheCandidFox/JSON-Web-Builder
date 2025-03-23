@@ -1,0 +1,604 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "cd544ef5-a055-782e-7837-149c642222e6",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "7e98555a-2bc3-b664-db26-6d56585e398a"
+          ],
+          "children": [
+            "f2e0cc7c-b414-263c-0b1d-0df6f7b69377"
+          ],
+          "data": {
+            "tag": "section",
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "f2e0cc7c-b414-263c-0b1d-0df6f7b69377",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8b"
+          ],
+          "children": [
+            "2a9464a2-0b8e-524f-e414-458d0c84bfa4"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "2a9464a2-0b8e-524f-e414-458d0c84bfa4",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8d"
+          ],
+          "children": [
+            "8541ab4f-cf1a-cd46-48f2-e1a0d2b9a917",
+            "356632bf-518f-bf22-c03e-4499a6035c21"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "8541ab4f-cf1a-cd46-48f2-e1a0d2b9a917",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8e"
+          ],
+          "children": [
+            "0f73176b-e3f5-89fd-0ac1-b366f77f9c23"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "0f73176b-e3f5-89fd-0ac1-b366f77f9c23",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce91"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "6272f98765b92a8123f17399"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a2a3312aae1_placeholder%203.svg",
+              "loading": "lazy"
+            },
+            "sizes": []
+          }
+        },
+        {
+          "_id": "356632bf-518f-bf22-c03e-4499a6035c21",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8e"
+          ],
+          "children": [
+            "70da7e7f-1305-8d62-c004-4e95cb1d5574",
+            "ea16ad70-3fb2-a714-a94c-2121488abf36",
+            "2e8cfecf-cbf2-ced8-8259-07dfedba172f",
+            "4bc0956b-f433-d712-5454-0ce5ed88ce2b"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "70da7e7f-1305-8d62-c004-4e95cb1d5574",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [],
+          "children": [
+            "fb7f1d28-47b5-d825-7953-e0975f40604d"
+          ],
+          "data": {
+            "tag": "h1"
+          }
+        },
+        {
+          "_id": "fb7f1d28-47b5-d825-7953-e0975f40604d",
+          "text": true,
+          "v": "Title copy goes here"
+        },
+        {
+          "_id": "ea16ad70-3fb2-a714-a94c-2121488abf36",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8f"
+          ],
+          "children": [
+            "99deebcc-a39f-16e6-bc83-eb4e40e5a0a0"
+          ]
+        },
+        {
+          "_id": "99deebcc-a39f-16e6-bc83-eb4e40e5a0a0",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum."
+        },
+        {
+          "_id": "2e8cfecf-cbf2-ced8-8259-07dfedba172f",
+          "type": "FormWrapper",
+          "tag": "div",
+          "classes": [
+            "6e7fd726-afcb-418f-699f-1352ecacebd7"
+          ],
+          "children": [
+            "41490893-5d6d-71fc-1b78-e2e0c91e4957",
+            "d0176fe0-bde5-6750-d1ef-a036ce98e633",
+            "bb2fa30a-8aa5-5675-1acc-58ee066c5323"
+          ],
+          "data": {
+            "form": {
+              "type": "wrapper"
+            }
+          }
+        },
+        {
+          "_id": "41490893-5d6d-71fc-1b78-e2e0c91e4957",
+          "type": "FormForm",
+          "tag": "form",
+          "classes": [
+            "6e7fd726-afcb-418f-699f-1352ecacebd8"
+          ],
+          "children": [
+            "2a20c14f-3b67-cea3-84bd-ab4171389cf4",
+            "47feec31-ee7b-35e9-1c2e-93e11016439f"
+          ],
+          "data": {
+            "Source": {
+              "tag": "Default form",
+              "val": {}
+            },
+            "form": {
+              "type": "form",
+              "name": "Hero Form"
+            },
+            "attr": {
+              "id": "wf-form-Hero-Form",
+              "name": "wf-form-Hero-Form",
+              "data-name": "Hero Form",
+              "redirect": "",
+              "data-redirect": "",
+              "action": "",
+              "method": "get"
+            }
+          }
+        },
+        {
+          "_id": "2a20c14f-3b67-cea3-84bd-ab4171389cf4",
+          "type": "FormTextInput",
+          "tag": "input",
+          "classes": [
+            "6e7fd726-afcb-418f-699f-1352ecacebd9"
+          ],
+          "children": [],
+          "data": {
+            "form": {
+              "name": "Hero Email 2",
+              "type": "input",
+              "passwordPage": false
+            },
+            "attr": {
+              "id": "Hero-Email-2",
+              "name": "Hero-Email-2",
+              "maxlength": 256,
+              "data-name": "Hero Email 2",
+              "placeholder": "Enter your email",
+              "disabled": false,
+              "type": "text",
+              "required": true,
+              "autofocus": false
+            },
+            "xattr": [
+              {
+                "name": "aria-label",
+                "value": "Enter your email"
+              }
+            ]
+          }
+        },
+        {
+          "_id": "47feec31-ee7b-35e9-1c2e-93e11016439f",
+          "type": "FormButton",
+          "tag": "input",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce90"
+          ],
+          "children": [],
+          "data": {
+            "form": {
+              "type": "button"
+            },
+            "eventIds": [],
+            "attr": {
+              "type": "submit",
+              "value": "Get Started",
+              "data-wait": "Please wait..."
+            }
+          }
+        },
+        {
+          "_id": "d0176fe0-bde5-6750-d1ef-a036ce98e633",
+          "type": "FormSuccessMessage",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "c62d6411-9208-577c-db24-76aea1b0c7f1"
+          ],
+          "data": {
+            "form": {
+              "type": "msg-done"
+            }
+          }
+        },
+        {
+          "_id": "c62d6411-9208-577c-db24-76aea1b0c7f1",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "2c28b5b2-9593-1ea7-8be7-8a17b504e831"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "2c28b5b2-9593-1ea7-8be7-8a17b504e831",
+          "text": true,
+          "v": "Thank you! Your submission has been received!"
+        },
+        {
+          "_id": "bb2fa30a-8aa5-5675-1acc-58ee066c5323",
+          "type": "FormErrorMessage",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "fc335798-289a-9e64-5621-4aae11e24688"
+          ],
+          "data": {
+            "form": {
+              "type": "msg-fail"
+            }
+          }
+        },
+        {
+          "_id": "fc335798-289a-9e64-5621-4aae11e24688",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "a7e7e564-f8b6-61c5-251c-e4b860238cec"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "a7e7e564-f8b6-61c5-251c-e4b860238cec",
+          "text": true,
+          "v": "Oops! Something went wrong while submitting the form."
+        },
+        {
+          "_id": "4bc0956b-f433-d712-5454-0ce5ed88ce2b",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "6e7fd726-afcb-418f-699f-1352ecacebda"
+          ],
+          "children": [
+            "e852902f-ad1f-b82b-9a39-62430588e8f0",
+            "18913c61-c2f5-19ea-1e3c-e4df0346f015"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": []
+          }
+        },
+        {
+          "_id": "e852902f-ad1f-b82b-9a39-62430588e8f0",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "28f64f0c-d652-b7c0-1969-03c3c3160219"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "28f64f0c-d652-b7c0-1969-03c3c3160219",
+          "text": true,
+          "v": "or Sign-up with Google"
+        },
+        {
+          "_id": "18913c61-c2f5-19ea-1e3c-e4df0346f015",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "6e7fd726-afcb-418f-699f-1352ecacebdb"
+          ],
+          "children": [],
+          "v": "<svg width=\"17\" height=\"17\" viewbox=\"0 0 17 17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.13 8.5L6.87296 4.24291L5.87067 5.24379L9.129 8.5L5.87067 11.7555L6.87225 12.7571L11.13 8.5Z\" fill=\"currentColor\"/>\n</svg>",
+          "data": {
+            "embed": {
+              "meta": {
+                "html": "<svg width=\"17\" height=\"17\" viewBox=\"0 0 17 17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.13 8.5L6.87296 4.24291L5.87067 5.24379L9.129 8.5L5.87067 11.7555L6.87225 12.7571L11.13 8.5Z\" fill=\"currentColor\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "6e7fd726-afcb-418f-699f-1352ecacebdb",
+          "fake": false,
+          "type": "class",
+          "name": "Arrow Embed",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; margin-left: 2px;",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6e7fd726-afcb-418f-699f-1352ecacebd8",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Form Container",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: flex-start; align-items: stretch;",
+          "variants": {
+            "tiny": {
+              "styleLess": "flex-direction: column; align-items: flex-start;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6e7fd726-afcb-418f-699f-1352ecacebda",
+          "fake": false,
+          "type": "class",
+          "name": "Text Link Arrow",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: flex-start; align-items: center; color: #1a1b1f; font-size: 14px; line-height: 20px; text-decoration: none;",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce91",
+          "fake": false,
+          "type": "class",
+          "name": "Shadow Two",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "box-shadow: 0 4px 24px 0 hsla(214.83870967741936, 17.32%, 64.90%, 0.08);",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8e",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Split",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; max-width: 46%; flex-direction: column; justify-content: flex-start; align-items: flex-start;",
+          "variants": {
+            "medium": {
+              "styleLess": "max-width: 100%; margin-bottom: 40px;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6e7fd726-afcb-418f-699f-1352ecacebd9",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Form Input",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 240px; height: auto; margin-right: 9px; margin-bottom: 0px; padding-top: 5px; padding-right: 16px; padding-bottom: 5px; padding-left: 16px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(209.99999999999994, 12.20%, 83.92%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(209.99999999999994, 12.20%, 83.92%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(209.99999999999994, 12.20%, 83.92%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(209.99999999999994, 12.20%, 83.92%, 1.00); transition-property: all; transition-duration: 200ms; transition-timing-function: ease; color: #1a1b1f; font-size: 14px; line-height: 20px;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "border-top-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00); border-right-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00); border-bottom-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00); border-left-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00);"
+            },
+            "main_focus": {
+              "styleLess": "border-top-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00); border-right-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00); border-bottom-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00); border-left-color: hsla(213.84615384615384, 16.60%, 53.92%, 1.00);"
+            },
+            "main_placeholder": {
+              "styleLess": "color: hsla(228, 8.77%, 11.18%, 0.80);"
+            },
+            "tiny": {
+              "styleLess": "width: 100%; height: 48px; margin-bottom: 10px;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce90",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "padding-top: 12px; padding-right: 25px; padding-bottom: 12px; padding-left: 25px; background-color: #1a1b1f; transition-property: all; transition-duration: 200ms; transition-timing-function: ease; color: hsla(0, 0.00%, 100.00%, 1.00); font-size: 12px; line-height: 20px; letter-spacing: 2px; text-transform: uppercase;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "background-color: #32343a; color: hsla(0, 0.00%, 100.00%, 1.00);"
+            },
+            "main_active": {
+              "styleLess": "background-color: #43464d;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6e7fd726-afcb-418f-699f-1352ecacebd7",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Form",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 12px;",
+          "variants": {
+            "tiny": {
+              "styleLess": "margin-bottom: 15px; align-self: stretch;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8d",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: space-between; align-items: center;",
+          "variants": {
+            "medium": {
+              "styleLess": "margin-bottom: -40px; flex-direction: column; justify-content: flex-start; align-items: flex-start;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "7e98555a-2bc3-b664-db26-6d56585e398a",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Subscribe Right",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 80px; padding-right: 30px; padding-bottom: 80px; padding-left: 30px; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(212.00000000000006, 38.46%, 92.35%, 1.00); background-color: hsla(216, 33.33%, 97.06%, 1.00);",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 60px; padding-right: 15px; padding-bottom: 60px; padding-left: 15px;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8b",
+          "fake": false,
+          "type": "class",
+          "name": "Container 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 940px; margin-right: auto; margin-left: auto;",
+          "variants": {
+            "medium": {
+              "styleLess": "max-width: 728px;"
+            },
+            "tiny": {
+              "styleLess": "max-width: none;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8f",
+          "fake": false,
+          "type": "class",
+          "name": "Margin bottom 24px 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 24px;",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [],
+      "ix1": [],
+      "ix2": {
+        "interactions": [],
+        "events": [],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

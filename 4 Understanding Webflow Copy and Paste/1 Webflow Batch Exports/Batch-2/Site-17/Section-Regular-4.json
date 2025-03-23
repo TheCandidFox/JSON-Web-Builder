@@ -1,0 +1,1987 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "3bc2e687-bbf6-6eb2-284b-b88fcccaa3df",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7eb"
+          ],
+          "children": [
+            "ecb50321-9ea0-3043-beeb-4909edb1ba70",
+            "b03dc13c-97dc-3531-8c2b-91f3ee0e69e9",
+            "45484398-1172-b887-1233-578521fb6fe9"
+          ],
+          "data": {
+            "tag": "section",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "ecb50321-9ea0-3043-beeb-4909edb1ba70",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "a6c4ee37-2565-f0ef-25e2-c76b8f5f3858"
+          ],
+          "children": [],
+          "v": "<!-- Flowbase Booster - Auto Carousel -->\n<style>\n.header-carousel-group {\n\n  white-space: nowrap;\n  will-change: transform;\n  /* Here you can adjust the time & speed */\n  animation: carousel-animation 12s linear infinite;\n}\n\n@keyframes carousel-animation {\n  from { transform: translateX(0%); }\n  to { transform: translateX(calc(-50%)); }\n}\n\n</style>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<!-- Flowbase Booster - Auto Carousel -->\n<style>\n.header-carousel-group {\n\n  white-space: nowrap;\n  will-change: transform;\n  /* Here you can adjust the time & speed */\n  animation: carousel-animation 12s linear infinite;\n}\n\n@keyframes carousel-animation {\n  from { transform: translateX(0%); }\n  to { transform: translateX(calc(-50%)); }\n}\n\n</style>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b03dc13c-97dc-3531-8c2b-91f3ee0e69e9",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "93e73057-4032-6a9a-7d4e-bb53ee8eb068"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "64c21b5695452ac724295eb5"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64b4b308ff77913536dd2812/64c21b5695452ac724295eb5_Header%20Lines.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "45484398-1172-b887-1233-578521fb6fe9",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f5"
+          ],
+          "children": [
+            "416ffa1d-7f8f-e81c-65e4-e9ed7226ba5e",
+            "7ebe50c8-fedf-0680-bc71-77fa87e0e4bd"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "416ffa1d-7f8f-e81c-65e4-e9ed7226ba5e",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7e8"
+          ],
+          "children": [
+            "aae024be-5f20-b3e3-9d09-e71c672c34c9"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "style": {
+              "base": {
+                "main": {
+                  "noPseudo": {
+                    "gridColumnStart": "span 1",
+                    "gridColumnEnd": "span 1",
+                    "gridRowStart": "span 1",
+                    "gridRowEnd": "span 1"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "_id": "aae024be-5f20-b3e3-9d09-e71c672c34c9",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f0"
+          ],
+          "children": [
+            "6747d1c2-75b0-bb7d-10ba-4922ec96ddd9"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6747d1c2-75b0-bb7d-10ba-4922ec96ddd9",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "93e73057-4032-6a9a-7d4e-bb53ee8eb071",
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fc"
+          ],
+          "children": [
+            "81660073-4a8a-7190-cd2b-ec53713e46e8",
+            "9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+            "3b965366-2b09-c075-8bca-45a8c4c7481f"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "81660073-4a8a-7190-cd2b-ec53713e46e8",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f1",
+            "585e371c-0ec9-7612-7d91-23d8cc24f800"
+          ],
+          "children": [
+            "fd09667c-719f-0584-7fc3-f14f7045a469",
+            "2c8c3e9e-3bd7-5d28-08e2-093531878a66"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "fd09667c-719f-0584-7fc3-f14f7045a469",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fa",
+            "585e371c-0ec9-7612-7d91-23d8cc24f802"
+          ],
+          "children": [
+            "4a4634d3-2e21-83b8-829f-3c6c2f4dbd8f",
+            "575cd483-141f-3a01-61cd-91c1e7d6cd0e"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4a4634d3-2e21-83b8-829f-3c6c2f4dbd8f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f8",
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fe"
+          ],
+          "children": [
+            "15d0b2d9-e9c0-fa6e-48f9-02b6a942de09",
+            "880f0f42-bde6-f3fc-e176-638e2c4fa607"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "15d0b2d9-e9c0-fa6e-48f9-02b6a942de09",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "b810b95c-460c-5cf9-f453-9338f7a7883a"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b810b95c-460c-5cf9-f453-9338f7a7883a",
+          "text": true,
+          "v": "Prism AI Beta access"
+        },
+        {
+          "_id": "880f0f42-bde6-f3fc-e176-638e2c4fa607",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "61c08b55-db5e-9773-2b38-041669a38e3b"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e040250e635e4ebfd64e34"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e040250e635e4ebfd64e34_Arrow%20Icon.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "575cd483-141f-3a01-61cd-91c1e7d6cd0e",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ea"
+          ],
+          "children": [
+            "6aa6984a-2d4a-7205-de39-6e914b3bbcd4"
+          ],
+          "data": {
+            "tag": "h1",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6aa6984a-2d4a-7205-de39-6e914b3bbcd4",
+          "text": true,
+          "v": "Protect your systems securely with Prism"
+        },
+        {
+          "_id": "2c8c3e9e-3bd7-5d28-08e2-093531878a66",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fb"
+          ],
+          "children": [
+            "842cd8c0-12c2-0ce0-332d-f2c5c61cb5c9"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "842cd8c0-12c2-0ce0-332d-f2c5c61cb5c9",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ec",
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ff"
+          ],
+          "children": [
+            "d0cef288-e0a4-be67-67d6-245d5af03466",
+            "875a7d5a-5457-38af-22e5-37b82c95be42"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d0cef288-e0a4-be67-67d6-245d5af03466",
+          "text": true,
+          "v": "Helping you to protect all your digital activity and data from unwanted third party by using "
+        },
+        {
+          "_id": "875a7d5a-5457-38af-22e5-37b82c95be42",
+          "type": "Span",
+          "tag": "span",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ed"
+          ],
+          "children": [
+            "3fef2a1c-8ee1-215a-2ebd-1314ffb84bd8"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3fef2a1c-8ee1-215a-2ebd-1314ffb84bd8",
+          "text": true,
+          "v": "PrismAGI"
+        },
+        {
+          "_id": "9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f7"
+          ],
+          "children": [
+            "0ecf575e-67f4-14eb-80ea-da2cbb20cceb",
+            "60f60a3e-34bd-d024-ea8e-d175be856e55"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "0ecf575e-67f4-14eb-80ea-da2cbb20cceb",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f3"
+          ],
+          "children": [
+            "6f955200-e1af-d83e-e644-d9a751a79d2f"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6f955200-e1af-d83e-e644-d9a751a79d2f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "4e7e918f-3ec5-68ef-01bd-ec7b81310cd6"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4e7e918f-3ec5-68ef-01bd-ec7b81310cd6",
+          "text": true,
+          "v": "Get started"
+        },
+        {
+          "_id": "60f60a3e-34bd-d024-ea8e-d175be856e55",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7e9"
+          ],
+          "children": [
+            "821b5e9b-a3f5-505e-0040-792b0f66e0c1",
+            "3ce77e5d-3348-b086-adba-05df2dd14224"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": ""
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "821b5e9b-a3f5-505e-0040-792b0f66e0c1",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "5a88362c-4843-fe17-b68a-90b16ddd3aa3"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "5a88362c-4843-fe17-b68a-90b16ddd3aa3",
+          "text": true,
+          "v": "Try now"
+        },
+        {
+          "_id": "3ce77e5d-3348-b086-adba-05df2dd14224",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f4"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "67e040250e635e4ebfd64e35"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "auto",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e040250e635e4ebfd64e35_Icon%20Arrow%20Up.svg",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3b965366-2b09-c075-8bca-45a8c4c7481f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ee",
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fd"
+          ],
+          "children": [
+            "ac42fb71-8dcf-ccbf-f878-0d88ea42a6b5",
+            "da59cb13-a925-e21e-6bac-da91295622c4"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ac42fb71-8dcf-ccbf-f878-0d88ea42a6b5",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ef"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\">\n  <path d=\"M14.625 7.875V13.5C14.625 13.6492 14.5657 13.7923 14.4602 13.8977C14.3548 14.0032 14.2117 14.0625 14.0625 14.0625H3.9375C3.78832 14.0625 3.64524 14.0032 3.53975 13.8977C3.43426 13.7923 3.375 13.6492 3.375 13.5V7.875H14.625ZM14.625 6.75H3.375V4.5C3.375 4.35082 3.43426 4.20774 3.53975 4.10225C3.64524 3.99676 3.78832 3.9375 3.9375 3.9375H14.0625C14.2117 3.9375 14.3548 3.99676 14.4602 4.10225C14.5657 4.20774 14.625 4.35082 14.625 4.5V6.75ZM10.6875 11.25V12.375H12.9375V11.25H10.6875Z\" fill=\"currentColor\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\">\n  <path d=\"M14.625 7.875V13.5C14.625 13.6492 14.5657 13.7923 14.4602 13.8977C14.3548 14.0032 14.2117 14.0625 14.0625 14.0625H3.9375C3.78832 14.0625 3.64524 14.0032 3.53975 13.8977C3.43426 13.7923 3.375 13.6492 3.375 13.5V7.875H14.625ZM14.625 6.75H3.375V4.5C3.375 4.35082 3.43426 4.20774 3.53975 4.10225C3.64524 3.99676 3.78832 3.9375 3.9375 3.9375H14.0625C14.2117 3.9375 14.3548 3.99676 14.4602 4.10225C14.5657 4.20774 14.625 4.35082 14.625 4.5V6.75ZM10.6875 11.25V12.375H12.9375V11.25H10.6875Z\" fill=\"currentColor\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "da59cb13-a925-e21e-6bac-da91295622c4",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "93e73057-4032-6a9a-7d4e-bb53ee8eb069"
+          ],
+          "children": [
+            "6081b2c5-6b6c-a797-17fa-c20256280daf"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "6081b2c5-6b6c-a797-17fa-c20256280daf",
+          "text": true,
+          "v": "No credit-card required"
+        },
+        {
+          "_id": "7ebe50c8-fedf-0680-bc71-77fa87e0e4bd",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f9"
+          ],
+          "children": [
+            "53bb3cd8-9c03-b273-b3f9-22a77a49e5d5",
+            "cddf2a03-7072-7483-75af-06cab59dea6f",
+            "3502e5df-323d-51ff-cb0a-134e9527015c"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "53bb3cd8-9c03-b273-b3f9-22a77a49e5d5",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f2",
+            "585e371c-0ec9-7612-7d91-23d8cc24f801"
+          ],
+          "children": [],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "cddf2a03-7072-7483-75af-06cab59dea6f",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f2"
+          ],
+          "children": [],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3502e5df-323d-51ff-cb0a-134e9527015c",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "93e73057-4032-6a9a-7d4e-bb53ee8eb060"
+          ],
+          "children": [
+            "63d14d97-e284-b568-cef3-b4d5b3d121c3",
+            "3ba0bbaa-0691-df3e-b71e-737020781458",
+            "193848d4-e500-3315-5bcc-783da31e0642",
+            "75d8f5f6-462d-1e50-75c6-3cc7208a64fa",
+            "9b38f478-c298-3123-ba42-e1bbd1cd3a62",
+            "d2deb15e-f63e-4e95-2924-f22b042ba22d",
+            "efd46ce9-2f92-0735-9402-48acbfaddb17"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "63d14d97-e284-b568-cef3-b4d5b3d121c3",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2627)\">\n    <path d=\"M16 0C24.8368 0 32 7.1632 32 16V27.2C32 28.473 31.4943 29.6939 30.5941 30.5941C29.6939 31.4943 28.473 32 27.2 32H16.8V24.9808C16.8 23.3792 16.8976 21.72 17.7376 20.3568C18.339 19.3799 19.1434 18.5437 20.0964 17.905C21.0494 17.2664 22.1286 16.8401 23.2608 16.6552L23.5672 16.6056C23.6935 16.5624 23.8031 16.4808 23.8808 16.3722C23.9584 16.2636 24.0002 16.1335 24.0002 16C24.0002 15.8665 23.9584 15.7364 23.8808 15.6278C23.8031 15.5192 23.6935 15.4376 23.5672 15.3944L23.2608 15.3448C21.6065 15.0746 20.0789 14.2916 18.8937 13.1063C17.7084 11.9211 16.9254 10.3935 16.6552 8.7392L16.6056 8.4328C16.5624 8.30648 16.4808 8.19683 16.3722 8.11918C16.2636 8.04154 16.1335 7.9998 16 7.9998C15.8665 7.9998 15.7363 8.04154 15.6277 8.11918C15.5191 8.19683 15.4375 8.30648 15.3944 8.4328L15.3448 8.7392C15.1599 9.87142 14.7337 10.9506 14.095 11.9036C13.4563 12.8566 12.6201 13.661 11.6432 14.2624C10.28 15.1024 8.62076 15.2 7.01916 15.2H0.019165C0.437565 6.7352 7.43196 0 16 0Z\" fill=\"#474747\"/>\n    <path d=\"M0 16.8H7.0192C8.6208 16.8 10.28 16.8976 11.6432 17.7376C12.7088 18.3942 13.6058 19.2912 14.2624 20.3568C15.1024 21.72 15.2 23.3792 15.2 24.9808V32H4.8C3.52696 32 2.30606 31.4943 1.40589 30.5941C0.505713 29.6939 0 28.473 0 27.2L0 16.8ZM32 1.6C32 2.02435 31.8314 2.43131 31.5314 2.73137C31.2313 3.03143 30.8243 3.2 30.4 3.2C29.9757 3.2 29.5687 3.03143 29.2686 2.73137C28.9686 2.43131 28.8 2.02435 28.8 1.6C28.8 1.17565 28.9686 0.768687 29.2686 0.468629C29.5687 0.168571 29.9757 0 30.4 0C30.8243 0 31.2313 0.168571 31.5314 0.468629C31.8314 0.768687 32 1.17565 32 1.6Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2627\">\n      <rect width=\"32\" height=\"32\" fill=\"white\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2627)\">\n    <path d=\"M16 0C24.8368 0 32 7.1632 32 16V27.2C32 28.473 31.4943 29.6939 30.5941 30.5941C29.6939 31.4943 28.473 32 27.2 32H16.8V24.9808C16.8 23.3792 16.8976 21.72 17.7376 20.3568C18.339 19.3799 19.1434 18.5437 20.0964 17.905C21.0494 17.2664 22.1286 16.8401 23.2608 16.6552L23.5672 16.6056C23.6935 16.5624 23.8031 16.4808 23.8808 16.3722C23.9584 16.2636 24.0002 16.1335 24.0002 16C24.0002 15.8665 23.9584 15.7364 23.8808 15.6278C23.8031 15.5192 23.6935 15.4376 23.5672 15.3944L23.2608 15.3448C21.6065 15.0746 20.0789 14.2916 18.8937 13.1063C17.7084 11.9211 16.9254 10.3935 16.6552 8.7392L16.6056 8.4328C16.5624 8.30648 16.4808 8.19683 16.3722 8.11918C16.2636 8.04154 16.1335 7.9998 16 7.9998C15.8665 7.9998 15.7363 8.04154 15.6277 8.11918C15.5191 8.19683 15.4375 8.30648 15.3944 8.4328L15.3448 8.7392C15.1599 9.87142 14.7337 10.9506 14.095 11.9036C13.4563 12.8566 12.6201 13.661 11.6432 14.2624C10.28 15.1024 8.62076 15.2 7.01916 15.2H0.019165C0.437565 6.7352 7.43196 0 16 0Z\" fill=\"#474747\"/>\n    <path d=\"M0 16.8H7.0192C8.6208 16.8 10.28 16.8976 11.6432 17.7376C12.7088 18.3942 13.6058 19.2912 14.2624 20.3568C15.1024 21.72 15.2 23.3792 15.2 24.9808V32H4.8C3.52696 32 2.30606 31.4943 1.40589 30.5941C0.505713 29.6939 0 28.473 0 27.2L0 16.8ZM32 1.6C32 2.02435 31.8314 2.43131 31.5314 2.73137C31.2313 3.03143 30.8243 3.2 30.4 3.2C29.9757 3.2 29.5687 3.03143 29.2686 2.73137C28.9686 2.43131 28.8 2.02435 28.8 1.6C28.8 1.17565 28.9686 0.768687 29.2686 0.468629C29.5687 0.168571 29.9757 0 30.4 0C30.8243 0 31.2313 0.168571 31.5314 0.468629C31.8314 0.768687 32 1.17565 32 1.6Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2627\">\n      <rect width=\"32\" height=\"32\" fill=\"white\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3ba0bbaa-0691-df3e-b71e-737020781458",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2630)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.8289 0C10.0237 0 8.29262 0.71707 7.01623 1.99346L0.857178 8.15247V10.9717C0.857178 12.9634 1.71273 14.7553 3.07639 16C1.71273 17.2446 0.857178 19.0365 0.857178 21.0283V23.8475L7.01623 30.0065C8.29262 31.2829 10.0237 32 11.8289 32C13.8206 32 15.6125 31.1445 16.8572 29.7808C18.1018 31.1445 19.8937 32 21.8855 32C23.6906 32 25.4217 31.2829 26.6981 30.0065L32.8572 23.8475V21.0283C32.8572 19.0365 32.0017 17.2446 30.638 16C32.0017 14.7553 32.8572 12.9634 32.8572 10.9717V8.15247L26.6981 1.99346C25.4217 0.71707 23.6906 0 21.8855 0C19.8937 0 18.1018 0.855549 16.8572 2.21921C15.6125 0.855549 13.8206 0 11.8289 0ZM21.4642 16C21.3875 15.93 21.3122 15.8581 21.2385 15.7843L16.8572 11.403L12.4759 15.7843C12.4021 15.8581 12.3269 15.93 12.2501 16C12.3269 16.07 12.4021 16.1419 12.4759 16.2157L16.8572 20.5969L21.2385 16.2157C21.3122 16.1419 21.3875 16.07 21.4642 16ZM18.6349 23.8475V25.1939C18.6349 26.9891 20.0903 28.4445 21.8855 28.4445C22.7476 28.4445 23.5744 28.102 24.184 27.4924L29.3017 22.3747V21.0283C29.3017 19.2331 27.8463 17.7777 26.0511 17.7777C25.189 17.7777 24.3622 18.1202 23.7526 18.7298L18.6349 23.8475ZM15.0794 23.8475L9.96174 18.7298C9.35214 18.1202 8.52537 17.7777 7.66327 17.7777C5.86805 17.7777 4.41273 19.2331 4.41273 21.0283V22.3747L9.53038 27.4924C10.14 28.102 10.9668 28.4445 11.8289 28.4445C13.6241 28.4445 15.0794 26.9891 15.0794 25.1939V23.8475ZM15.0794 6.80609V8.15247L9.96174 13.2701C9.35214 13.8797 8.52537 14.2222 7.66327 14.2222C5.86805 14.2222 4.41273 12.7669 4.41273 10.9717V9.62527L9.53038 4.50761C10.14 3.89802 10.9668 3.55556 11.8289 3.55556C13.6241 3.55556 15.0794 5.01087 15.0794 6.80609ZM23.7526 13.2701L18.6349 8.15247V6.80609C18.6349 5.01087 20.0903 3.55556 21.8855 3.55556C22.7476 3.55556 23.5744 3.89802 24.184 4.50761L29.3017 9.62527V10.9717C29.3017 12.7669 27.8463 14.2222 26.0511 14.2222C25.189 14.2222 24.3622 13.8797 23.7526 13.2701Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2630\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.857178)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2630)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.8289 0C10.0237 0 8.29262 0.71707 7.01623 1.99346L0.857178 8.15247V10.9717C0.857178 12.9634 1.71273 14.7553 3.07639 16C1.71273 17.2446 0.857178 19.0365 0.857178 21.0283V23.8475L7.01623 30.0065C8.29262 31.2829 10.0237 32 11.8289 32C13.8206 32 15.6125 31.1445 16.8572 29.7808C18.1018 31.1445 19.8937 32 21.8855 32C23.6906 32 25.4217 31.2829 26.6981 30.0065L32.8572 23.8475V21.0283C32.8572 19.0365 32.0017 17.2446 30.638 16C32.0017 14.7553 32.8572 12.9634 32.8572 10.9717V8.15247L26.6981 1.99346C25.4217 0.71707 23.6906 0 21.8855 0C19.8937 0 18.1018 0.855549 16.8572 2.21921C15.6125 0.855549 13.8206 0 11.8289 0ZM21.4642 16C21.3875 15.93 21.3122 15.8581 21.2385 15.7843L16.8572 11.403L12.4759 15.7843C12.4021 15.8581 12.3269 15.93 12.2501 16C12.3269 16.07 12.4021 16.1419 12.4759 16.2157L16.8572 20.5969L21.2385 16.2157C21.3122 16.1419 21.3875 16.07 21.4642 16ZM18.6349 23.8475V25.1939C18.6349 26.9891 20.0903 28.4445 21.8855 28.4445C22.7476 28.4445 23.5744 28.102 24.184 27.4924L29.3017 22.3747V21.0283C29.3017 19.2331 27.8463 17.7777 26.0511 17.7777C25.189 17.7777 24.3622 18.1202 23.7526 18.7298L18.6349 23.8475ZM15.0794 23.8475L9.96174 18.7298C9.35214 18.1202 8.52537 17.7777 7.66327 17.7777C5.86805 17.7777 4.41273 19.2331 4.41273 21.0283V22.3747L9.53038 27.4924C10.14 28.102 10.9668 28.4445 11.8289 28.4445C13.6241 28.4445 15.0794 26.9891 15.0794 25.1939V23.8475ZM15.0794 6.80609V8.15247L9.96174 13.2701C9.35214 13.8797 8.52537 14.2222 7.66327 14.2222C5.86805 14.2222 4.41273 12.7669 4.41273 10.9717V9.62527L9.53038 4.50761C10.14 3.89802 10.9668 3.55556 11.8289 3.55556C13.6241 3.55556 15.0794 5.01087 15.0794 6.80609ZM23.7526 13.2701L18.6349 8.15247V6.80609C18.6349 5.01087 20.0903 3.55556 21.8855 3.55556C22.7476 3.55556 23.5744 3.89802 24.184 4.50761L29.3017 9.62527V10.9717C29.3017 12.7669 27.8463 14.2222 26.0511 14.2222C25.189 14.2222 24.3622 13.8797 23.7526 13.2701Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2630\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.857178)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "193848d4-e500-3315-5bcc-783da31e0642",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2632)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.1589 9.34824C19.8433 8.4692 18.2966 8 16.7144 8V0C19.8788 0 22.9723 0.938384 25.6035 2.69649C28.2347 4.45458 30.2854 6.95345 31.4964 9.87704C32.7074 12.8006 33.0243 16.0178 32.4069 19.1214C31.7896 22.2251 30.2657 25.0761 28.028 27.3137C25.7904 29.5514 22.9395 31.0752 19.8358 31.6926C16.7321 32.3099 13.515 31.993 10.5914 30.7821C7.6678 29.571 5.16894 27.5203 3.41084 24.8891C1.65274 22.2579 0.714355 19.1645 0.714355 16H8.71436C8.71436 17.5822 9.18356 19.129 10.0626 20.4446C10.9416 21.7602 12.1911 22.7855 13.6529 23.391C15.1147 23.9966 16.7232 24.155 18.2751 23.8462C19.8269 23.5376 21.2524 22.7757 22.3712 21.6569C23.49 20.538 24.252 19.1126 24.5606 17.5607C24.8693 16.0089 24.7109 14.4003 24.1054 12.9386C23.4999 11.4767 22.4745 10.2273 21.1589 9.34824Z\" fill=\"#474747\"/>\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.71435 3.465e-06C8.71435 1.05058 8.50743 2.09087 8.10539 3.06147C7.70335 4.03208 7.11408 4.91399 6.37121 5.65686C5.62834 6.39973 4.74643 6.989 3.77582 7.39104C2.80522 7.79308 1.76493 8 0.714356 8L0.714355 16C2.8155 16 4.89608 15.5862 6.8373 14.7821C8.77851 13.978 10.5424 12.7994 12.028 11.3137C13.5138 9.828 14.6924 8.06416 15.4964 6.12294C16.3005 4.18172 16.7143 2.10115 16.7143 0L8.71435 3.465e-06Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2632\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.714355)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2632)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.1589 9.34824C19.8433 8.4692 18.2966 8 16.7144 8V0C19.8788 0 22.9723 0.938384 25.6035 2.69649C28.2347 4.45458 30.2854 6.95345 31.4964 9.87704C32.7074 12.8006 33.0243 16.0178 32.4069 19.1214C31.7896 22.2251 30.2657 25.0761 28.028 27.3137C25.7904 29.5514 22.9395 31.0752 19.8358 31.6926C16.7321 32.3099 13.515 31.993 10.5914 30.7821C7.6678 29.571 5.16894 27.5203 3.41084 24.8891C1.65274 22.2579 0.714355 19.1645 0.714355 16H8.71436C8.71436 17.5822 9.18356 19.129 10.0626 20.4446C10.9416 21.7602 12.1911 22.7855 13.6529 23.391C15.1147 23.9966 16.7232 24.155 18.2751 23.8462C19.8269 23.5376 21.2524 22.7757 22.3712 21.6569C23.49 20.538 24.252 19.1126 24.5606 17.5607C24.8693 16.0089 24.7109 14.4003 24.1054 12.9386C23.4999 11.4767 22.4745 10.2273 21.1589 9.34824Z\" fill=\"#474747\"/>\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.71435 3.465e-06C8.71435 1.05058 8.50743 2.09087 8.10539 3.06147C7.70335 4.03208 7.11408 4.91399 6.37121 5.65686C5.62834 6.39973 4.74643 6.989 3.77582 7.39104C2.80522 7.79308 1.76493 8 0.714356 8L0.714355 16C2.8155 16 4.89608 15.5862 6.8373 14.7821C8.77851 13.978 10.5424 12.7994 12.028 11.3137C13.5138 9.828 14.6924 8.06416 15.4964 6.12294C16.3005 4.18172 16.7143 2.10115 16.7143 0L8.71435 3.465e-06Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2632\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.714355)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "75d8f5f6-462d-1e50-75c6-3cc7208a64fa",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2635)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.57141 0C12.9897 0 16.5714 3.58172 16.5714 8V0H24.5714C28.9897 0 32.5714 3.58172 32.5714 8C32.5714 12.4182 28.9897 16 24.5714 16C28.9897 16 32.5714 19.5818 32.5714 24C32.5714 26.1938 31.6883 28.1814 30.2582 29.6267L30.2283 29.6569L30.2017 29.6833C28.7561 31.1154 26.7671 32 24.5714 32C22.3907 32 20.4137 31.1274 18.9706 29.7124C18.9519 29.694 18.9332 29.6754 18.9145 29.6569C18.897 29.6394 18.8796 29.6218 18.8622 29.6041C17.4453 28.1607 16.5714 26.1824 16.5714 24C16.5714 28.4182 12.9897 32 8.57141 32C4.15313 32 0.571411 28.4182 0.571411 24V16H8.57141C4.15313 16 0.571411 12.4182 0.571411 8C0.571411 3.58172 4.15313 0 8.57141 0ZM14.9714 8C14.9714 11.5346 12.1061 14.4 8.57141 14.4V1.6C12.1061 1.6 14.9714 4.46538 14.9714 8ZM30.9714 24C30.9714 20.4654 28.1061 17.6 24.5714 17.6C21.0368 17.6 18.1714 20.4654 18.1714 24H30.9714ZM2.17141 17.6V24C2.17141 27.5346 5.03679 30.4 8.57141 30.4C12.1061 30.4 14.9714 27.5346 14.9714 24V17.6H2.17141ZM18.1714 14.4V1.6H24.5714C28.1061 1.6 30.9714 4.46538 30.9714 8C30.9714 11.5346 28.1061 14.4 24.5714 14.4H18.1714Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2635\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.571411)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2635)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.57141 0C12.9897 0 16.5714 3.58172 16.5714 8V0H24.5714C28.9897 0 32.5714 3.58172 32.5714 8C32.5714 12.4182 28.9897 16 24.5714 16C28.9897 16 32.5714 19.5818 32.5714 24C32.5714 26.1938 31.6883 28.1814 30.2582 29.6267L30.2283 29.6569L30.2017 29.6833C28.7561 31.1154 26.7671 32 24.5714 32C22.3907 32 20.4137 31.1274 18.9706 29.7124C18.9519 29.694 18.9332 29.6754 18.9145 29.6569C18.897 29.6394 18.8796 29.6218 18.8622 29.6041C17.4453 28.1607 16.5714 26.1824 16.5714 24C16.5714 28.4182 12.9897 32 8.57141 32C4.15313 32 0.571411 28.4182 0.571411 24V16H8.57141C4.15313 16 0.571411 12.4182 0.571411 8C0.571411 3.58172 4.15313 0 8.57141 0ZM14.9714 8C14.9714 11.5346 12.1061 14.4 8.57141 14.4V1.6C12.1061 1.6 14.9714 4.46538 14.9714 8ZM30.9714 24C30.9714 20.4654 28.1061 17.6 24.5714 17.6C21.0368 17.6 18.1714 20.4654 18.1714 24H30.9714ZM2.17141 17.6V24C2.17141 27.5346 5.03679 30.4 8.57141 30.4C12.1061 30.4 14.9714 27.5346 14.9714 24V17.6H2.17141ZM18.1714 14.4V1.6H24.5714C28.1061 1.6 30.9714 4.46538 30.9714 8C30.9714 11.5346 28.1061 14.4 24.5714 14.4H18.1714Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2635\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.571411)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "9b38f478-c298-3123-ba42-e1bbd1cd3a62",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2637)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.26191 11.7139C0.433324 13.7605 0.216527 16.0124 0.638967 18.185C1.06136 20.3576 2.10401 22.3533 3.63501 23.9196C5.166 25.4859 7.11666 26.5526 9.24019 26.9848C11.3639 27.4169 13.565 27.1951 15.5654 26.3474C17.5657 25.4997 19.2755 24.0641 20.4784 22.2224C20.5104 22.1733 20.5421 22.1239 20.5734 22.0743C20.5955 22.0393 20.6174 22.0041 20.6392 21.9689V27.2H21.4812C23.6464 27.2 25.763 26.5431 27.5632 25.3124C29.3636 24.0818 30.7667 22.3325 31.5952 20.286C32.4239 18.2395 32.6407 15.9876 32.2182 13.8149C31.7958 11.6424 30.7532 9.64672 29.2222 8.0804C27.6912 6.51403 25.7405 5.44736 23.617 5.01522C21.4933 4.58303 19.2922 4.80483 17.2918 5.65254C15.2915 6.50025 13.5817 7.9358 12.3788 9.7776C12.3241 9.86143 12.2705 9.94598 12.218 10.0311V4.79999H11.376C9.21075 4.79999 7.0942 5.45688 5.29393 6.68756C3.49366 7.91818 2.0905 9.66739 1.26191 11.7139ZM10.5339 16V6.5623C8.99899 6.70564 7.51854 7.23916 6.22963 8.1202C4.7063 9.16153 3.51905 10.6417 2.81793 12.3733C2.11681 14.105 1.93337 16.0105 2.2908 17.8489C2.64822 19.6872 3.53047 21.3758 4.8259 22.7012C6.12139 24.0265 7.77193 24.9291 9.56883 25.2948C11.3657 25.6605 13.2282 25.4728 14.9208 24.7555C16.5455 24.067 17.9436 22.9203 18.9533 21.4512C18.188 21.8229 17.332 22.0308 16.4286 22.0308C13.1731 22.0308 10.5339 19.3306 10.5339 16ZM22.3233 25.4377V16C22.3233 12.6693 19.6841 9.96922 16.4286 9.96922C15.5252 9.96922 14.6692 10.1771 13.9039 10.5488C14.9136 9.07966 16.3117 7.9329 17.9364 7.24447C19.629 6.52717 21.4915 6.3395 23.2884 6.70517C25.0852 7.07084 26.7358 7.97344 28.0313 9.29877C29.3268 10.6242 30.209 12.3128 30.5664 14.1511C30.9238 15.9895 30.7404 17.8949 30.0392 19.6266C29.3382 21.3583 28.1509 22.8385 26.6276 23.8797C25.3387 24.7608 23.8582 25.2943 22.3233 25.4377ZM16.3444 20.3069C14.0858 20.2615 12.2632 18.3968 12.2189 16.0861H13.8119C15.0685 16.3792 16.0578 17.3912 16.3444 18.6769V20.3069ZM16.5128 20.3069C18.7713 20.2615 20.594 18.3968 20.6383 16.0861H19.0453C17.7885 16.3792 16.7992 17.3913 16.5128 18.6772V20.3069ZM20.6383 15.9138C20.594 13.6032 18.7713 11.7385 16.5128 11.6931V13.3228C16.7992 14.6085 17.7884 15.6207 19.0451 15.9138H20.6383ZM16.3444 11.6931C14.0859 11.7385 12.2632 13.6032 12.2189 15.9138H13.8121C15.0687 15.6207 16.0579 14.6087 16.3444 13.3231V11.6931Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2637\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.428589)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <g clip-path=\"url(#clip0_1053_2637)\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.26191 11.7139C0.433324 13.7605 0.216527 16.0124 0.638967 18.185C1.06136 20.3576 2.10401 22.3533 3.63501 23.9196C5.166 25.4859 7.11666 26.5526 9.24019 26.9848C11.3639 27.4169 13.565 27.1951 15.5654 26.3474C17.5657 25.4997 19.2755 24.0641 20.4784 22.2224C20.5104 22.1733 20.5421 22.1239 20.5734 22.0743C20.5955 22.0393 20.6174 22.0041 20.6392 21.9689V27.2H21.4812C23.6464 27.2 25.763 26.5431 27.5632 25.3124C29.3636 24.0818 30.7667 22.3325 31.5952 20.286C32.4239 18.2395 32.6407 15.9876 32.2182 13.8149C31.7958 11.6424 30.7532 9.64672 29.2222 8.0804C27.6912 6.51403 25.7405 5.44736 23.617 5.01522C21.4933 4.58303 19.2922 4.80483 17.2918 5.65254C15.2915 6.50025 13.5817 7.9358 12.3788 9.7776C12.3241 9.86143 12.2705 9.94598 12.218 10.0311V4.79999H11.376C9.21075 4.79999 7.0942 5.45688 5.29393 6.68756C3.49366 7.91818 2.0905 9.66739 1.26191 11.7139ZM10.5339 16V6.5623C8.99899 6.70564 7.51854 7.23916 6.22963 8.1202C4.7063 9.16153 3.51905 10.6417 2.81793 12.3733C2.11681 14.105 1.93337 16.0105 2.2908 17.8489C2.64822 19.6872 3.53047 21.3758 4.8259 22.7012C6.12139 24.0265 7.77193 24.9291 9.56883 25.2948C11.3657 25.6605 13.2282 25.4728 14.9208 24.7555C16.5455 24.067 17.9436 22.9203 18.9533 21.4512C18.188 21.8229 17.332 22.0308 16.4286 22.0308C13.1731 22.0308 10.5339 19.3306 10.5339 16ZM22.3233 25.4377V16C22.3233 12.6693 19.6841 9.96922 16.4286 9.96922C15.5252 9.96922 14.6692 10.1771 13.9039 10.5488C14.9136 9.07966 16.3117 7.9329 17.9364 7.24447C19.629 6.52717 21.4915 6.3395 23.2884 6.70517C25.0852 7.07084 26.7358 7.97344 28.0313 9.29877C29.3268 10.6242 30.209 12.3128 30.5664 14.1511C30.9238 15.9895 30.7404 17.8949 30.0392 19.6266C29.3382 21.3583 28.1509 22.8385 26.6276 23.8797C25.3387 24.7608 23.8582 25.2943 22.3233 25.4377ZM16.3444 20.3069C14.0858 20.2615 12.2632 18.3968 12.2189 16.0861H13.8119C15.0685 16.3792 16.0578 17.3912 16.3444 18.6769V20.3069ZM16.5128 20.3069C18.7713 20.2615 20.594 18.3968 20.6383 16.0861H19.0453C17.7885 16.3792 16.7992 17.3913 16.5128 18.6772V20.3069ZM20.6383 15.9138C20.594 13.6032 18.7713 11.7385 16.5128 11.6931V13.3228C16.7992 14.6085 17.7884 15.6207 19.0451 15.9138H20.6383ZM16.3444 11.6931C14.0859 11.7385 12.2632 13.6032 12.2189 15.9138H13.8121C15.0687 15.6207 16.0579 14.6087 16.3444 13.3231V11.6931Z\" fill=\"#474747\"/>\n  </g>\n  <defs>\n    <clipPath id=\"clip0_1053_2637\">\n      <rect width=\"32\" height=\"32\" fill=\"white\" transform=\"translate(0.428589)\"/>\n    </clipPath>\n  </defs>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d2deb15e-f63e-4e95-2924-f22b042ba22d",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2858 32C25.1223 32 32.2858 24.8366 32.2858 16C32.2858 7.16345 25.1223 0 16.2858 0C7.44919 0 0.285767 7.16345 0.285767 16C0.285767 24.8366 7.44919 32 16.2858 32ZM21.2772 7.45348C21.5202 6.59044 20.6827 6.08011 19.9178 6.62504L9.24026 14.2317C8.41074 14.8226 8.54122 16 9.43626 16H12.2479V15.9782H17.7278L13.2627 17.5537L11.2943 24.5466C11.0514 25.4096 11.8888 25.9199 12.6538 25.375L23.3313 17.7684C24.1608 17.1774 24.0302 16 23.1353 16H18.8715L21.2772 7.45348Z\" fill=\"#474747\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.2858 32C25.1223 32 32.2858 24.8366 32.2858 16C32.2858 7.16345 25.1223 0 16.2858 0C7.44919 0 0.285767 7.16345 0.285767 16C0.285767 24.8366 7.44919 32 16.2858 32ZM21.2772 7.45348C21.5202 6.59044 20.6827 6.08011 19.9178 6.62504L9.24026 14.2317C8.41074 14.8226 8.54122 16 9.43626 16H12.2479V15.9782H17.7278L13.2627 17.5537L11.2943 24.5466C11.0514 25.4096 11.8888 25.9199 12.6538 25.375L23.3313 17.7684C24.1608 17.1774 24.0302 16 23.1353 16H18.8715L21.2772 7.45348Z\" fill=\"#474747\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "efd46ce9-2f92-0735-9402-48acbfaddb17",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7f6"
+          ],
+          "children": [],
+          "v": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.1429 32C24.9796 32 32.1429 24.8366 32.1429 16C32.1429 7.16345 24.9796 0 16.1429 0C7.30638 0 0.142944 7.16345 0.142944 16C0.142944 24.8366 7.30638 32 16.1429 32ZM18.6125 12.3621C19.9764 10.9981 19.9764 8.78686 18.6125 7.42293C17.2486 6.05903 15.0373 6.05903 13.6734 7.42293C12.3096 8.78686 12.3096 10.9981 13.6734 12.3621L16.1429 14.8316L18.6125 12.3621ZM19.7809 18.4696C21.1449 19.8335 23.3561 19.8335 24.7201 18.4696C26.0839 17.1057 26.0839 14.8944 24.7201 13.5305C23.3561 12.1666 21.1449 12.1666 19.7809 13.5305L17.3114 16.0001L19.7809 18.4696ZM18.6125 24.5771C19.9764 23.2132 19.9764 21.0019 18.6125 19.638L16.1429 17.1685L13.6734 19.638C12.3096 21.0019 12.3096 23.2132 13.6734 24.5771C15.0373 25.941 17.2486 25.941 18.6125 24.5771ZM7.56586 18.4696C6.20198 17.1057 6.20198 14.8944 7.56586 13.5305C8.9298 12.1666 11.1411 12.1666 12.505 13.5305L14.9745 16.0001L12.505 18.4696C11.1411 19.8335 8.9298 19.8335 7.56586 18.4696Z\" fill=\"#474747\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.1429 32C24.9796 32 32.1429 24.8366 32.1429 16C32.1429 7.16345 24.9796 0 16.1429 0C7.30638 0 0.142944 7.16345 0.142944 16C0.142944 24.8366 7.30638 32 16.1429 32ZM18.6125 12.3621C19.9764 10.9981 19.9764 8.78686 18.6125 7.42293C17.2486 6.05903 15.0373 6.05903 13.6734 7.42293C12.3096 8.78686 12.3096 10.9981 13.6734 12.3621L16.1429 14.8316L18.6125 12.3621ZM19.7809 18.4696C21.1449 19.8335 23.3561 19.8335 24.7201 18.4696C26.0839 17.1057 26.0839 14.8944 24.7201 13.5305C23.3561 12.1666 21.1449 12.1666 19.7809 13.5305L17.3114 16.0001L19.7809 18.4696ZM18.6125 24.5771C19.9764 23.2132 19.9764 21.0019 18.6125 19.638L16.1429 17.1685L13.6734 19.638C12.3096 21.0019 12.3096 23.2132 13.6734 24.5771C15.0373 25.941 17.2486 25.941 18.6125 24.5771ZM7.56586 18.4696C6.20198 17.1057 6.20198 14.8944 7.56586 13.5305C8.9298 12.1666 11.1411 12.1666 12.505 13.5305L14.9745 16.0001L12.505 18.4696C11.1411 19.8335 8.9298 19.8335 7.56586 18.4696Z\" fill=\"#474747\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f8",
+          "fake": false,
+          "type": "class",
+          "name": "Badge Regular",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; justify-content: center; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 100.00%, 0.12); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 100.00%, 0.12); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 100.00%, 0.12); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 100.00%, 0.12); border-top-left-radius: 96px; border-top-right-radius: 96px; border-bottom-left-radius: 96px; border-bottom-right-radius: 96px; background-color: rgba(54, 23, 140, 0.64); backdrop-filter: blur(24px); color: #dacff7; font-size: 14px; line-height: 18px; font-weight: 500; letter-spacing: -0.25px; text-decoration: none;",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fe"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7e9",
+          "fake": false,
+          "type": "class",
+          "name": "Button Secondary Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: inline-flex; padding-top: 12px; padding-right: 16px; padding-bottom: 12px; padding-left: 16px; justify-content: center; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px; border-top-style: solid; border-top-width: 1px; border-top-color: rgba(255, 255, 255, 0.08); border-right-style: solid; border-right-width: 1px; border-right-color: rgba(255, 255, 255, 0.08); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: rgba(255, 255, 255, 0.08); border-left-style: solid; border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.08); border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: hsla(0, 0.00%, 23.92%, 0.64); backdrop-filter: blur(64px); transition-property: border-color, background-color, color; transition-duration: 400ms, 400ms, 400ms; transition-timing-function: ease, ease, ease; color: hsl(0, 0%, 100%); font-size: 18px; line-height: 24px; font-weight: 500; letter-spacing: -0.25px; text-decoration: none;",
+          "variants": {
+            "main_current": {
+              "styleLess": "border-top-color: hsl(215, 19%, 35%); border-right-color: hsl(215, 19%, 35%); border-bottom-color: hsl(215, 19%, 35%); border-left-color: hsl(215, 19%, 35%); background-color: hsl(215, 25%, 27%);"
+            },
+            "main_hover": {
+              "styleLess": "border-top-color: rgba(255, 255, 255, 0.12); border-right-color: rgba(255, 255, 255, 0.12); border-bottom-color: rgba(255, 255, 255, 0.12); border-left-color: rgba(255, 255, 255, 0.12); background-color: rgba(255, 255, 255, 0.12);"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7ff",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Gray 500",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "color: #ababab;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f0",
+          "fake": false,
+          "type": "class",
+          "name": "Text Align Center",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "text-align: center;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7ea",
+          "fake": false,
+          "type": "class",
+          "name": "Display Heading 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; background-image: linear-gradient(to bottom, rgba(41, 17, 105, 0.24), hsla(256.2162162162162, 72.55%, 80.00%, 1.00) 42%, #bba7f1); color: #e3e3e3; font-size: 80px; line-height: 1.2; font-weight: 600; background-clip: text;",
+          "variants": {
+            "tiny": {
+              "styleLess": "font-size: 52px; line-height: 62px;"
+            },
+            "small": {
+              "styleLess": "font-size: 64px;"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7fd",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Purple 601",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f5",
+          "fake": false,
+          "type": "class",
+          "name": "Container Large 6",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 1200px; margin-right: auto; margin-left: auto;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7fa",
+          "fake": false,
+          "type": "class",
+          "name": "Column Regular 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; grid-column-gap: 16px; grid-row-gap: 16px;",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f802"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f7",
+          "fake": false,
+          "type": "class",
+          "name": "Header Buttons",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap; align-items: center; grid-column-gap: 12px; grid-row-gap: 12px;",
+          "variants": {
+            "tiny": {
+              "styleLess": "width: 100%; flex-direction: column; flex-wrap: nowrap; align-items: stretch;"
+            }
+          },
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7ed",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color Purple 601",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "color: #8f6ee7;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f4",
+          "fake": false,
+          "type": "class",
+          "name": "Icon Regular 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 24px; height: 24px; justify-content: center; align-items: center; transition-property: color; transition-duration: 200ms; transition-timing-function: ease;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f802",
+          "fake": false,
+          "type": "class",
+          "name": "Column Center",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f3",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary Large 4",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: inline-flex; padding-top: 12px; padding-right: 16px; padding-bottom: 12px; padding-left: 16px; justify-content: center; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px; border-top-style: solid; border-top-width: 1px; border-top-color: rgba(255, 255, 255, 0.08); border-right-style: solid; border-right-width: 1px; border-right-color: rgba(255, 255, 255, 0.08); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: rgba(255, 255, 255, 0.08); border-left-style: solid; border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.08); border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: rgba(54, 23, 140, 0.64); backdrop-filter: blur(64px); transition-property: border-color, background-color, color; transition-duration: 400ms, 400ms, 400ms; transition-timing-function: ease, ease, ease; color: #f0f0f0; font-size: 18px; line-height: 24px; font-weight: 500; letter-spacing: -0.25px; text-decoration: none;",
+          "variants": {
+            "main_current": {
+              "styleLess": "border-top-color: hsl(215, 19%, 35%); border-right-color: hsl(215, 19%, 35%); border-bottom-color: hsl(215, 19%, 35%); border-left-color: hsl(215, 19%, 35%); background-color: hsl(215, 25%, 27%);"
+            },
+            "main_hover": {
+              "styleLess": "border-top-color: rgba(255, 255, 255, 0.12); border-right-color: rgba(255, 255, 255, 0.12); border-bottom-color: rgba(255, 255, 255, 0.12); border-left-color: rgba(255, 255, 255, 0.12); background-color: rgba(54, 23, 140, 0.48);"
+            }
+          },
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "93e73057-4032-6a9a-7d4e-bb53ee8eb071",
+          "fake": false,
+          "type": "class",
+          "name": "Column  X Large 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; grid-column-gap: 32px; grid-row-gap: 32px;",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fc"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f801",
+          "fake": false,
+          "type": "class",
+          "name": "Left",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "left: 0%; top: 0%; right: auto; bottom: 0%; background-image: linear-gradient(270deg, hsla(0, 0.00%, 0.00%, 0.00), hsla(0, 0.00%, 0.00%, 0.77) 60%, hsla(0, 0.00%, 0.00%, 1.00));",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7e8",
+          "fake": false,
+          "type": "class",
+          "name": "Container Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; z-index: 5; width: 100%; max-width: 944px; margin-right: auto; margin-left: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f2",
+          "fake": false,
+          "type": "class",
+          "name": "Header Gradient",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: auto; top: 0%; right: 0%; bottom: 0%; z-index: 5; width: 10%; background-image: linear-gradient(90deg, hsla(0, 0.00%, 0.00%, 0.00), hsla(0, 0.00%, 0.00%, 0.77) 60%, hsla(0, 0.00%, 0.00%, 1.00));",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f801"
+          ],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "61c08b55-db5e-9773-2b38-041669a38e3b",
+          "fake": false,
+          "type": "class",
+          "name": "Icon X Small 4",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 16px; height: 16px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "93e73057-4032-6a9a-7d4e-bb53ee8eb069",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Small 5",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 14px; line-height: 20px; letter-spacing: -0.25px;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7ef",
+          "fake": false,
+          "type": "class",
+          "name": "Icon Small 4",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 18px; height: 18px; justify-content: center; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7fe",
+          "fake": false,
+          "type": "class",
+          "name": "Gray",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "background-color: rgba(255, 255, 255, 0.08); color: #e3e3e3;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7eb",
+          "fake": false,
+          "type": "class",
+          "name": "Section Regular 4",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 80px; padding-right: 5%; padding-bottom: 80px; padding-left: 5%; background-color: hsla(0, 0.00%, 0.00%, 1.00);",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 72px; padding-bottom: 72px;"
+            }
+          },
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f1",
+          "fake": false,
+          "type": "class",
+          "name": "Column Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; grid-column-gap: 24px; grid-row-gap: 24px;",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f800"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7fc",
+          "fake": false,
+          "type": "class",
+          "name": "Column Center",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f6",
+          "fake": false,
+          "type": "class",
+          "name": "Header Logo 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 32px; height: 32px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7ee",
+          "fake": false,
+          "type": "class",
+          "name": "Row Tiny 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: row; justify-content: flex-start; align-items: center; grid-column-gap: 4px; grid-row-gap: 4px;",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7fd"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "93e73057-4032-6a9a-7d4e-bb53ee8eb068",
+          "fake": false,
+          "type": "class",
+          "name": "Header Background Lines",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 0%; top: 0%; right: 0%; bottom: 0%; z-index: 0; width: 100%; height: 100%; max-height: 900px; max-width: 1440px; margin-right: auto; margin-left: auto; pointer-events: none;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7f9",
+          "fake": false,
+          "type": "class",
+          "name": "Header Logos Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; overflow: hidden; width: 100%; margin-top: 100px;",
+          "variants": {
+            "medium": {
+              "styleLess": "width: 95%;"
+            }
+          },
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7fb",
+          "fake": false,
+          "type": "class",
+          "name": "Max Width Regular 3",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 550px;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "93e73057-4032-6a9a-7d4e-bb53ee8eb060",
+          "fake": false,
+          "type": "class",
+          "name": "Header Logo Row",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: space-between; flex-grow: 0; flex-shrink: 0; flex-basis: auto; grid-column-gap: 24px; grid-row-gap: 24px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "a6c4ee37-2565-f0ef-25e2-c76b8f5f3858",
+          "fake": false,
+          "type": "class",
+          "name": "Code Embed",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: none;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f800",
+          "fake": false,
+          "type": "class",
+          "name": "Column Center",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "justify-content: center; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "63699256535e221f1e84a90d",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "585e371c-0ec9-7612-7d91-23d8cc24f7ec",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph X Large 4",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 20px; line-height: 32px; letter-spacing: -0.02em;",
+          "variants": {},
+          "children": [
+            "585e371c-0ec9-7612-7d91-23d8cc24f7ff"
+          ],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e040250e635e4ebfd64e34_Arrow%20Icon.svg",
+          "siteId": "67b501190b2613705a22cf3a",
+          "width": 24,
+          "isHD": false,
+          "height": 24,
+          "fileName": "67e040250e635e4ebfd64e34_Arrow Icon.svg",
+          "createdOn": "2025-03-23T17:08:53.901Z",
+          "origFileName": "Arrow Icon.svg",
+          "fileHash": "3e20cbf3fbc64407e1a8c21c5cd4a551",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/svg+xml",
+          "isFromWellKnownFolder": false,
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e040250e635e4ebfd64e34_Arrow%20Icon.svg",
+          "_id": "67e040250e635e4ebfd64e34",
+          "updatedOn": "2025-03-23T17:08:53.902Z",
+          "markedAsDeleted": false,
+          "fileSize": 237,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/67b501190b2613705a22cf3a/67e040250e635e4ebfd64e35_Icon%20Arrow%20Up.svg",
+          "siteId": "67b501190b2613705a22cf3a",
+          "width": 18,
+          "isHD": false,
+          "height": 18,
+          "fileName": "67e040250e635e4ebfd64e35_Icon Arrow Up.svg",
+          "createdOn": "2025-03-23T17:08:53.903Z",
+          "origFileName": "Icon Arrow Up.svg",
+          "fileHash": "1c9af77c70890c6b47467b63a8149872",
+          "translationLoading": false,
+          "variants": [],
+          "mimeType": "image/svg+xml",
+          "isFromWellKnownFolder": false,
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/67b501190b2613705a22cf3a/67e040250e635e4ebfd64e35_Icon%20Arrow%20Up.svg",
+          "_id": "67e040250e635e4ebfd64e35",
+          "updatedOn": "2025-03-23T17:08:53.904Z",
+          "markedAsDeleted": false,
+          "fileSize": 247,
+          "localizedSettings": {}
+        }
+      ],
+      "ix1": [],
+      "ix2": {
+        "interactions": [
+          {
+            "id": "i-13",
+            "interactionTypeId": "SCROLL_INTO_VIEW_INTERACTION",
+            "eventIds": [
+              "e-37",
+              "e-38"
+            ],
+            "target": "67b501190b2613705a22cf41|81660073-4a8a-7190-cd2b-ec53713e46e8",
+            "createdOn": 1690531206128
+          },
+          {
+            "id": "i-14",
+            "interactionTypeId": "SCROLL_INTO_VIEW_INTERACTION",
+            "eventIds": [
+              "e-39",
+              "e-40"
+            ],
+            "target": "67b501190b2613705a22cf41|9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+            "createdOn": 1690530743604
+          }
+        ],
+        "events": [
+          {
+            "id": "e-37",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_INTO_VIEW",
+            "action": {
+              "id": "",
+              "actionTypeId": "SLIDE_EFFECT",
+              "instant": false,
+              "config": {
+                "actionListId": "SLIDE_EFFECT",
+                "autoStopEventId": "e-162"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|81660073-4a8a-7190-cd2b-ec53713e46e8",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|81660073-4a8a-7190-cd2b-ec53713e46e8",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": 300,
+              "direction": "BOTTOM",
+              "effectIn": true
+            },
+            "createdOn": 1690531206129
+          },
+          {
+            "id": "e-38",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_OUT_OF_VIEW",
+            "action": null,
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|81660073-4a8a-7190-cd2b-ec53713e46e8",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|81660073-4a8a-7190-cd2b-ec53713e46e8",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1690531206129
+          },
+          {
+            "id": "e-39",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_INTO_VIEW",
+            "action": {
+              "id": "",
+              "actionTypeId": "SLIDE_EFFECT",
+              "instant": false,
+              "config": {
+                "actionListId": "SLIDE_EFFECT",
+                "autoStopEventId": "e-40"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": 400,
+              "direction": "BOTTOM",
+              "effectIn": true
+            },
+            "createdOn": 1690530743604
+          },
+          {
+            "id": "e-40",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_OUT_OF_VIEW",
+            "action": null,
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "67b501190b2613705a22cf41|9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "67b501190b2613705a22cf41|9cd1ab8a-dcef-a1fb-0e12-2b2c51a28ae1",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1690530743604
+          }
+        ],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

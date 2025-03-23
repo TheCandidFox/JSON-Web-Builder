@@ -1,0 +1,346 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "75e2c3e5-f791-1ca4-26a6-87d16cf4ceac",
+        "type": "Section",
+        "tag": "section",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8a"
+        ],
+        "children": [
+          "3b2214b1-3ae0-adb4-43cc-2c498e8452db"
+        ],
+        "data": {
+          "tag": "section",
+          "grid": {
+            "type": "section"
+          }
+        }
+      },
+      {
+        "_id": "3b2214b1-3ae0-adb4-43cc-2c498e8452db",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8b"
+        ],
+        "children": [
+          "59b04b2d-853c-6481-e1fb-4b53deb05d2e",
+          "e45c37e5-6669-c2df-dd98-da974d82c520"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "59b04b2d-853c-6481-e1fb-4b53deb05d2e",
+        "type": "Heading",
+        "tag": "h1",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8c",
+          "39ca308f-0eed-2a2e-a939-86f8b556ce92"
+        ],
+        "children": [
+          "2fc66118-b713-188a-77d9-5f974948fe38"
+        ],
+        "data": {
+          "tag": "h1"
+        }
+      },
+      {
+        "_id": "2fc66118-b713-188a-77d9-5f974948fe38",
+        "text": true,
+        "v": "Title copy goes here"
+      },
+      {
+        "_id": "e45c37e5-6669-c2df-dd98-da974d82c520",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8d"
+        ],
+        "children": [
+          "7dec692d-fb86-124f-ecec-ade39ccc258f",
+          "09490a05-f60f-afd9-7af7-ede8345dac44"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "7dec692d-fb86-124f-ecec-ade39ccc258f",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8e"
+        ],
+        "children": [
+          "c98d393f-420d-e1e5-c0aa-d05e8bcd2a9c",
+          "d7d54361-f396-205e-d3f7-0eee95637bd5"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "c98d393f-420d-e1e5-c0aa-d05e8bcd2a9c",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8f"
+        ],
+        "children": [
+          "95906a54-37d8-c126-e11f-ab91f2b7bea6"
+        ]
+      },
+      {
+        "_id": "95906a54-37d8-c126-e11f-ab91f2b7bea6",
+        "text": true,
+        "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum. Proin viverra nulla sem, vel molestie lacus volutpat nec. Integer ut bibendum erat."
+      },
+      {
+        "_id": "d7d54361-f396-205e-d3f7-0eee95637bd5",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce90"
+        ],
+        "children": [
+          "cb850235-e53c-4d73-6308-c5994df208c9"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "eventIds": []
+        }
+      },
+      {
+        "_id": "cb850235-e53c-4d73-6308-c5994df208c9",
+        "text": true,
+        "v": "Start for free"
+      },
+      {
+        "_id": "09490a05-f60f-afd9-7af7-ede8345dac44",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce8e"
+        ],
+        "children": [
+          "ad1eae6c-adaa-aab7-493a-795361d2af77"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div"
+        }
+      },
+      {
+        "_id": "ad1eae6c-adaa-aab7-493a-795361d2af77",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce91"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "6272fda04a4076844bce87d2"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a28a812aad9_placeholder%202.svg",
+            "loading": "lazy"
+          },
+          "sizes": []
+        }
+      }
+    ],
+    "styles": [
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8c",
+        "fake": false,
+        "type": "class",
+        "name": "Centered Heading",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 16px; text-align: center;",
+        "variants": {
+          "tiny": {
+            "styleLess": "margin-bottom: 24px;"
+          }
+        },
+        "children": [
+          "39ca308f-0eed-2a2e-a939-86f8b556ce92"
+        ],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce91",
+        "fake": false,
+        "type": "class",
+        "name": "Shadow Two",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "box-shadow: 0 4px 24px 0 hsla(214.83870967741936, 17.32%, 64.90%, 0.08);",
+        "variants": {},
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8a",
+        "fake": false,
+        "type": "class",
+        "name": "Hero Heading Center",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; padding-top: 80px; padding-right: 30px; padding-bottom: 80px; padding-left: 30px; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(212.00000000000006, 38.46%, 92.35%, 1.00); background-color: hsla(216, 33.33%, 97.06%, 1.00);",
+        "variants": {
+          "small": {
+            "styleLess": "padding-top: 60px; padding-right: 15px; padding-bottom: 60px; padding-left: 15px;"
+          }
+        },
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8e",
+        "fake": false,
+        "type": "class",
+        "name": "Hero Split",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; max-width: 46%; flex-direction: column; justify-content: flex-start; align-items: flex-start;",
+        "variants": {
+          "medium": {
+            "styleLess": "max-width: 100%; margin-bottom: 40px;"
+          }
+        },
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce90",
+        "fake": false,
+        "type": "class",
+        "name": "Button Primary 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 12px; padding-right: 25px; padding-bottom: 12px; padding-left: 25px; background-color: #1a1b1f; transition-property: all; transition-duration: 200ms; transition-timing-function: ease; color: hsla(0, 0.00%, 100.00%, 1.00); font-size: 12px; line-height: 20px; letter-spacing: 2px; text-transform: uppercase;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: #32343a; color: hsla(0, 0.00%, 100.00%, 1.00);"
+          },
+          "main_active": {
+            "styleLess": "background-color: #43464d;"
+          }
+        },
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8d",
+        "fake": false,
+        "type": "class",
+        "name": "Hero Wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; justify-content: space-between; align-items: center;",
+        "variants": {
+          "medium": {
+            "styleLess": "margin-bottom: -40px; flex-direction: column; justify-content: flex-start; align-items: flex-start;"
+          }
+        },
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8b",
+        "fake": false,
+        "type": "class",
+        "name": "Container 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100%; max-width: 940px; margin-right: auto; margin-left: auto;",
+        "variants": {
+          "medium": {
+            "styleLess": "max-width: 728px;"
+          },
+          "tiny": {
+            "styleLess": "max-width: none;"
+          }
+        },
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8f",
+        "fake": false,
+        "type": "class",
+        "name": "Margin bottom 24px 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 24px;",
+        "variants": {},
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce92",
+        "fake": false,
+        "type": "class",
+        "name": "Margin bottom 32px",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "margin-bottom: 32px;",
+        "variants": {},
+        "children": [],
+        "pluginType": "PrebuiltLayouts",
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [],
+    "ix1": [],
+    "ix2": {
+      "interactions": [],
+      "events": [],
+      "actionLists": []
+    }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}

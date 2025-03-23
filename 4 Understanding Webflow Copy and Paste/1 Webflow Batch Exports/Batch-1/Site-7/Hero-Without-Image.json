@@ -1,0 +1,219 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "f114e519-7aa0-21eb-160d-fa6c4f54407b",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "beb11fe2-7787-3e39-9cb4-5ca178ee506f"
+          ],
+          "children": [
+            "06e7ea7e-a547-4a96-ad60-70511823fcc5"
+          ],
+          "data": {
+            "tag": "section",
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "06e7ea7e-a547-4a96-ad60-70511823fcc5",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8b"
+          ],
+          "children": [
+            "40309311-036d-e691-081b-7814e61a3f12"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "40309311-036d-e691-081b-7814e61a3f12",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "beb11fe2-7787-3e39-9cb4-5ca178ee5070"
+          ],
+          "children": [
+            "0794729e-0065-bd15-fefb-edd9fe449284",
+            "6d6e3f67-3ff3-34e9-d464-878f26605942",
+            "74538ebc-d9d3-7b39-523e-fa7a29aca9a0"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div"
+          }
+        },
+        {
+          "_id": "0794729e-0065-bd15-fefb-edd9fe449284",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [],
+          "children": [
+            "b5cbd890-d511-9e09-37f0-18b3c64668b5"
+          ],
+          "data": {
+            "tag": "h1"
+          }
+        },
+        {
+          "_id": "b5cbd890-d511-9e09-37f0-18b3c64668b5",
+          "text": true,
+          "v": "Title copy goes here"
+        },
+        {
+          "_id": "6d6e3f67-3ff3-34e9-d464-878f26605942",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce8f"
+          ],
+          "children": [
+            "99edf88e-9d77-f0d8-1bf5-854fc358cc16"
+          ]
+        },
+        {
+          "_id": "99edf88e-9d77-f0d8-1bf5-854fc358cc16",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem. Etiam sodales ac felis id interdum."
+        },
+        {
+          "_id": "74538ebc-d9d3-7b39-523e-fa7a29aca9a0",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "39ca308f-0eed-2a2e-a939-86f8b556ce90"
+          ],
+          "children": [
+            "2d596522-c1fa-c3ea-9587-384888ac8962"
+          ],
+          "data": {
+            "button": true,
+            "block": "",
+            "link": {
+              "mode": "external",
+              "url": "#"
+            },
+            "eventIds": []
+          }
+        },
+        {
+          "_id": "2d596522-c1fa-c3ea-9587-384888ac8962",
+          "text": true,
+          "v": "Get Started"
+        }
+      ],
+      "styles": [
+        {
+          "_id": "beb11fe2-7787-3e39-9cb4-5ca178ee506f",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Without Image",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 80px; padding-right: 30px; padding-bottom: 80px; padding-left: 30px; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(212.00000000000006, 38.46%, 92.35%, 1.00); background-color: hsla(216, 33.33%, 97.06%, 1.00);",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 60px; padding-right: 15px; padding-bottom: 60px; padding-left: 15px;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8b",
+          "fake": false,
+          "type": "class",
+          "name": "Container 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; max-width: 940px; margin-right: auto; margin-left: auto;",
+          "variants": {
+            "medium": {
+              "styleLess": "max-width: 728px;"
+            },
+            "tiny": {
+              "styleLess": "max-width: none;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "beb11fe2-7787-3e39-9cb4-5ca178ee5070",
+          "fake": false,
+          "type": "class",
+          "name": "Hero Wrapper Two 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; max-width: 750px; margin-right: auto; margin-left: auto; flex-direction: column; justify-content: flex-start; align-items: center; text-align: center;",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce8f",
+          "fake": false,
+          "type": "class",
+          "name": "Margin bottom 24px 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 24px;",
+          "variants": {},
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "39ca308f-0eed-2a2e-a939-86f8b556ce90",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary 2",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "padding-top: 12px; padding-right: 25px; padding-bottom: 12px; padding-left: 25px; background-color: #1a1b1f; transition-property: all; transition-duration: 200ms; transition-timing-function: ease; color: hsla(0, 0.00%, 100.00%, 1.00); font-size: 12px; line-height: 20px; letter-spacing: 2px; text-transform: uppercase;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "background-color: #32343a; color: hsla(0, 0.00%, 100.00%, 1.00);"
+            },
+            "main_active": {
+              "styleLess": "background-color: #43464d;"
+            }
+          },
+          "children": [],
+          "pluginType": "PrebuiltLayouts",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [],
+      "ix1": [],
+      "ix2": {
+        "interactions": [],
+        "events": [],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 0,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }

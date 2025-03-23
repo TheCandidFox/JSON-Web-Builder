@@ -1,0 +1,2425 @@
+{
+    "type": "@webflow/XscpData",
+    "payload": {
+      "nodes": [
+        {
+          "_id": "06be99bc-2632-01f0-7860-545d8f10cf2f",
+          "type": "Section",
+          "tag": "section",
+          "classes": [
+            "ed7ec37b-7f0c-40b2-b8dd-5a775033c4ac",
+            "181b6e76-c9aa-e3d7-12e3-216817320d35"
+          ],
+          "children": [
+            "17e84eb0-dbbf-0d46-2f65-1655c86fa772",
+            "6664622d-a729-4c09-056a-6a60e604e9a0"
+          ],
+          "data": {
+            "tag": "section",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            },
+            "grid": {
+              "type": "section"
+            }
+          }
+        },
+        {
+          "_id": "17e84eb0-dbbf-0d46-2f65-1655c86fa772",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ed7ec37b-7f0c-40b2-b8dd-5a775033c4c3"
+          ],
+          "children": [
+            "964e69b5-cddc-822e-169d-d88cf91ec31d"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "964e69b5-cddc-822e-169d-d88cf91ec31d",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "217b4c5e-70a5-36bd-61a8-7f5199a62b46"
+          ],
+          "children": [
+            "318e34f4-511f-f4a0-8846-ea63b99c564e",
+            "b60df56e-a366-b506-ad86-9c98f219882b"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "318e34f4-511f-f4a0-8846-ea63b99c564e",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "ed7ec37b-7f0c-40b2-b8dd-5a775033c506"
+          ],
+          "children": [
+            "a4b91b36-1592-2143-1b7e-c01b4f0fbaa3",
+            "874dab48-7979-e3a7-25de-0424a89bc2d1"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a4b91b36-1592-2143-1b7e-c01b4f0fbaa3",
+          "type": "Heading",
+          "tag": "h1",
+          "classes": [
+            "46563930-cd50-0315-0288-b77f1f5fb43f"
+          ],
+          "children": [
+            "b86b7a7d-69d1-bfbc-4a6c-716b20d50181"
+          ],
+          "data": {
+            "tag": "h1",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b86b7a7d-69d1-bfbc-4a6c-716b20d50181",
+          "text": true,
+          "v": "We craft engaging digital experiences."
+        },
+        {
+          "_id": "874dab48-7979-e3a7-25de-0424a89bc2d1",
+          "type": "Paragraph",
+          "tag": "p",
+          "classes": [
+            "ed7ec37b-7f0c-40b2-b8dd-5a775033c52a"
+          ],
+          "children": [
+            "bfdcbf62-0527-03bd-805c-c367f5e86d92"
+          ],
+          "data": {
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "bfdcbf62-0527-03bd-805c-c367f5e86d92",
+          "text": true,
+          "v": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et est est. Nulla eget elit mattis, viverra quam non, porta tellus."
+        },
+        {
+          "_id": "b60df56e-a366-b506-ad86-9c98f219882b",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "6c3a69d5-649f-6dea-7fd5-de7531815a30"
+          ],
+          "children": [
+            "13e554a1-694d-b66d-51c0-90ec3b0b8f6f",
+            "45c9ba72-bb32-5ac7-a602-fe1a235d28d9"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "13e554a1-694d-b66d-51c0-90ec3b0b8f6f",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "00d18752-f0fb-b681-4839-836dc6b86a5b"
+          ],
+          "children": [
+            "88fb1e20-40f6-530c-7459-293cd5e1c72c",
+            "7c9461c8-e01d-eaf0-3dfd-de817a463ff1"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "href": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": "",
+              "href": "#"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "88fb1e20-40f6-530c-7459-293cd5e1c72c",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "cf801618-dcba-4c39-395e-c78249a0304c"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "cf801618-dcba-4c39-395e-c78249a0304c",
+          "text": true,
+          "v": "Let's craft together"
+        },
+        {
+          "_id": "7c9461c8-e01d-eaf0-3dfd-de817a463ff1",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [
+            "aae404a9-80bc-dbe0-4c94-139b1552b934"
+          ],
+          "children": [],
+          "v": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.47251 8.66681H10.9192L7.66585 11.9201C7.40585 12.1801 7.40585 12.6068 7.66585 12.8668C7.92585 13.1268 8.34585 13.1268 8.60585 12.8668L12.9992 8.47348C13.2592 8.21348 13.2592 7.79348 12.9992 7.53348L8.61251 3.13348C8.35251 2.87348 7.93251 2.87348 7.67251 3.13348C7.41251 3.39348 7.41251 3.81348 7.67251 4.07348L10.9192 7.33348H3.47251C3.10585 7.33348 2.80585 7.63348 2.80585 8.00014C2.80585 8.36681 3.10585 8.66681 3.47251 8.66681Z\" fill=\"currentColor\"/>\n</svg>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.47251 8.66681H10.9192L7.66585 11.9201C7.40585 12.1801 7.40585 12.6068 7.66585 12.8668C7.92585 13.1268 8.34585 13.1268 8.60585 12.8668L12.9992 8.47348C13.2592 8.21348 13.2592 7.79348 12.9992 7.53348L8.61251 3.13348C8.35251 2.87348 7.93251 2.87348 7.67251 3.13348C7.41251 3.39348 7.41251 3.81348 7.67251 4.07348L10.9192 7.33348H3.47251C3.10585 7.33348 2.80585 7.63348 2.80585 8.00014C2.80585 8.36681 3.10585 8.66681 3.47251 8.66681Z\" fill=\"currentColor\"/>\n</svg>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "45c9ba72-bb32-5ac7-a602-fe1a235d28d9",
+          "type": "Link",
+          "tag": "a",
+          "classes": [
+            "dc83f482-8cef-8fa7-7c39-3a5a3d287195"
+          ],
+          "children": [
+            "0e23c1fa-ccbb-d009-be84-9908f74fa236"
+          ],
+          "data": {
+            "button": false,
+            "block": "inline",
+            "link": {
+              "mode": "external",
+              "href": "#"
+            },
+            "eventIds": [],
+            "attr": {
+              "id": "",
+              "href": "#"
+            },
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "0e23c1fa-ccbb-d009-be84-9908f74fa236",
+          "type": "Block",
+          "tag": "div",
+          "classes": [],
+          "children": [
+            "3f95e82b-ff73-0ea1-27b7-0716b7d55f04"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3f95e82b-ff73-0ea1-27b7-0716b7d55f04",
+          "text": true,
+          "v": "View all work"
+        },
+        {
+          "_id": "6664622d-a729-4c09-056a-6a60e604e9a0",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6fdef88-a38c-10b4-9394-ae685127d629"
+          ],
+          "children": [
+            "03df8e3e-bb28-45cd-bc7b-dfaa6c078a05",
+            "ef828797-b018-8210-d82a-b37b81a2ca28"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "03df8e3e-bb28-45cd-bc7b-dfaa6c078a05",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "953bd2a9-7b2e-6a15-13c5-d16e5f931298"
+          ],
+          "children": [
+            "00e95ca2-9af1-ac25-ec1c-f7d773bf4f4b",
+            "8ff998fe-d0aa-600f-a123-3115486c0534"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "00e95ca2-9af1-ac25-ec1c-f7d773bf4f4b",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "c2335a10-9293-74cb-a522-500316c761b3"
+          ],
+          "children": [
+            "33130069-aa24-e9a6-3787-a2f71904c7ae",
+            "3dc9fa36-58f0-0b77-0f84-62a751995217",
+            "4384760a-3ed7-9b56-626d-99d90f51fc54",
+            "38cc12ff-1959-cb4d-f751-f3e046000aba"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "33130069-aa24-e9a6-3787-a2f71904c7ae",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "93d310c0-e93d-4cce-5429-6cf45f7b864d",
+            "3f814ef1-d444-40c7-575e-1a98a19b6b17"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "93d310c0-e93d-4cce-5429-6cf45f7b864d",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d200ceda9e2a720fc5"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3f814ef1-d444-40c7-575e-1a98a19b6b17",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "c8e3524d-1461-138d-1062-5ea1cc8d55d0"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c8e3524d-1461-138d-1062-5ea1cc8d55d0",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "b54410ef-70e5-e686-fbfc-e9e66c3ca916"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b54410ef-70e5-e686-fbfc-e9e66c3ca916",
+          "text": true,
+          "v": "Natural Soap®"
+        },
+        {
+          "_id": "3dc9fa36-58f0-0b77-0f84-62a751995217",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "275c0f10-bd53-a023-b00d-7e5e645fa3e9",
+            "43e416ce-9596-d85c-0c8e-93722a006c01"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "275c0f10-bd53-a023-b00d-7e5e645fa3e9",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d2b49442553dd89a84"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "43e416ce-9596-d85c-0c8e-93722a006c01",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "d221ebf7-ffb1-e86a-9b4d-037bb69d2af1"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "d221ebf7-ffb1-e86a-9b4d-037bb69d2af1",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "033cf66b-8942-85bf-cd8f-edbd37823804"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "033cf66b-8942-85bf-cd8f-edbd37823804",
+          "text": true,
+          "v": "Quack®"
+        },
+        {
+          "_id": "4384760a-3ed7-9b56-626d-99d90f51fc54",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "4e907448-6492-a4a5-b8e0-4046bad411cb",
+            "9d1f3203-14ef-12cc-eff3-f723c293d1e7"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4e907448-6492-a4a5-b8e0-4046bad411cb",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d2967b11f0ecb0f47d"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "9d1f3203-14ef-12cc-eff3-f723c293d1e7",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "14639905-7f02-89f6-5433-83ba2b5308db"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "14639905-7f02-89f6-5433-83ba2b5308db",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "f8a0e662-444e-5187-539a-98cfb9d28e5e"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "f8a0e662-444e-5187-539a-98cfb9d28e5e",
+          "text": true,
+          "v": "Woodn®"
+        },
+        {
+          "_id": "38cc12ff-1959-cb4d-f751-f3e046000aba",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "00890f1f-7a6e-5418-fc55-f13bc305d11e",
+            "a0cda255-fe46-5b1a-6c4a-771acba37aae"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "00890f1f-7a6e-5418-fc55-f13bc305d11e",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d239fff20009022407"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a0cda255-fe46-5b1a-6c4a-771acba37aae",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "b0731b45-736d-3657-90bc-dd675e8172f0"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "b0731b45-736d-3657-90bc-dd675e8172f0",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "2aeff3a8-8321-7c2d-a326-ab9ae384345f"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "2aeff3a8-8321-7c2d-a326-ab9ae384345f",
+          "text": true,
+          "v": "Socialia"
+        },
+        {
+          "_id": "8ff998fe-d0aa-600f-a123-3115486c0534",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "c2335a10-9293-74cb-a522-500316c761b3"
+          ],
+          "children": [
+            "1fa13cd9-792e-9a98-c60e-b35675a7d467",
+            "9c153da0-3386-c02f-bbad-b733259fc9f3",
+            "ed894243-ef58-a878-e04d-ab74875e2b89",
+            "14e060ed-0f66-daba-6737-f80d978c3567"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1fa13cd9-792e-9a98-c60e-b35675a7d467",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "792377ae-7a78-9628-eccd-5b4ca578ed6b",
+            "4ce87af4-63ff-c7f9-9073-f24eef3a2c00"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "792377ae-7a78-9628-eccd-5b4ca578ed6b",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d200ceda9e2a720fc5"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "4ce87af4-63ff-c7f9-9073-f24eef3a2c00",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "52fb2ce9-232b-de61-c722-9d0e75ebd866"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "52fb2ce9-232b-de61-c722-9d0e75ebd866",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "1a4d0205-9d16-e14d-6405-b8ae101fce07"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "1a4d0205-9d16-e14d-6405-b8ae101fce07",
+          "text": true,
+          "v": "Natural Soap®"
+        },
+        {
+          "_id": "9c153da0-3386-c02f-bbad-b733259fc9f3",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "8707525d-3c59-7672-2249-c8496a4569d7",
+            "35376c2a-2485-67e3-1845-c261009cbf61"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "8707525d-3c59-7672-2249-c8496a4569d7",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d2b49442553dd89a84"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "35376c2a-2485-67e3-1845-c261009cbf61",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "c3ee37d9-b601-22fe-b029-0b1f1a11db24"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "c3ee37d9-b601-22fe-b029-0b1f1a11db24",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "3a0fe892-c29d-8660-c817-fa53c20d98ad"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "3a0fe892-c29d-8660-c817-fa53c20d98ad",
+          "text": true,
+          "v": "Quack®"
+        },
+        {
+          "_id": "ed894243-ef58-a878-e04d-ab74875e2b89",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "bb023906-5684-6b44-adeb-c944ac4f671d",
+            "8320a485-1cd4-a014-b840-a0eab34370a1"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "bb023906-5684-6b44-adeb-c944ac4f671d",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d2967b11f0ecb0f47d"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "8320a485-1cd4-a014-b840-a0eab34370a1",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "9ed11f01-1e4f-b1b5-429e-c42be8907343"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "9ed11f01-1e4f-b1b5-429e-c42be8907343",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "a73c7475-b5f8-e55f-1277-41895252e56f"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a73c7475-b5f8-e55f-1277-41895252e56f",
+          "text": true,
+          "v": "Woodn®"
+        },
+        {
+          "_id": "14e060ed-0f66-daba-6737-f80d978c3567",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "d6625912-6b07-ec1e-1e53-ebd45841cd1c"
+          ],
+          "children": [
+            "a5ee409f-f539-a6d6-27ec-1a9b4aba4a5a",
+            "320de341-8093-f330-4fe7-3b05e9d45097"
+          ],
+          "data": {
+            "text": false,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "a5ee409f-f539-a6d6-27ec-1a9b4aba4a5a",
+          "type": "Image",
+          "tag": "img",
+          "classes": [
+            "f24db4c5-1c72-d049-6a32-53fae5592e74"
+          ],
+          "children": [],
+          "data": {
+            "img": {
+              "id": "666e97d239fff20009022407"
+            },
+            "srcsetDisabled": false,
+            "attr": {
+              "width": "588",
+              "height": "auto",
+              "alt": "__wf_reserved_inherit",
+              "src": "https://uploads-ssl.webflow.com/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005.png",
+              "loading": "lazy",
+              "id": ""
+            },
+            "sizes": [
+              {
+                "max": 767,
+                "size": "404px"
+              },
+              {
+                "max": 10000,
+                "size": "572px"
+              }
+            ],
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "320de341-8093-f330-4fe7-3b05e9d45097",
+          "type": "VFlex",
+          "tag": "div",
+          "classes": [
+            "540e230a-162d-fd01-38e7-b0d912c04d8f"
+          ],
+          "children": [
+            "f663fd77-6bd6-f261-f90f-9f1064254423"
+          ],
+          "data": {
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "f663fd77-6bd6-f261-f90f-9f1064254423",
+          "type": "Block",
+          "tag": "div",
+          "classes": [
+            "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "children": [
+            "ad7691f4-d7b5-8456-17b2-efdaf4a4b994"
+          ],
+          "data": {
+            "text": true,
+            "tag": "div",
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "search": {
+              "exclude": false
+            },
+            "visibility": {
+              "conditions": []
+            }
+          }
+        },
+        {
+          "_id": "ad7691f4-d7b5-8456-17b2-efdaf4a4b994",
+          "text": true,
+          "v": "Socialia"
+        },
+        {
+          "_id": "ef828797-b018-8210-d82a-b37b81a2ca28",
+          "type": "HtmlEmbed",
+          "tag": "div",
+          "classes": [],
+          "children": [],
+          "v": "<style>\n/* MARQUEE LOGO*/\n.header-carousel {\nwill-change: transform;\nanimation: work-example 44s linear infinite;\n/* manipulate the speed of the marquee by changing \"40s\" line above*/\n}\n\n@keyframes work-example {\nfrom { transform: translateX(0%); }\nto { transform: translateX(-50%); }\n}\n</style>",
+          "data": {
+            "search": {
+              "exclude": true
+            },
+            "embed": {
+              "meta": {
+                "html": "<style>\n/* MARQUEE LOGO*/\n.header-carousel {\nwill-change: transform;\nanimation: work-example 44s linear infinite;\n/* manipulate the speed of the marquee by changing \"40s\" line above*/\n}\n\n@keyframes work-example {\nfrom { transform: translateX(0%); }\nto { transform: translateX(-50%); }\n}\n</style>",
+                "div": false,
+                "script": false,
+                "compilable": false,
+                "iframe": false
+              },
+              "type": "html"
+            },
+            "insideRTE": false,
+            "devlink": {
+              "runtimeProps": {},
+              "slot": ""
+            },
+            "displayName": "",
+            "attr": {
+              "id": ""
+            },
+            "xattr": [],
+            "visibility": {
+              "conditions": []
+            }
+          }
+        }
+      ],
+      "styles": [
+        {
+          "_id": "953bd2a9-7b2e-6a15-13c5-d16e5f931298",
+          "fake": false,
+          "type": "class",
+          "name": "Header Carousel",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: flex-start; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "c2335a10-9293-74cb-a522-500316c761b3",
+          "fake": false,
+          "type": "class",
+          "name": "Header Carousel Block",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; justify-content: flex-start; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "217b4c5e-70a5-36bd-61a8-7f5199a62b46",
+          "fake": false,
+          "type": "class",
+          "name": "Header Column",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; max-width: 690px; flex-direction: column; flex-wrap: nowrap; grid-column-gap: 48px; grid-row-gap: 48px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "aae404a9-80bc-dbe0-4c94-139b1552b934",
+          "fake": false,
+          "type": "class",
+          "name": "Icon X Small",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; width: 16px; height: 16px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "540e230a-162d-fd01-38e7-b0d912c04d8f",
+          "fake": false,
+          "type": "class",
+          "name": "Header Carousel Title",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: absolute; left: 24px; right: 24px; justify-content: center; align-items: center;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d6625912-6b07-ec1e-1e53-ebd45841cd1c",
+          "fake": false,
+          "type": "class",
+          "name": "Header Carousel Item",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; display: flex; overflow: hidden; max-width: 588px; margin-right: 12px; margin-left: 12px; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px; justify-content: center; align-items: center; border-top-left-radius: 16px; border-top-right-radius: 16px; border-bottom-left-radius: 16px; border-bottom-right-radius: 16px; color: white;",
+          "variants": {
+            "small": {
+              "styleLess": "max-width: 420px;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "6c3a69d5-649f-6dea-7fd5-de7531815a30",
+          "fake": false,
+          "type": "class",
+          "name": "Button Group",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; align-items: center; grid-column-gap: 8px; grid-row-gap: 8px;",
+          "variants": {
+            "tiny": {
+              "styleLess": "flex-direction: column; align-items: flex-start;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "d6fdef88-a38c-10b4-9394-ae685127d629",
+          "fake": false,
+          "type": "class",
+          "name": "Header Carousel Wrapper",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; margin-top: 120px; justify-content: flex-start; align-items: center;",
+          "variants": {
+            "small": {
+              "styleLess": "margin-top: 96px;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "dc83f482-8cef-8fa7-7c39-3a5a3d287195",
+          "fake": false,
+          "type": "class",
+          "name": "Button Outline",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; height: 56px; padding-top: 12px; padding-right: 24px; padding-bottom: 12px; padding-left: 24px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #e0e0e0; border-right-style: solid; border-right-width: 1px; border-right-color: #e0e0e0; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #e0e0e0; border-left-style: solid; border-left-width: 1px; border-left-color: #e0e0e0; border-top-left-radius: 99px; border-top-right-radius: 99px; border-bottom-left-radius: 99px; border-bottom-right-radius: 99px; background-color: transparent; transition-property: background-color, color; transition-duration: 200ms, 200ms; transition-timing-function: ease, ease; color: black; font-size: 18px; line-height: 24px; font-weight: 700; text-align: center; letter-spacing: -0.02em;",
+          "variants": {
+            "main_focus": {
+              "styleLess": "border-top-color: #141414; border-right-color: #141414; border-bottom-color: #141414; border-left-color: #141414;"
+            },
+            "main_hover": {
+              "styleLess": "background-color: black; color: hsla(0, 0.00%, 100.00%, 1.00);"
+            },
+            "tiny": {
+              "styleLess": "width: 100%;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "8ef2d237-00c3-3a80-a713-e34a48afebcd",
+          "fake": false,
+          "type": "class",
+          "name": "H3 Heading",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; color: black; font-size: 48px; line-height: 1.4; font-weight: 700; letter-spacing: -0.04em;",
+          "variants": {
+            "small": {
+              "styleLess": "font-size: 40px;"
+            }
+          },
+          "children": [
+            "7734de8d-f541-b39b-b814-cffc741a1115",
+            "c091d170-16b5-498a-d5a3-c5baddc6e39e"
+          ],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "c091d170-16b5-498a-d5a3-c5baddc6e39e",
+          "fake": false,
+          "type": "class",
+          "name": "Text Color White",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "color: white;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "f24db4c5-1c72-d049-6a32-53fae5592e74",
+          "fake": false,
+          "type": "class",
+          "name": "Header Carousel Image",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "width: 100%; height: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; object-fit: cover;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ed7ec37b-7f0c-40b2-b8dd-5a775033c506",
+          "fake": false,
+          "type": "class",
+          "name": "Column X Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; flex-direction: column; align-items: stretch; grid-column-gap: 32px; grid-row-gap: 32px;",
+          "variants": {},
+          "children": [],
+          "createdBy": "58b4b8186ceb395341fcf640",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ed7ec37b-7f0c-40b2-b8dd-5a775033c4c3",
+          "fake": false,
+          "type": "class",
+          "name": "Container Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; width: 100%; max-width: 1280px; margin-right: auto; margin-left: auto;",
+          "variants": {},
+          "children": [],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ed7ec37b-7f0c-40b2-b8dd-5a775033c4ac",
+          "fake": false,
+          "type": "class",
+          "name": "Section Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "position: relative; padding-top: 120px; padding-right: 5%; padding-bottom: 120px; padding-left: 5%;",
+          "variants": {
+            "small": {
+              "styleLess": "padding-top: 72px; padding-bottom: 72px;"
+            }
+          },
+          "children": [
+            "c941d23f-4ef5-3084-817e-40944d12fde7",
+            "568a29ac-c0a2-4eed-f20c-1c2ab5d2a9ca",
+            "181b6e76-c9aa-e3d7-12e3-216817320d35"
+          ],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "ed7ec37b-7f0c-40b2-b8dd-5a775033c52a",
+          "fake": false,
+          "type": "class",
+          "name": "Paragraph Large",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-bottom: 0px; font-size: 18px; line-height: 1.8; letter-spacing: -0.015em;",
+          "variants": {},
+          "children": [
+            "6c7158af-e529-a7d4-b0e2-6eb3c691d2c3",
+            "28ff4e1e-f1be-d655-db76-e3f77eb04793",
+            "80625b21-518b-bba4-11fc-0ef3bfd45ad7"
+          ],
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "46563930-cd50-0315-0288-b77f1f5fb43f",
+          "fake": false,
+          "type": "class",
+          "name": "H1 Heading",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "margin-top: 0px; margin-bottom: 0px; color: black; font-size: 64px; line-height: 1.2; font-weight: 700; letter-spacing: -0.04em;",
+          "variants": {
+            "small": {
+              "styleLess": "font-size: 48px;"
+            }
+          },
+          "children": [
+            "e87ae864-f7a4-9f97-82e2-60b7bc593abe"
+          ],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "181b6e76-c9aa-e3d7-12e3-216817320d35",
+          "fake": false,
+          "type": "class",
+          "name": "Overlay",
+          "namespace": "",
+          "comb": "&",
+          "styleLess": "overflow: hidden;",
+          "variants": {},
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        },
+        {
+          "_id": "00d18752-f0fb-b681-4839-836dc6b86a5b",
+          "fake": false,
+          "type": "class",
+          "name": "Button Primary",
+          "namespace": "",
+          "comb": "",
+          "styleLess": "display: flex; height: 56px; padding-top: 12px; padding-right: 24px; padding-bottom: 12px; padding-left: 24px; justify-content: center; align-items: center; flex-grow: 0; flex-shrink: 0; flex-basis: auto; grid-column-gap: 8px; grid-row-gap: 8px; border-top-left-radius: 99px; border-top-right-radius: 99px; border-bottom-left-radius: 99px; border-bottom-right-radius: 99px; background-color: #141414; transition-property: background-color; transition-duration: 300ms; transition-timing-function: ease; color: whitesmoke; font-size: 18px; line-height: 24px; font-weight: 700; letter-spacing: -0.02em;",
+          "variants": {
+            "main_hover": {
+              "styleLess": "background-color: #3d3d3d;"
+            },
+            "tiny": {
+              "styleLess": "width: 100%;"
+            }
+          },
+          "children": [],
+          "createdBy": "636b603b0271e5548ee53ad6",
+          "origin": null,
+          "selector": null
+        }
+      ],
+      "assets": [
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004.png",
+          "siteId": "64573f019974af1f8c5c61c2",
+          "width": 1176,
+          "isHD": false,
+          "height": 640,
+          "fileName": "666e97d200ceda9e2a720fc5_Carousel Image 04.png",
+          "createdOn": "2024-06-16T07:44:18.616Z",
+          "origFileName": "Carousel Image 04.png",
+          "fileHash": "d8e5b70105e48e53519ac6d5f5f0b9ff",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-500.png",
+              "origFileName": "Carousel%20Image%2004-p-500.png",
+              "fileName": "666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-500.png",
+              "size": 79213,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "666e97d7dcaaa38f3d61700d",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-800.png",
+              "origFileName": "Carousel%20Image%2004-p-800.png",
+              "fileName": "666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-800.png",
+              "size": 199041,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "666e97d7dcaaa38f3d61700e",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-800.png"
+            },
+            {
+              "origFileName": "Carousel%20Image%2004-p-1080.png",
+              "fileName": "666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-1080.png",
+              "size": 360389,
+              "format": "png",
+              "width": 1080,
+              "quality": 100,
+              "error": "FILESIZE_EXCEEDS_CAP",
+              "_id": "666e97d7dcaaa38f3d61700f"
+            }
+          ],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64573f019974af1f8c5c61c2/666e97d200ceda9e2a720fc5_Carousel%20Image%2004-p-130x130q80.png",
+          "_id": "666e97d200ceda9e2a720fc5",
+          "updatedOn": "2024-06-17T06:00:04.119Z",
+          "fileSize": 321088,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002.png",
+          "siteId": "64573f019974af1f8c5c61c2",
+          "width": 1176,
+          "isHD": false,
+          "height": 640,
+          "fileName": "666e97d2b49442553dd89a84_Carousel Image 02.png",
+          "createdOn": "2024-06-16T07:44:18.598Z",
+          "origFileName": "Carousel Image 02.png",
+          "fileHash": "c6c0f5b94b6b5a384158c88e3c2f420d",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002-p-500.png",
+              "origFileName": "Carousel%20Image%2002-p-500.png",
+              "fileName": "666e97d2b49442553dd89a84_Carousel%20Image%2002-p-500.png",
+              "size": 74130,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "666e97d737138fa6309f995d",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002-p-800.png",
+              "origFileName": "Carousel%20Image%2002-p-800.png",
+              "fileName": "666e97d2b49442553dd89a84_Carousel%20Image%2002-p-800.png",
+              "size": 170862,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "666e97d737138fa6309f995e",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002-p-800.png"
+            },
+            {
+              "origFileName": "Carousel%20Image%2002-p-1080.png",
+              "fileName": "666e97d2b49442553dd89a84_Carousel%20Image%2002-p-1080.png",
+              "size": 302215,
+              "format": "png",
+              "width": 1080,
+              "quality": 100,
+              "error": "FILESIZE_EXCEEDS_CAP",
+              "_id": "666e97d737138fa6309f995f"
+            }
+          ],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64573f019974af1f8c5c61c2/666e97d2b49442553dd89a84_Carousel%20Image%2002-p-130x130q80.png",
+          "_id": "666e97d2b49442553dd89a84",
+          "updatedOn": "2024-06-17T06:00:04.120Z",
+          "fileSize": 296092,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003.png",
+          "siteId": "64573f019974af1f8c5c61c2",
+          "width": 1176,
+          "isHD": false,
+          "height": 640,
+          "fileName": "666e97d2967b11f0ecb0f47d_Carousel Image 03.png",
+          "createdOn": "2024-06-16T07:44:18.516Z",
+          "origFileName": "Carousel Image 03.png",
+          "fileHash": "7d45fbfc5c4aa9b297b7c4feb561410d",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-500.png",
+              "origFileName": "Carousel%20Image%2003-p-500.png",
+              "fileName": "666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-500.png",
+              "size": 54295,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "666e97d6522cd4f21044bd68",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-800.png",
+              "origFileName": "Carousel%20Image%2003-p-800.png",
+              "fileName": "666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-800.png",
+              "size": 108770,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "666e97d6522cd4f21044bd69",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-800.png"
+            },
+            {
+              "origFileName": "Carousel%20Image%2003-p-1080.png",
+              "fileName": "666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-1080.png",
+              "size": 169964,
+              "format": "png",
+              "width": 1080,
+              "quality": 100,
+              "error": "FILESIZE_EXCEEDS_CAP",
+              "_id": "666e97d6522cd4f21044bd6a"
+            }
+          ],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64573f019974af1f8c5c61c2/666e97d2967b11f0ecb0f47d_Carousel%20Image%2003-p-130x130q80.png",
+          "_id": "666e97d2967b11f0ecb0f47d",
+          "updatedOn": "2024-06-17T06:00:04.122Z",
+          "fileSize": 141565,
+          "localizedSettings": {}
+        },
+        {
+          "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005.png",
+          "siteId": "64573f019974af1f8c5c61c2",
+          "width": 1176,
+          "isHD": false,
+          "height": 640,
+          "fileName": "666e97d239fff20009022407_Carousel Image 05.png",
+          "createdOn": "2024-06-16T07:44:18.757Z",
+          "origFileName": "Carousel Image 05.png",
+          "fileHash": "1a630532301aecb7d936173e8f314b93",
+          "translationLoading": false,
+          "variants": [
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005-p-500.png",
+              "origFileName": "Carousel%20Image%2005-p-500.png",
+              "fileName": "666e97d239fff20009022407_Carousel%20Image%2005-p-500.png",
+              "size": 74130,
+              "format": "png",
+              "width": 500,
+              "quality": 100,
+              "_id": "666e97d5ab3113f5da370f8b",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005-p-500.png"
+            },
+            {
+              "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005-p-800.png",
+              "origFileName": "Carousel%20Image%2005-p-800.png",
+              "fileName": "666e97d239fff20009022407_Carousel%20Image%2005-p-800.png",
+              "size": 188228,
+              "format": "png",
+              "width": 800,
+              "quality": 100,
+              "_id": "666e97d5ab3113f5da370f8c",
+              "cdnUrl": "https://cdn.prod.website-files.com/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005-p-800.png"
+            },
+            {
+              "origFileName": "Carousel%20Image%2005-p-1080.png",
+              "fileName": "666e97d239fff20009022407_Carousel%20Image%2005-p-1080.png",
+              "size": 332904,
+              "format": "png",
+              "width": 1080,
+              "quality": 100,
+              "error": "FILESIZE_EXCEEDS_CAP",
+              "_id": "666e97d5ab3113f5da370f8d"
+            }
+          ],
+          "mimeType": "image/png",
+          "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005.png",
+          "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/64573f019974af1f8c5c61c2/666e97d239fff20009022407_Carousel%20Image%2005-p-130x130q80.png",
+          "_id": "666e97d239fff20009022407",
+          "updatedOn": "2024-06-17T06:00:04.117Z",
+          "fileSize": 292551,
+          "localizedSettings": {}
+        }
+      ],
+      "ix1": [],
+      "ix2": {
+        "interactions": [
+          {
+            "id": "i-269",
+            "interactionTypeId": "SCROLL_INTO_VIEW_INTERACTION",
+            "eventIds": [
+              "e-520",
+              "e-521"
+            ],
+            "target": "666e8fd5a6c58b658293bdb6|318e34f4-511f-f4a0-8846-ea63b99c564e",
+            "createdOn": 1718522031489
+          },
+          {
+            "id": "i-268",
+            "interactionTypeId": "SCROLL_INTO_VIEW_INTERACTION",
+            "eventIds": [
+              "e-518",
+              "e-519"
+            ],
+            "target": "666e8fd5a6c58b658293bdb6|b60df56e-a366-b506-ad86-9c98f219882b",
+            "createdOn": 1718521814236
+          }
+        ],
+        "events": [
+          {
+            "id": "e-520",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_INTO_VIEW",
+            "action": {
+              "id": "",
+              "actionTypeId": "SLIDE_EFFECT",
+              "instant": false,
+              "config": {
+                "actionListId": "SLIDE_EFFECT",
+                "autoStopEventId": "e-521"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "666e8fd5a6c58b658293bdb6|318e34f4-511f-f4a0-8846-ea63b99c564e",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "666e8fd5a6c58b658293bdb6|318e34f4-511f-f4a0-8846-ea63b99c564e",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": 200,
+              "direction": "RIGHT",
+              "effectIn": true
+            },
+            "createdOn": 1718522031490
+          },
+          {
+            "id": "e-521",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_OUT_OF_VIEW",
+            "action": null,
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "666e8fd5a6c58b658293bdb6|318e34f4-511f-f4a0-8846-ea63b99c564e",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "666e8fd5a6c58b658293bdb6|318e34f4-511f-f4a0-8846-ea63b99c564e",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1718522031492
+          },
+          {
+            "id": "e-518",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_INTO_VIEW",
+            "action": {
+              "id": "",
+              "actionTypeId": "SLIDE_EFFECT",
+              "instant": false,
+              "config": {
+                "actionListId": "SLIDE_EFFECT",
+                "autoStopEventId": "e-519"
+              }
+            },
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "666e8fd5a6c58b658293bdb6|b60df56e-a366-b506-ad86-9c98f219882b",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "666e8fd5a6c58b658293bdb6|b60df56e-a366-b506-ad86-9c98f219882b",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": 300,
+              "direction": "RIGHT",
+              "effectIn": true
+            },
+            "createdOn": 1718521814236
+          },
+          {
+            "id": "e-519",
+            "name": "",
+            "animationType": "preset",
+            "eventTypeId": "SCROLL_OUT_OF_VIEW",
+            "action": null,
+            "mediaQueries": [
+              "main",
+              "medium",
+              "small",
+              "tiny"
+            ],
+            "target": {
+              "id": "666e8fd5a6c58b658293bdb6|b60df56e-a366-b506-ad86-9c98f219882b",
+              "appliesTo": "ELEMENT",
+              "styleBlockIds": []
+            },
+            "targets": [
+              {
+                "id": "666e8fd5a6c58b658293bdb6|b60df56e-a366-b506-ad86-9c98f219882b",
+                "appliesTo": "ELEMENT",
+                "styleBlockIds": []
+              }
+            ],
+            "config": {
+              "loop": false,
+              "playInReverse": false,
+              "scrollOffsetValue": 0,
+              "scrollOffsetUnit": "%",
+              "delay": null,
+              "direction": null,
+              "effectIn": null
+            },
+            "createdOn": 1718521814236
+          }
+        ],
+        "actionLists": []
+      }
+    },
+    "meta": {
+      "droppedLinks": 2,
+      "dynBindRemovedCount": 0,
+      "dynListBindRemovedCount": 0,
+      "paginationRemovedCount": 0,
+      "universalBindingsRemovedCount": 0,
+      "unlinkedSymbolCount": 0
+    }
+  }
